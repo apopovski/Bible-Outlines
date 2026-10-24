@@ -18,7 +18,8 @@ export function Layout() {
       <footer className="site-footer">
         <p>
           <strong>Bible Outlines</strong> — interactive study across Scripture.
-          Genesis, Exodus, Isaiah, Daniel, John, and Revelation are ready now.
+          Genesis through Leviticus, Isaiah, Daniel, John, and Revelation are
+          ready now.
         </p>
       </footer>
     </div>

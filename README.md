@@ -24,6 +24,7 @@ Locally: `npm install && npm run dev`
 |------|--------|
 | Genesis | Available |
 | Exodus | Available |
+| Leviticus | Available |
 | Isaiah | Available |
 | Daniel | Available |
 | John | Available |

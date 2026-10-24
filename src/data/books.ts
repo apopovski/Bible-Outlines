@@ -4,6 +4,7 @@ import exodus from './exodus.json'
 import genesis from './genesis.json'
 import isaiah from './isaiah.json'
 import john from './john.json'
+import leviticus from './leviticus.json'
 import revelation from './revelation.json'
 
 export const booksCatalog: BookMeta[] = [
@@ -28,6 +29,17 @@ export const booksCatalog: BookMeta[] = [
     order: 2,
     chapters: '1–40',
     tagline: 'Redemption from Egypt, covenant at Sinai, and the sanctuary.',
+    available: true,
+  },
+  {
+    id: 'leviticus',
+    name: 'Leviticus',
+    hebrew: 'Vayikra',
+    subtitle: 'And He Called',
+    testament: 'Old Testament',
+    order: 3,
+    chapters: '1–27',
+    tagline: 'Holiness, sacrifice, and the sanctuary at the heart of the Pentateuch.',
     available: true,
   },
   {
@@ -77,6 +89,7 @@ export const booksCatalog: BookMeta[] = [
 const bookData: Record<string, BookData> = {
   genesis: genesis as BookData,
   exodus: exodus as BookData,
+  leviticus: leviticus as BookData,
   isaiah: isaiah as BookData,
   daniel: daniel as BookData,
   john: john as BookData,

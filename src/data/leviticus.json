@@ -1,0 +1,1861 @@
+{
+  "meta": {
+    "id": "leviticus",
+    "name": "Leviticus",
+    "hebrew": "Vayikra",
+    "subtitle": "And He Called",
+    "testament": "Old Testament",
+    "order": 3,
+    "chapters": "1–27",
+    "tagline": "An interactive outline of Leviticus in the Seventh-day Adventist doctrine, following Ellen G. White, Patriarchs and Prophets.",
+    "divisions": [
+      {
+        "title": "Offerings and priesthood",
+        "range": "chs. 1–10",
+        "focus": "Sacrifices, consecration, holiness of approach"
+      },
+      {
+        "title": "Purity and the Day of Atonement",
+        "range": "chs. 11–16",
+        "focus": "Clean/unclean, blood, sanctuary cleansing"
+      },
+      {
+        "title": "Holy living and vows",
+        "range": "chs. 17–27",
+        "focus": "Holiness code, feasts, sabbaths, covenant"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "I",
+      "roman": "I",
+      "title": "INTRODUCTION, AUTHORSHIP, AND STRUCTURE",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Title, authorship, and setting",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The Hebrew title, Vayikra (\"And he called\"), is taken from the book's opening word; the English title \"Leviticus\" comes from the Septuagint and refers to the Levitical priesthood, though the book is addressed to all Israel, not the priests alone. The entire book is set at Sinai, in the single month between the completion of the tabernacle (Ex. 40:17) and Israel's departure for Canaan (Num. 1:1) — the camp stationary, the newly erected sanctuary already functioning, and the nation receiving the instructions that would govern its worship and daily life.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Moses is named throughout as the recipient and mediator of its laws, the LORD speaking to him \"out of the tabernacle of the congregation\" (1:1) — Leviticus is thus the direct sequel to Exodus, moving from the construction of the sanctuary to its operation.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Leviticus as the heart of the Pentateuch",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Leviticus is the third of the five books of Moses, and structurally the center of the Pentateuch, standing at the literary and theological heart of the five books — fittingly, since its subject, how a holy God can dwell among a sinful people, is the central question the whole Pentateuch exists to answer.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The various forms of the ceremonial system were types of Christ...the varied forms of these ancient rites were full of instruction to the people, and also to us, through whom light is to come to the world.\" Patriarchs and Prophets, p. 365."
+        },
+        {
+          "letter": "C",
+          "title": "The twofold key-word: holiness",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The word \"holy\" or its cognates occurs more than ninety times in Leviticus, more concentrated than in any other book of the Bible, climaxing in the repeated command of the Holiness Code (chs. 18–20): \"Ye shall be holy: for I the LORD your God am holy\" (19:2; cf. 11:44–45; 20:7, 26) — a command Peter quotes directly to the New Testament church (1 Pet. 1:15–16).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The book's overarching logic moves outward in three concentric circles of holiness: the way of approach to God (the offerings, chs. 1–7), the mediators of approach (the priesthood, chs. 8–10), and the manner of life required of the whole camp living in proximity to God's presence (purity and holiness laws, chs. 11–27).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "II",
+      "roman": "II",
+      "title": "THE BURNT, MEAL, AND PEACE OFFERINGS (1:1–3:17)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The burnt offering: total consecration",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The burnt offering (Heb. olah, \"that which ascends\"), wholly consumed on the altar rather than eaten, pictures complete, unreserved consecration to God — the worshiper laid his hand on the animal's head (1:4), identifying himself with the sacrifice before it was slain, \"it shall be accepted for him to make atonement for him.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The offering had to be \"a male without blemish\" (1:3) — the sacrificial animal's physical perfection a standing type of the moral perfection of Christ, \"a lamb without blemish and without spot\" (1 Pet. 1:19).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The meal (grain) offering: consecrated labor",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Unlike the other offerings, the meal offering (ch. 2) involved no blood, consisting of fine flour, oil, and frankincense (sometimes baked), representing the dedication of the fruit of one's daily labor to God; it was \"most holy,\" and leaven and honey were expressly excluded from what was burned (2:11), while salt — \"the salt of the covenant\" — was required in every offering (2:13).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The peace offering: fellowship and communion",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The peace (or fellowship) offering (ch. 3) was unique among the offerings in that the worshiper, the priest, and God each received a portion — the fat burned on the altar, the breast and right shoulder given to the priests, and the remainder eaten by the offerer and his family and guests (7:11–21) — a shared sacrificial meal picturing restored fellowship and communion between God and His reconciled people.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "III",
+      "roman": "III",
+      "title": "THE SIN AND TRESPASS OFFERINGS (4:1–7:38)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The sin offering: cleansing from defilement",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The sin offering (ch. 4) addressed unintentional sin, with the size and kind of animal required graded precisely by the offender's position — a bullock for the anointed priest or the whole congregation (4:3, 14), a male kid for a ruler (4:23), a female kid or lamb for a common person (4:28, 32) — the principle that greater position and influence carries greater responsibility and a correspondingly weightier sacrifice.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "When the sin offering was for the priest or the congregation, its blood was brought \"into the tabernacle of the congregation\" and sprinkled before the veil (4:6, 17) — the sin symbolically transferred into the sanctuary itself, a pattern essential to understanding the later cleansing of the sanctuary on the Day of Atonement.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The trespass offering: restitution for specific wrongs",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The trespass (or guilt) offering (ch. 5–6) applied to specific, identifiable wrongs — against sacred things, against a neighbor's property, or through deceit — and uniquely required restitution \"with the principal, and...add unto it the fifth part\" before the sacrifice could be offered (6:4–5), establishing that reconciliation with God does not bypass responsibility to make right the wrongs done to other people.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IV",
+      "roman": "IV",
+      "title": "THE CONSECRATION OF AARON AND HIS SONS (8:1–10:20)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The seven-day ordination",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Aaron and his sons undergo a seven-day ordination (ch. 8) exactly as Moses had been commanded in Exodus 29 — washing, vesting, anointing with oil, and the blood of ordination applied to the right ear, thumb, and big toe (8:23–24), consecrating the priest's hearing, actions, and walk entirely to sacred service. On the eighth day, fire comes out from before the LORD and consumes the offering on the altar, and \"all the people shouted, and fell on their faces\" (9:24) — visible, public divine acceptance of the newly inaugurated priesthood.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Nadab and Abihu: strange fire",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Immediately following this high moment, Aaron's own sons Nadab and Abihu \"offered strange fire before the LORD, which he commanded them not\" (10:1), and \"there went out fire from the LORD, and devoured them\" (10:2) — a sobering demonstration that the privilege of priestly access to God's presence carries an correspondingly severe responsibility for reverence and exact obedience, not personal innovation in sacred service.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The incident is immediately followed by a prohibition against priests drinking wine or strong drink when ministering, \"that ye may put difference between holy and unholy, and between unclean and clean\" (10:9–10) — suggesting the tragedy may have involved impaired judgment, and in any case tying sober-mindedness directly to the priestly calling.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "V",
+      "roman": "V",
+      "title": "CLEAN AND UNCLEAN: FOOD, CHILDBIRTH, AND DISEASE (11:1–15:33)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Clean and unclean foods",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 11 details which land animals, water creatures, birds, and insects may be eaten and which not — animals that both \"parteth the hoof, and is clovenfooted, and cheweth the cud\" are clean (11:3), while those meeting only one criterion, such as the pig (which parts the hoof but does not chew the cud, 11:7), are not; aquatic creatures must have both fins and scales (11:9–12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The stated rationale is explicitly holiness, not merely ceremonial distinction: \"ye shall be holy; for I am holy...I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy\" (11:44–45) — a principle predating Sinai (cf. the clean/unclean distinction already known to Noah, Gen. 7:2) and never formally repealed in Scripture.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Purification after childbirth and skin disease",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapters 12–15 extend the principle of ceremonial purity to childbirth, skin diseases (commonly though imprecisely translated \"leprosy\"), mildew in garments and houses, and bodily discharges — an extensive public-health and spiritual-symbolism system in which physical corruption and decay consistently serve as object lessons of the defiling, spreading nature of sin, with priests functioning as the diagnosticians charged to \"discern between the unclean and the clean\" (cf. 13:1–46; 10:10).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VI",
+      "roman": "VI",
+      "title": "THE DAY OF ATONEMENT (16:1–34)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The high priest's unique entrance into the Most Holy Place",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 16 — the theological center of the book — prescribes the one day each year (\"in the seventh month, on the tenth day,\" 16:29; 23:27) when the high priest alone entered the Most Holy Place, bearing blood \"for himself, and for his household\" and then for \"all the congregation of Israel\" (16:11, 17), to make atonement for the sanctuary itself, cleansed from \"the uncleanness of the children of Israel\" accumulated there throughout the year (16:16, 19).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "This annual cleansing of the sanctuary from the sins symbolically transferred into it throughout the year (via the sin offerings of chs. 4–5) is the direct type of the antitypical cleansing of the heavenly sanctuary that Daniel 8:14 places at \"two thousand and three hundred days,\" understood by Adventists as the investigative judgment beginning in 1844.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The two goats: the Lord's goat and the scapegoat",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Two goats are presented, and lots cast upon them: \"one lot for the LORD, and the other lot for the scapegoat [Heb. Azazel]\" (16:8). The LORD's goat is slain as a sin offering, its blood brought into the Most Holy Place to cleanse the sanctuary (16:15) — directly typifying Christ, slain for the sins of His people.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The scapegoat, by contrast, is not slain at all. After the sanctuary's cleansing, Aaron confesses over its head \"all the iniquities of the children of Israel...putting them upon the head of the goat,\" and it is led away \"into the wilderness\" by \"a fit man\" and released, bearing the sins away, never to return (16:21–22) — understood by Adventists as a type not of Christ but of Satan, upon whom final responsibility for sin is placed after the work of atonement for God's people is complete, Satan then being banished (not slain or pardoned) to bear the consequences of the sin he originated.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"As the sins of the people were transferred in figure to the Levitical priest...so in the type, the goat upon which the lot fell for Azazel bore the sins of Israel....Satan...must bear the final penalty.\" Patriarchs and Prophets, p. 420, 422."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VII",
+      "roman": "VII",
+      "title": "THE LAW OF THE BLOOD AND THE HOLINESS OF LIFE (17:1–16)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The prohibition against eating blood",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"The life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul\" (17:11) — the clearest single statement in the Old Testament of the sacrificial principle: atonement requires the giving of life, symbolized in the blood, and blood is therefore reserved exclusively for that sacred, atoning purpose rather than for ordinary consumption.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "All sacrificial animals were to be brought \"unto the door of the tabernacle\" (17:3–5), preventing private, informal sacrifice offered apart from the appointed priesthood and location — centralizing worship and guarding against the surrounding nations' practice of sacrificing \"unto devils\" (17:7) in the open field.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VIII",
+      "roman": "VIII",
+      "title": "THE HOLINESS CODE: SEXUAL PURITY AND LOVE OF NEIGHBOR (18:1–20:27)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Sexual purity laws and the warning of the land's defilement",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 18 prohibits a detailed list of incestuous and other sexual unions, framed explicitly as the reason the Canaanite nations were about to be dispossessed: \"the land is defiled: therefore I do visit the iniquity thereof upon it, and the land itself vomiteth out her inhabitants\" (18:25) — Israel warned that the same consequence awaits any nation, including their own, that practices \"any of these abominations\" (18:26–28).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "\"Love thy neighbour as thyself\"",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 19 gathers a remarkable range of ethical and ceremonial commands — leaving gleanings for the poor (19:9–10), honest weights and wages (19:13, 35–36), prohibition of slander and hatred (19:16–17), care for the deaf and blind (19:14) — under the single summarizing principle: \"thou shalt love thy neighbour as thyself: I am the LORD\" (19:18), a verse Christ identifies, alongside Deuteronomy 6:5, as the second great commandment on which \"hang all the law and the prophets\" (Matt. 22:39–40).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The same chapter extends love explicitly to the foreigner: \"the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself\" (19:34) — grounded not in abstract ethics but in Israel's own remembered experience: \"for ye were strangers in the land of Egypt.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "Capital offenses and the holiness of the covenant community",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 20 restates many of the same prohibitions of chapter 18 with specific penalties attached, including for child sacrifice to Molech (20:1–5) and for turning to mediums and spiritists (20:6, 27) — practices directly connected to the pagan nations' corruption and incompatible with covenant loyalty to the one true God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IX",
+      "roman": "IX",
+      "title": "LAWS FOR PRIESTS AND THE SANCTUARY OFFERINGS (21:1–22:33)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Priestly holiness in mourning, marriage, and physical wholeness",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The priesthood is held to a higher standard of ceremonial separation than the rest of Israel, with special restrictions on contact with the dead (21:1–4, with narrower exceptions than for ordinary Israelites), on marriage (21:7, 13–15), and a requirement of physical wholeness for service at the altar (21:16–23) — the priest's own person, as well as his conduct, serving as a visible emblem of the perfection appropriate to approaching a holy God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Acceptable offerings and the priests' portion",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 22 requires that sacrificial animals themselves be \"without blemish\" (22:19–25), explicitly excluding anything \"blind, or broken, or maimed,\" closing the circle begun in chapter 1's requirement for the burnt offering and reinforcing throughout the book that nothing offered to God may be of inferior, discarded, or defective quality.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "X",
+      "roman": "X",
+      "title": "THE SACRED CALENDAR: THE FEASTS OF THE LORD (23:1–44)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The spring feasts: Passover, Unleavened Bread, and Firstfruits",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Passover (23:5), on the fourteenth of the first month, commemorating the exodus deliverance and directly typifying Christ, \"our passover...sacrificed for us\" (1 Cor. 5:7), crucified at the very hour the Passover lambs were being slain.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Unleavened Bread (23:6–8), seven days immediately following, picturing a life purged of the \"leaven\" of sin (cf. 1 Cor. 5:7–8).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Firstfruits (23:9–14), the wave sheaf offered \"on the morrow after the sabbath\" during the Unleavened Bread week, directly fulfilled by Christ's resurrection: \"Christ the firstfruits; afterward they that are Christ's at his coming\" (1 Cor. 15:20, 23).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Pentecost, Trumpets, the Day of Atonement, and Tabernacles",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The Feast of Weeks, or Pentecost (23:15–22), fifty days after the wave sheaf, fulfilled by the outpouring of the Holy Spirit on the fiftieth day after Christ's resurrection (Acts 2:1–4), inaugurating the gospel harvest.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The Feast of Trumpets (23:23–25), on the first day of the seventh month, sounding a solemn call to the people before the Day of Atonement — understood typologically as paralleling the great Advent proclamation calling attention to the opening hour of judgment.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The Day of Atonement (23:26–32), described already in chapter 16, the most solemn day of the year, fulfilled antitypically in the investigative judgment of the heavenly sanctuary.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The Feast of Tabernacles (23:33–43), celebrating the final harvest ingathering and commemorating Israel's wilderness dwelling in booths, understood as pointing forward to the final ingathering of the redeemed and their dwelling with God at the close of the great controversy.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The sequence of feasts as a whole thus traces, in miniature, the entire plan of redemption — from the cross (Passover) through the resurrection (Firstfruits), the outpouring of the Spirit (Pentecost), the judgment-hour message (Trumpets), the investigative judgment (Atonement), to the final ingathering (Tabernacles).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XI",
+      "roman": "XI",
+      "title": "THE LAMPSTAND, SHOWBREAD, AND THE LAW OF BLASPHEMY (24:1–23)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The continual lampstand and showbread",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The chapter opens with instructions for the continually burning lampstand (\"pure oil olive beaten for the light, to cause the lamps to burn continually,\" 24:2) and the showbread, twelve loaves renewed \"every sabbath\" upon the pure table before the LORD (24:5–8) — both maintained perpetually within the Holy Place, emblematic of God's unceasing provision of light and sustenance for His people.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The blasphemer and the principle of equal justice",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "A narrative interlude (24:10–23) recounts the stoning of a man who blasphemed the Name, and from this specific case the chapter derives the general principle of exact, impartial justice: \"ye shall have one manner of law, as well for the stranger, as for one of your own country\" (24:22), and the frequently misunderstood lex talionis, \"eye for eye, tooth for tooth\" (24:20), establishing proportionate limits on punishment rather than license for unlimited private vengeance.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XII",
+      "roman": "XII",
+      "title": "THE SABBATICAL YEAR AND THE JUBILEE (25:1–55)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The sabbatical year: rest for the land",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Every seventh year the land itself was to keep \"a sabbath of rest unto the land, a sabbath for the LORD\" (25:4) — no sowing or pruning, the land's spontaneous produce left for the poor, the stranger, and even the wild animals, extending the Sabbath principle of trust and rest from the weekly cycle to the agricultural economy as a whole.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The Jubilee: liberty proclaimed throughout the land",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Every fiftieth year, after seven sabbatical cycles, the trumpet sounded on the Day of Atonement itself (25:9) to proclaim the Jubilee: \"ye shall hallow the fiftieth year, and proclaim liberty throughout all the land unto all the inhabitants thereof\" (25:10) — land returned to its original family inheritance and Israelite slaves set free, resetting the entire economic and social order and preventing the permanent entrenchment of either poverty or accumulated wealth.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The theological basis given is striking: \"the land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me\" (25:23) — Israel held its land only in trust under God's ultimate ownership, a principle undercutting any absolute human claim to property.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The Jubilee's proclamation of liberty is quoted by Christ Himself as a description of His own mission (Isa. 61:1–2, \"to proclaim liberty to the captives,\" cited in Luke 4:18–19) — the Jubilee functioning as a type of the greater spiritual and, ultimately, cosmic liberty secured through the gospel.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIII",
+      "roman": "XIII",
+      "title": "BLESSINGS, CURSES, AND VOWS (26:1–27:34)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The covenant blessings and curses",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 26 sets before Israel, in sweeping terms, the blessings of covenant obedience — rain in season, abundant harvest, peace, and God's own presence, \"I will walk among you, and will be your God\" (26:12) — and the escalating series of judgments that would follow persistent, unrepentant covenant unfaithfulness (26:14–39), yet closing with the assurance that even in exile God \"will remember my covenant\" with the patriarchs and \"not cast them away...to destroy them utterly\" (26:42, 44) if the people humble themselves and confess.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Vows and the valuation of persons and property",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book's final chapter regulates voluntary vows — persons, animals, houses, and land dedicated to the LORD — establishing fixed valuations and the option of redemption with an added fifth part (27:1–25), and closing with the law of the tithe, \"holy unto the LORD\" (27:30–33), as the book's final word on what is owed, as a matter of simple justice, to the God who has claimed and redeemed His people.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIV",
+      "roman": "XIV",
+      "title": "TYPE AND ANTITYPE IN LEVITICUS",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The sanctuary system as a whole gospel in miniature",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "No book of the Old Testament is more thoroughly typological than Leviticus — nearly every ritual, offering, feast, and priestly function finds its fulfillment directly in the person and work of Christ, as Hebrews repeatedly demonstrates (Heb. 7–10).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of Leviticus's types is given below. Memorize the type, its antitype, and the New Testament passage establishing the connection.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The burnt offering, wholly consumed, without blemish",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Christ's complete, unblemished self-consecration to the Father's will",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Lev. 1:3–4; Heb. 10:5–10; 1 Pet. 1:19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "The sin offering, its blood brought into the sanctuary",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Christ's blood, bringing cleansing and, in the type, sin transferred to the sanctuary for later cleansing",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "Lev. 4:6–7; Heb. 9:12–14; 13:11–12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "The peace offering, shared between God, priest, and offerer",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "Christ, through whom restored fellowship and communion with God is secured",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "Lev. 3:1–17; 7:11–21; Rom. 5:1; Eph. 2:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "The high priest entering the Most Holy Place once a year",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "Christ's entrance into the heavenly Most Holy Place at the Day of Atonement antitype",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "Lev. 16:2, 11–17; Heb. 9:7, 24–25",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "The Lord's goat, slain for the sins of the people",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "Christ, slain as the sin offering for His people",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "Lev. 16:9, 15; Heb. 9:12, 22",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "The scapegoat, bearing sins away into the wilderness, not slain",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "Satan, bearing final responsibility for sin after the atonement is completed",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "Lev. 16:10, 21–22; Rev. 20:1–3, 10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "The Passover lamb, without blemish, slain at twilight",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "Christ, \"our passover,\" crucified at the Passover hour",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "Lev. 23:5; 1 Cor. 5:7; John 19:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "The wave sheaf of firstfruits, offered the morrow after the sabbath",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "Christ's resurrection, the firstfruits of them that slept",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Lev. 23:10–11; 1 Cor. 15:20, 23",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "Pentecost, fifty days after the wave sheaf",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "The outpouring of the Holy Spirit, fifty days after the resurrection",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "Lev. 23:15–16; Acts 2:1–4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "The Feast of Trumpets, announcing the Day of Atonement",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "The judgment-hour proclamation preceding the antitypical Day of Atonement",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "Lev. 23:23–25; Rev. 14:6–7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "The Feast of Tabernacles, the final harvest ingathering",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "The final ingathering of the redeemed at the close of the great controversy",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "Lev. 23:33–43; Rev. 7:9–10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "The Jubilee trumpet, proclaiming liberty on the Day of Atonement",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "Christ's proclaimed mission of liberty, and the final, cosmic liberty of the redeemed",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "Lev. 25:9–10; Luke 4:18–19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "The continually burning lampstand in the Holy Place",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "Christ, the light of the world, and the church's calling to reflect that light",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "Lev. 24:2–4; John 8:12; Rev. 1:20",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "The showbread, renewed weekly before the LORD",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Christ, the bread of life, continually offered",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "Lev. 24:5–8; John 6:35, 48",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "The life in the blood, reserved for atonement",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "Christ's own life, given as the ground of all atonement",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "Lev. 17:11; Matt. 26:28; Heb. 9:22",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "The trespass offering, requiring restitution with a fifth added",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "The fullness and completeness of Christ's reconciling, restorative work",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "Lev. 6:4–6; 2 Cor. 5:18–19",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XV",
+      "roman": "XV",
+      "title": "DOCTRINES ESTABLISHED IN LEVITICUS",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The doctrinal center of the book",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Leviticus supplies the foundational vocabulary and conceptual structure — atonement, substitution, the sanctuary, holiness, the sacrificial principle — that the rest of Scripture, and the book of Hebrews above all, assumes and builds upon in presenting the saving work of Christ.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of doctrines established in Leviticus is given below, with their basis in the book and their confirmation elsewhere in Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Doctrines Established in Leviticus",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Leviticus contributes the following doctrinal foundations, confirmed throughout Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Doctrine",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Leviticus basis",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Confirmed in",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "The sanctuary doctrine as the structural framework of redemption",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "Lev. 1–16 as a unit",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "Heb. 8:1–5; 9:1–14, 23–24",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "Substitutionary atonement through the shedding of blood",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "Lev. 17:11",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "Rom. 3:25; Heb. 9:22; 1 Pet. 1:18–19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "The investigative judgment, typified in the annual cleansing of the sanctuary",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "Lev. 16:16, 19, 30",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "Dan. 8:14; Rev. 14:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "The distinction between Christ (the Lord's goat) and Satan (the scapegoat) in bearing sin",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "Lev. 16:8–10, 21–22",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "Rev. 20:1–3, 10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "Health principles in diet, reflecting the holiness of the body",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "Lev. 11:1–47",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "1 Cor. 6:19–20; 10:31",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "\"Be ye holy; for I am holy\" as the standing ethical summons of Scripture",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "Lev. 11:44–45; 19:2; 20:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "1 Pet. 1:15–16; Matt. 5:48",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Love of neighbor as the summary of the second table of the law",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "Lev. 19:18, 34",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "Matt. 22:39–40; Rom. 13:9–10; Gal. 5:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "The Passover, Firstfruits, and Pentecost fulfilled in Christ's death, resurrection, and the Spirit's outpouring",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Lev. 23:5–22",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "1 Cor. 5:7; 15:20, 23; Acts 2:1–4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "The Sabbath principle extended to the land (sabbatical year)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "Lev. 25:1–7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "Ex. 20:8–11; 23:10–11",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "The Jubilee as a type of gospel liberty and final restoration",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "Lev. 25:8–17, 23",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "Isa. 61:1–2; Luke 4:18–19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "Tithing as a continuing expression of God's ownership and claim",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "Lev. 27:30–33",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "Mal. 3:8–10; Matt. 23:23; Heb. 7:8",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "The priesthood of believers, grounded in Israel's priestly calling",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "Lev. 21–22 (priestly consecration)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Ex. 19:6; 1 Pet. 2:9; Rev. 1:6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "Equal, impartial justice for native and stranger alike",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "Lev. 24:22",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "Gal. 3:28; Acts 10:34–35",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "Confession as the necessary accompaniment of forgiveness",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "Lev. 5:5; 16:21; 26:40–42",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "1 John 1:9; Prov. 28:13",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "Christ's present heavenly high priestly ministry",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 51,
+              "text": "Lev. 16:2–17 (the high priest's unique entrance)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 52,
+              "text": "Heb. 7:25; 8:1–2; 9:24",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 53,
+              "text": "Sacred time (Sabbath and appointed feasts) as a structuring principle of worship",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 54,
+              "text": "Lev. 23:1–4, 37–38",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 55,
+              "text": "Gen. 2:1–3; Col. 2:16–17 (shadow, not substance abolished — the feasts' substance fulfilled in Christ)",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    }
+  ],
+  "types": [
+    {
+      "type": "The burnt offering, wholly consumed, without blemish",
+      "antitype": "Christ's complete, unblemished self-consecration to the Father's will",
+      "scripture": "Lev. 1:3–4; Heb. 10:5–10; 1 Pet. 1:19"
+    },
+    {
+      "type": "The sin offering, its blood brought into the sanctuary",
+      "antitype": "Christ's blood, bringing cleansing and, in the type, sin transferred to the sanctuary for later cleansing",
+      "scripture": "Lev. 4:6–7; Heb. 9:12–14; 13:11–12"
+    },
+    {
+      "type": "The peace offering, shared between God, priest, and offerer",
+      "antitype": "Christ, through whom restored fellowship and communion with God is secured",
+      "scripture": "Lev. 3:1–17; 7:11–21; Rom. 5:1; Eph. 2:14"
+    },
+    {
+      "type": "The high priest entering the Most Holy Place once a year",
+      "antitype": "Christ's entrance into the heavenly Most Holy Place at the Day of Atonement antitype",
+      "scripture": "Lev. 16:2, 11–17; Heb. 9:7, 24–25"
+    },
+    {
+      "type": "The Lord's goat, slain for the sins of the people",
+      "antitype": "Christ, slain as the sin offering for His people",
+      "scripture": "Lev. 16:9, 15; Heb. 9:12, 22"
+    },
+    {
+      "type": "The scapegoat, bearing sins away into the wilderness, not slain",
+      "antitype": "Satan, bearing final responsibility for sin after the atonement is completed",
+      "scripture": "Lev. 16:10, 21–22; Rev. 20:1–3, 10"
+    },
+    {
+      "type": "The Passover lamb, without blemish, slain at twilight",
+      "antitype": "Christ, \"our passover,\" crucified at the Passover hour",
+      "scripture": "Lev. 23:5; 1 Cor. 5:7; John 19:14"
+    },
+    {
+      "type": "The wave sheaf of firstfruits, offered the morrow after the sabbath",
+      "antitype": "Christ's resurrection, the firstfruits of them that slept",
+      "scripture": "Lev. 23:10–11; 1 Cor. 15:20, 23"
+    },
+    {
+      "type": "Pentecost, fifty days after the wave sheaf",
+      "antitype": "The outpouring of the Holy Spirit, fifty days after the resurrection",
+      "scripture": "Lev. 23:15–16; Acts 2:1–4"
+    },
+    {
+      "type": "The Feast of Trumpets, announcing the Day of Atonement",
+      "antitype": "The judgment-hour proclamation preceding the antitypical Day of Atonement",
+      "scripture": "Lev. 23:23–25; Rev. 14:6–7"
+    },
+    {
+      "type": "The Feast of Tabernacles, the final harvest ingathering",
+      "antitype": "The final ingathering of the redeemed at the close of the great controversy",
+      "scripture": "Lev. 23:33–43; Rev. 7:9–10"
+    },
+    {
+      "type": "The Jubilee trumpet, proclaiming liberty on the Day of Atonement",
+      "antitype": "Christ's proclaimed mission of liberty, and the final, cosmic liberty of the redeemed",
+      "scripture": "Lev. 25:9–10; Luke 4:18–19"
+    },
+    {
+      "type": "The continually burning lampstand in the Holy Place",
+      "antitype": "Christ, the light of the world, and the church's calling to reflect that light",
+      "scripture": "Lev. 24:2–4; John 8:12; Rev. 1:20"
+    },
+    {
+      "type": "The showbread, renewed weekly before the LORD",
+      "antitype": "Christ, the bread of life, continually offered",
+      "scripture": "Lev. 24:5–8; John 6:35, 48"
+    },
+    {
+      "type": "The life in the blood, reserved for atonement",
+      "antitype": "Christ's own life, given as the ground of all atonement",
+      "scripture": "Lev. 17:11; Matt. 26:28; Heb. 9:22"
+    },
+    {
+      "type": "The trespass offering, requiring restitution with a fifth added",
+      "antitype": "The fullness and completeness of Christ's reconciling, restorative work",
+      "scripture": "Lev. 6:4–6; 2 Cor. 5:18–19"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "prompt": "Leviticus is set historically",
+      "choices": [
+        {
+          "id": "A",
+          "text": "during the wilderness wandering, scattered across forty years"
+        },
+        {
+          "id": "B",
+          "text": "in the single month between the tabernacle's completion and Israel's departure from Sinai"
+        },
+        {
+          "id": "C",
+          "text": "after the conquest of Canaan"
+        },
+        {
+          "id": "D",
+          "text": "during the Babylonian captivity"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus is set entirely within the single month between the tabernacle's completion, dated in Exodus 40:17 to \"the first month in the second year,\" and Israel's departure from Sinai, recorded at the start of Numbers (Num. 1:1; 10:11) — a stationary camp, with the newly erected sanctuary already functioning and receiving its first regulations."
+    },
+    {
+      "id": 2,
+      "prompt": "The key word occurring more than ninety times in Leviticus, summarizing its central theme, is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "\"sacrifice\""
+        },
+        {
+          "id": "B",
+          "text": "\"holy\" / \"holiness\""
+        },
+        {
+          "id": "C",
+          "text": "\"inheritance\""
+        },
+        {
+          "id": "D",
+          "text": "\"wilderness\""
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"Holy\" and its cognates occur more than ninety times in Leviticus, more concentrated than in any other book of Scripture, climaxing in the repeated command \"Ye shall be holy: for I the LORD your God am holy\" (19:2; cf. 11:44–45; 20:7, 26) — the book's central, organizing theme."
+    },
+    {
+      "id": 3,
+      "prompt": "The burnt offering (Lev. 1) was unique among the offerings in that it was",
+      "choices": [
+        {
+          "id": "A",
+          "text": "never required to be without blemish"
+        },
+        {
+          "id": "B",
+          "text": "wholly consumed on the altar, picturing total consecration"
+        },
+        {
+          "id": "C",
+          "text": "eaten entirely by the priests"
+        },
+        {
+          "id": "D",
+          "text": "offered only once per year"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Unlike the sin, trespass, and peace offerings, which involved portions eaten by priests or offerers, the burnt offering (Heb. olah, \"that which ascends\") was wholly consumed on the altar, symbolizing complete, unreserved consecration to God — the worshiper's hand laid on its head (1:4) identifying himself fully with the offering."
+    },
+    {
+      "id": 4,
+      "prompt": "The trespass offering uniquely required that the offender",
+      "choices": [
+        {
+          "id": "A",
+          "text": "offer only a burnt offering with no further obligation"
+        },
+        {
+          "id": "B",
+          "text": "make restitution to the wronged party, adding a fifth part, before the sacrifice"
+        },
+        {
+          "id": "C",
+          "text": "confess publicly before the whole congregation"
+        },
+        {
+          "id": "D",
+          "text": "wait a full year before being reconciled"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The trespass offering (chs. 5–6) uniquely required that before the sacrifice could be offered, the offender make restitution to the wronged party \"with the principal, and...add unto it the fifth part\" (6:4–5) — reconciliation with God not bypassing the responsibility to make right specific wrongs done to other people."
+    },
+    {
+      "id": 5,
+      "prompt": "Nadab and Abihu were struck down for",
+      "choices": [
+        {
+          "id": "A",
+          "text": "refusing to be ordained as priests"
+        },
+        {
+          "id": "B",
+          "text": "offering \"strange fire\" before the LORD which He had not commanded"
+        },
+        {
+          "id": "C",
+          "text": "marrying outside the priestly line"
+        },
+        {
+          "id": "D",
+          "text": "eating the wrong portion of the peace offering"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The text states plainly that Nadab and Abihu \"offered strange fire before the LORD, which he commanded them not\" (10:1), and fire from the LORD consumed them (10:2) — a severe demonstration that priestly access to God's presence required exact obedience to His appointed means, not personal innovation in sacred service."
+    },
+    {
+      "id": 6,
+      "prompt": "The stated rationale for the clean and unclean food laws (Lev. 11) is explicitly tied to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Egyptian cultural custom"
+        },
+        {
+          "id": "B",
+          "text": "the principle \"ye shall be holy; for I am holy\""
+        },
+        {
+          "id": "C",
+          "text": "economic scarcity in the wilderness"
+        },
+        {
+          "id": "D",
+          "text": "no stated rationale is given"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus 11:44–45 states the rationale explicitly: \"ye shall be holy; for I am holy....I am the LORD that bringeth you up out of the land of Egypt, to be your God: ye shall therefore be holy, for I am holy\" — the dietary laws framed throughout as an expression of consecrated, holy living, not merely cultural custom or economic necessity."
+    },
+    {
+      "id": 7,
+      "prompt": "On the Day of Atonement, the blood of the LORD's goat was brought",
+      "choices": [
+        {
+          "id": "A",
+          "text": "only as far as the outer court"
+        },
+        {
+          "id": "B",
+          "text": "into the Most Holy Place, to cleanse the sanctuary"
+        },
+        {
+          "id": "C",
+          "text": "to the camp gate and no further"
+        },
+        {
+          "id": "D",
+          "text": "nowhere; only the scapegoat ritual was performed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus 16:15 states that the blood of the LORD's goat, the sin offering, was brought by the high priest \"within the vail, and do with that blood as he did with the blood of the bullock, and sprinkle it upon the mercy seat\" — into the Most Holy Place itself, to cleanse the sanctuary from the accumulated uncleanness of the year."
+    },
+    {
+      "id": 8,
+      "prompt": "The scapegoat, in Seventh-day Adventist understanding, is a type of",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Christ bearing the sins of His people"
+        },
+        {
+          "id": "B",
+          "text": "Satan, upon whom final responsibility for sin is placed after atonement is complete"
+        },
+        {
+          "id": "C",
+          "text": "the high priest himself"
+        },
+        {
+          "id": "D",
+          "text": "the nation of Israel collectively"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Unlike the LORD's goat, which was slain, the scapegoat was kept alive, had the confessed sins of Israel placed upon its head, and was led away into the wilderness, never to return (16:10, 21–22). Seventh-day Adventists understand this as a type not of Christ (who alone atones for sin by dying) but of Satan, upon whom final responsibility for originating sin is placed after the work of atonement for God's people is complete, and who is then banished, not pardoned."
+    },
+    {
+      "id": 9,
+      "prompt": "Leviticus 17:11, \"the life of the flesh is in the blood...it is the blood that maketh an atonement,\" establishes",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that blood has no particular significance in the sacrificial system"
+        },
+        {
+          "id": "B",
+          "text": "the sacrificial principle that atonement requires the giving of life, symbolized in blood"
+        },
+        {
+          "id": "C",
+          "text": "that meat should never be eaten under any circumstance"
+        },
+        {
+          "id": "D",
+          "text": "a purely dietary, non-theological regulation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus 17:11 states the sacrificial principle as clearly as Scripture ever does: \"the life of the flesh is in the blood: and I have given it to you upon the altar to make an atonement for your souls: for it is the blood that maketh an atonement for the soul\" — atonement requires the giving of life, symbolized in blood, which is therefore reserved exclusively for that sacred purpose."
+    },
+    {
+      "id": 10,
+      "prompt": "Leviticus 19:18, \"thou shalt love thy neighbour as thyself,\" is identified by Christ as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "irrelevant to His own teaching"
+        },
+        {
+          "id": "B",
+          "text": "the second great commandment, upon which, with the first, hang all the law and the prophets"
+        },
+        {
+          "id": "C",
+          "text": "applicable only to fellow Israelites, never extended further in the chapter itself"
+        },
+        {
+          "id": "D",
+          "text": "a minor ceremonial regulation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Christ Himself identifies Leviticus 19:18 as the second great commandment, stating that \"on these two commandments [love of God and of neighbor] hang all the law and the prophets\" (Matt. 22:37–40) — and the chapter itself already extends the principle beyond fellow Israelites to \"the stranger that dwelleth with you\" (19:34)."
+    },
+    {
+      "id": 11,
+      "prompt": "The Feast of Firstfruits, the wave sheaf offered \"the morrow after the sabbath\" during Unleavened Bread, is fulfilled in the New Testament by",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Lord's Supper"
+        },
+        {
+          "id": "B",
+          "text": "Christ's resurrection, \"the firstfruits of them that slept\""
+        },
+        {
+          "id": "C",
+          "text": "the day of Pentecost"
+        },
+        {
+          "id": "D",
+          "text": "the Second Coming"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paul states the fulfillment directly: \"Christ the firstfruits; afterward they that are Christ's at his coming\" (1 Cor. 15:20, 23) — Christ's own resurrection, occurring on the very day the wave sheaf of firstfruits was offered in the temple, fulfilling this feast precisely."
+    },
+    {
+      "id": 12,
+      "prompt": "The Feast of Pentecost, fifty days after the wave sheaf, is fulfilled by",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the crucifixion"
+        },
+        {
+          "id": "B",
+          "text": "the outpouring of the Holy Spirit in Acts 2"
+        },
+        {
+          "id": "C",
+          "text": "the giving of the law at Sinai only, with no New Testament fulfillment"
+        },
+        {
+          "id": "D",
+          "text": "the Day of Atonement"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Feast of Weeks (Pentecost), observed fifty days after the wave sheaf offering, is fulfilled by the outpouring of the Holy Spirit exactly fifty days after Christ's resurrection, recorded in Acts 2:1–4, inaugurating the apostolic proclamation of the gospel."
+    },
+    {
+      "id": 13,
+      "prompt": "The Feast of Trumpets, sounded before the Day of Atonement, is understood typologically as paralleling",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Second Coming itself"
+        },
+        {
+          "id": "B",
+          "text": "a judgment-hour proclamation preceding the antitypical Day of Atonement"
+        },
+        {
+          "id": "C",
+          "text": "the Feast of Tabernacles"
+        },
+        {
+          "id": "D",
+          "text": "Israel's exodus from Egypt"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Feast of Trumpets (23:23–25), sounded on the first day of the seventh month before the Day of Atonement later that same month, is understood typologically as paralleling a solemn judgment-hour proclamation calling attention to the opening of the antitypical Day of Atonement — the investigative judgment."
+    },
+    {
+      "id": 14,
+      "prompt": "The sabbatical year (Lev. 25:1–7) extended the Sabbath principle of rest to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the priesthood exclusively"
+        },
+        {
+          "id": "B",
+          "text": "the land itself, left unsown and unpruned every seventh year"
+        },
+        {
+          "id": "C",
+          "text": "foreign slaves only"
+        },
+        {
+          "id": "D",
+          "text": "the royal treasury"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus 25:4 specifies \"a sabbath of rest unto the land, a sabbath for the LORD\" every seventh year — no sowing or pruning permitted, the Sabbath principle of trust and rest extended from the weekly cycle to the entire agricultural economy."
+    },
+    {
+      "id": 15,
+      "prompt": "The Jubilee (Lev. 25:8–17) was proclaimed",
+      "choices": [
+        {
+          "id": "A",
+          "text": "on the first day of the year"
+        },
+        {
+          "id": "B",
+          "text": "on the Day of Atonement, every fiftieth year"
+        },
+        {
+          "id": "C",
+          "text": "at the Feast of Tabernacles only"
+        },
+        {
+          "id": "D",
+          "text": "whenever a king chose to declare it"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus 25:9 specifies that the Jubilee trumpet was to \"sound throughout all your land\" on \"the day of atonement,\" and verse 10 that \"ye shall hallow the fiftieth year\" — the Jubilee proclaimed on the most solemn day of the sacred calendar, every fiftieth year, after seven sabbatical cycles."
+    },
+    {
+      "id": 16,
+      "prompt": "Christ Himself quoted the Jubilee-related prophecy of Isaiah 61:1–2, \"to proclaim liberty to the captives,\" in",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Sermon on the Mount"
+        },
+        {
+          "id": "B",
+          "text": "His reading in the Nazareth synagogue (Luke 4:18–19)"
+        },
+        {
+          "id": "C",
+          "text": "His trial before Pilate"
+        },
+        {
+          "id": "D",
+          "text": "the parable of the prodigal son"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Luke 4:18–19 records that Christ, in the Nazareth synagogue, read Isaiah 61:1–2, including \"to proclaim liberty to the captives,\" language drawn directly from the Jubilee proclamation of Leviticus 25:10, and declared it fulfilled in Himself — identifying His own mission with the Jubilee's promised liberty."
+    },
+    {
+      "id": 17,
+      "prompt": "The theological basis given for the Jubilee's land restoration (Lev. 25:23) is that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "land is purely a human economic commodity"
+        },
+        {
+          "id": "B",
+          "text": "\"the land is mine...ye are strangers and sojourners with me,\" God's ultimate ownership"
+        },
+        {
+          "id": "C",
+          "text": "the poor have no claim on ancestral land"
+        },
+        {
+          "id": "D",
+          "text": "land could never be sold under any circumstance"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus 25:23 states the principle plainly: \"The land shall not be sold for ever: for the land is mine; for ye are strangers and sojourners with me\" — Israel held its land only in trust under God's ultimate ownership, the theological foundation for the Jubilee's periodic restoration of ancestral land."
+    },
+    {
+      "id": 18,
+      "prompt": "Leviticus 26 sets before Israel blessings for covenant obedience and curses for persistent unfaithfulness, yet closes with",
+      "choices": [
+        {
+          "id": "A",
+          "text": "no hope of restoration under any circumstance"
+        },
+        {
+          "id": "B",
+          "text": "the assurance that God would remember His covenant if the people humbled themselves and confessed"
+        },
+        {
+          "id": "C",
+          "text": "a declaration that the covenant was permanently void"
+        },
+        {
+          "id": "D",
+          "text": "silence about the future"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Leviticus 26, after detailing the consequences of covenant unfaithfulness at length, closes with hope: \"I will for their sakes remember the covenant of their ancestors...I will not cast them away, neither will I abhor them, to destroy them utterly\" (26:44–45), conditioned on the people humbling themselves and confessing their iniquity (26:40–42)."
+    },
+    {
+      "id": 19,
+      "prompt": "Hebrews' extended argument about Christ's priesthood and sacrifice (Heb. 7–10) assumes and builds directly upon",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the book of Numbers primarily"
+        },
+        {
+          "id": "B",
+          "text": "the sanctuary system and priestly offerings detailed in Leviticus"
+        },
+        {
+          "id": "C",
+          "text": "Greek philosophical categories with no Old Testament basis"
+        },
+        {
+          "id": "D",
+          "text": "the book of Esther"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The book of Hebrews, chapters 7 through 10 especially, builds its extended argument for Christ's superior priesthood and once-for-all sacrifice directly on the sanctuary system, priestly offerings, and Day of Atonement ritual detailed throughout Leviticus — the Levitical system functioning as the shadow of which Christ's ministry is the substance (Heb. 10:1)."
+    },
+    {
+      "id": 20,
+      "prompt": "The overall typological pattern of Leviticus's feasts (Lev. 23), read in sequence, traces",
+      "choices": [
+        {
+          "id": "A",
+          "text": "no coherent pattern"
+        },
+        {
+          "id": "B",
+          "text": "the plan of redemption from the cross through the resurrection, the Spirit's outpouring, the judgment, and the final ingathering"
+        },
+        {
+          "id": "C",
+          "text": "only agricultural events with no spiritual significance"
+        },
+        {
+          "id": "D",
+          "text": "events exclusively in Israel's past, with no future application"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Read in their appointed sequence, the feasts of Leviticus 23 trace the entire plan of redemption: Passover (the cross), Firstfruits (the resurrection), Pentecost (the Spirit's outpouring), Trumpets (the judgment-hour proclamation), the Day of Atonement (the investigative judgment), and Tabernacles (the final ingathering of the redeemed) — a prophetic calendar embedded in Israel's sacred year."
+    }
+  ]
+}
