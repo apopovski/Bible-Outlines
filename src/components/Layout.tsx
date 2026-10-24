@@ -1,4 +1,5 @@
 import { Link, Outlet } from 'react-router-dom'
+import { BooksMenu } from './BooksMenu'
 
 export function Layout() {
   return (
@@ -10,9 +11,7 @@ export function Layout() {
         </Link>
         <nav className="nav-links" aria-label="Primary">
           <Link to="/">Library</Link>
-          <Link to="/books/genesis">Genesis</Link>
-          <Link to="/books/exodus">Exodus</Link>
-          <Link to="/books/revelation">Revelation</Link>
+          <BooksMenu />
         </nav>
       </header>
       <Outlet />
