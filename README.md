@@ -4,6 +4,8 @@ Interactive learning experience for every book of the Bible — guided outlines,
 
 **Live site:** [https://apopovski.github.io/Bible-Outlines/](https://apopovski.github.io/Bible-Outlines/)
 
+> The repo is currently private. Enable GitHub Pages (Settings → Pages → Deploy from branch `gh-pages` / root, or allow the Actions workflow on `main`) to publish the live site. Collaborators can also run `npm run dev` locally.
+
 ## Books
 
 | Book | Status |
