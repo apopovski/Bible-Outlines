@@ -1,0 +1,1950 @@
+{
+  "meta": {
+    "id": "daniel",
+    "name": "Daniel",
+    "hebrew": "Daniyyel",
+    "subtitle": "God is My Judge",
+    "testament": "Old Testament",
+    "order": 27,
+    "chapters": "1–12",
+    "tagline": "An interactive outline of Daniel in the Seventh-day Adventist doctrine, following Ellen G. White, Prophets and Kings.",
+    "divisions": [
+      {
+        "title": "Court narratives",
+        "range": "chs. 1–6",
+        "focus": "Faithfulness under empire"
+      },
+      {
+        "title": "Visions and prophecy",
+        "range": "chs. 7–12",
+        "focus": "Kingdoms, sanctuary, time of the end"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "I",
+      "roman": "I",
+      "title": "INTRODUCTION, AUTHORSHIP, AND STRUCTURE",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Authorship, date, and setting",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book names its author throughout in the first person (\"I Daniel,\" 7:28; 8:1, 15, 27; 9:2; 10:2; 12:5), a Hebrew youth of noble or royal blood (1:3, 6) carried captive to Babylon in 605 B.C., the first of three deportations under Nebuchadnezzar. Christ Himself attests Daniel's authorship and prophetic office, naming him directly: \"when ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet\" (Matt. 24:15).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Daniel's public career spans the entire seventy years of Babylonian captivity and into the Medo-Persian period, from the reign of Nebuchadnezzar to \"the third year of Cyrus king of Persia\" (10:1) — nearly seventy years of continuous service at the highest levels of two successive world empires.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The twofold structure of the book",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Historical narrative (chs. 1–6) — Daniel and his companions tested and vindicated in the Babylonian court: the diet test, the great image, the fiery furnace, Nebuchadnezzar's madness, Belshazzar's feast, the lions' den.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Apocalyptic prophecy (chs. 7–12) — a series of visions given directly to Daniel himself, tracing the same sweep of world history forward from his own day to \"the time of the end\" (12:4, 9), each vision adding further detail to the one before.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Chapters 2–7 are written in Aramaic (the lingua franca of the Babylonian and Persian administration), while chapters 1 and 8–12 are in Hebrew — a literary structure that itself brackets the Aramaic section (chs. 2–7, concerning the Gentile nations) within the Hebrew material (concerning Daniel's own people and the sanctuary).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "Daniel as the key to apocalyptic prophecy",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Daniel supplies the prophetic skeleton — the four-kingdom sequence, the year-day principle, the sanctuary and judgment motifs — on which the book of Revelation is built; the two books are read by Seventh-day Adventists as complementary halves of a single prophetic structure, Daniel largely sealed \"unto the time of the end\" (12:4) and Revelation, by contrast, specifically \"not sealed\" (Rev. 22:10), given as the unveiling appropriate to the generation living in that time.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The book of Daniel...unlocks the book of Revelation, and opens to the understanding the instruction given by Christ....The relation between these two books is such that one cannot be understood without the help of the other.\" Prophets and Kings, pp. 547–548."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "II",
+      "roman": "II",
+      "title": "DANIEL AND HIS COMPANIONS IN BABYLON (1:1–21)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The test of the king's meat",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chosen for three years' training to stand before Nebuchadnezzar, Daniel and his three companions are assigned \"a daily provision of the king's meat, and of the wine which he drank\" (1:5) — rich, ceremonially unclean fare offered first to Babylonian gods. \"Daniel purposed in his heart that he would not defile himself\" (1:8), requesting instead \"pulse to eat, and water to drink\" (1:12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The ten-day test (1:12–15) produces a result the record states plainly: \"their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat\" (1:15) — establishing from the book's opening chapter the principle that obedience to God's revealed law of health works to man's advantage, not his harm.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The decisive factor was not the diet alone but the purpose of the heart that preceded it — Daniel resolved before the test was proposed, and his companions moved in united agreement (1:11, \"Melzar,\" the steward, consents to all four together).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The reward of faithfulness",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"God gave them knowledge and skill in all learning and wisdom: and Daniel had understanding in all visions and dreams\" (1:17), so that at the end of the training \"the king communed with them; and among them all was found none like Daniel, Hananiah, Mishael, and Azariah\" (1:19–20), ten times wiser than all the magicians and astrologers of Babylon.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "III",
+      "roman": "III",
+      "title": "NEBUCHADNEZZAR'S DREAM: THE GREAT IMAGE (2:1–49)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The dream demanded and revealed",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Nebuchadnezzar demands not only the interpretation but the dream itself, on pain of death for every wise man in Babylon (2:5, 9) — a test no pagan diviner could meet, but one Daniel brings directly to God: \"the secret was revealed unto Daniel in a night vision\" (2:19), and his response is immediate praise: \"Blessed be the name of God for ever and ever: for wisdom and might are his\" (2:20).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The image and its four metals",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Head of gold — \"Thou art this head of gold\" (2:38), Babylon, under Nebuchadnezzar (605–539 B.C.).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Breast and arms of silver — \"another kingdom inferior to thee\" (2:39), Medo-Persia (539–331 B.C.), a dual kingdom pictured later in ch. 8 as a ram with two horns.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Belly and thighs of brass — \"a third kingdom of brass, which shall bear rule over all the earth\" (2:39), Greece under Alexander (331–168 B.C.).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Legs of iron — \"the fourth kingdom shall be strong as iron\" (2:40), Rome (168 B.C.–A.D. 476), which crushed and subdued all before it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Feet and toes, iron mixed with clay — the divided, never-reunited kingdoms of post-Roman Europe (A.D. 476 onward), \"partly strong, and partly broken\" (2:42), attempts at union (by marriage alliance and conquest alike) never succeeding, \"they shall not cleave one to another\" (2:43).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The stone cut without hands",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"In the days of these kings shall the God of heaven set up a kingdom, which shall never be destroyed...and it shall stand for ever\" (2:44) — the stone \"cut out without hands\" (2:45) strikes the image on its feet and becomes \"a great mountain, and filled the whole earth\" (2:35), a kingdom established not by human statecraft but by direct divine action, in the period of the divided nations (i.e., still future to our own day), succeeding and replacing, rather than organically growing out of, the kingdoms of this world.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The stone that smote the image...is a symbol of the kingdom which the God of heaven will set up...the kingdom of Christ, at His second coming.\" Prophets and Kings, p. 502."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IV",
+      "roman": "IV",
+      "title": "THE FIERY FURNACE (3:1–30)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The golden image and the test of worship",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Nebuchadnezzar erects a golden image — perhaps a deliberate response to being told his kingdom (the gold head alone) would not endure — and commands universal worship at the sound of music, \"fall down and worship the golden image: and whoso falleth not down...shall...be cast into the midst of a burning fiery furnace\" (3:5–6), a direct trial of conscience combining religious compulsion with civil penalty, a pattern Revelation 13 projects forward to the final crisis over worship.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Shadrach, Meshach, and Abed-nego refuse, with the classic statement of faith under uncertainty: \"our God whom we serve is able to deliver us...But if not, be it known unto thee, O king, that we will not serve thy gods\" (3:17–18) — faithfulness not contingent on a guaranteed deliverance.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The fourth man in the fire",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Cast into a furnace heated seven times hotter than usual, the three are seen walking unbound in the flame, and Nebuchadnezzar exclaims, \"the form of the fourth is like the Son of God\" (3:25) — understood by Adventists, as by much of historic Christian interpretation, as a preincarnate appearance of Christ Himself, present with His faithful in the very midst of the fire, not merely preventing the trial but accompanying them through it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "They emerge \"and the fire had no power...nor were their coats changed, nor had the smell of fire passed on them\" (3:27) — total, visible, undeniable deliverance, leading the pagan king to decree protection for their God's name throughout his empire (3:29).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "V",
+      "roman": "V",
+      "title": "NEBUCHADNEZZAR'S MADNESS AND RESTORATION (4:1–37)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The dream of the great tree",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Nebuchadnezzar's second dream — a great tree, \"the height thereof reached unto heaven\" (4:11), cut down at the command of \"a watcher and an holy one\" (4:13, 23) — is interpreted by Daniel as a judgment on the king's pride: \"they shall drive thee from men, and thy dwelling shall be with the beasts of the field...till thou know that the most High ruleth in the kingdom of men\" (4:25).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Pride, judgment, and restoration",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Twelve months later, at the height of self-congratulation — \"Is not this great Babylon, that I have built...by the might of my power, and for the honour of my majesty?\" (4:30) — the judgment falls immediately and literally: Nebuchadnezzar is driven from men, eating grass like an ox, for \"seven times\" (4:32), until, lifting his eyes to heaven, \"mine understanding returned unto me, and I blessed the most High\" (4:34).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The book's only full first-person royal testimony closes the chapter: Nebuchadnezzar's own public confession that \"those that walk in pride he is able to abase\" (4:37) — the conversion, however partial or temporary, of the very king who destroyed Jerusalem and its temple.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VI",
+      "roman": "VI",
+      "title": "BELSHAZZAR'S FEAST AND THE FALL OF BABYLON (5:1–31)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The feast and the sacrilege",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Belshazzar, co-regent with his father Nabonidus, holds a great feast even as the Medo-Persian army besieges the city, and in drunken bravado calls for \"the golden and silver vessels which his father Nebuchadnezzar had taken out of the temple\" in Jerusalem, so that the court might \"drink in them,\" praising \"the gods of gold, and of silver, of brass, of iron, of wood, and of stone\" (5:2–4) — deliberate, public profanation of vessels once consecrated to the true God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The handwriting on the wall",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "In that same hour, \"the fingers of a man's hand\" write on the plaster: MENE, MENE, TEKEL, UPHARSIN (5:25). Daniel's interpretation is a direct pronouncement of investigative judgment upon a life weighed and found wanting: \"MENE; God hath numbered thy kingdom, and finished it. TEKEL; Thou art weighed in the balances, and art found wanting. PERES; Thy kingdom is divided, and given to the Medes and Persians\" (5:26–28).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "\"In that night was Belshazzar the king of the Chaldeans slain\" (5:30) — the city fell that same night, by tradition through Cyrus's diversion of the Euphrates river under the walls, fulfilling with exact literalness Isaiah's prophecy given nearly two centuries earlier that Babylon's gates would be found open (Isa. 45:1–2).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VII",
+      "roman": "VII",
+      "title": "DANIEL IN THE LIONS' DEN (6:1–28)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The conspiracy against Daniel",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Now an old man under Darius the Mede, Daniel's excellence provokes jealousy among the other presidents and princes, who \"sought to find occasion against Daniel concerning the kingdom; but they could find none occasion nor fault...forasmuch as he was faithful\" (6:4) — so they manufacture a trap out of his religion itself, securing a thirty-day decree against prayer to anyone but the king (6:6–9).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Faithfulness under the decree",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Daniel's response to the decree is unhesitating and public: \"he kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime\" (6:10) — not defiant provocation, but simple, unbroken continuation of a settled life of devotion, undisguised and unashamed even under a death sentence.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Cast into the lions' den, Daniel is preserved because, as he tells the king, \"my God hath sent his angel, and hath shut the lions' mouths...forasmuch as before him innocency was found in me\" (6:22) — the same pattern of deliverance in, rather than merely from, mortal danger seen in chapter 3.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Darius's resulting decree — that \"men tremble and fear before the God of Daniel: for he is the living God...he delivereth and rescueth\" (6:26) — again shows a pagan ruler compelled to honor the true God by the faithfulness of a single consistent believer.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VIII",
+      "roman": "VIII",
+      "title": "THE FOUR BEASTS AND THE ANCIENT OF DAYS (7:1–28)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The four beasts, parallel to the image of chapter 2",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Lion with eagle's wings (7:4) — Babylon, matching the head of gold.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Bear raised up on one side, with three ribs in its mouth (7:5) — Medo-Persia, matching the silver, the raised side reflecting Persia's dominance over Media within the dual kingdom.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Leopard with four wings and four heads (7:6) — Greece, matching the brass, the wings signifying the unmatched speed of Alexander's conquests and the four heads his empire's division among four generals after his death.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "\"Dreadful and terrible\" fourth beast, with iron teeth and ten horns (7:7) — Rome, matching the iron legs and ten toes; unlike the others it is given no animal name at all, its monstrous, composite character fitting no natural category.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The little horn",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Among the ten horns (the divided kingdoms of post-Roman Europe) \"there came up among them another little horn, before whom there were three of the first horns plucked up by the roots\" (7:8) — identified by Adventists with the rise of the papacy, which displaced three of the Germanic tribes (the Heruli, Vandals, and Ostrogoths) standing in its way as it rose to religio-political dominance.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The horn has \"eyes like the eyes of man, and a mouth speaking great things\" (7:8), \"shall speak great words against the most High, and shall wear out the saints of the most High, and think to change times and laws\" (7:25) — a direct claim to divine prerogative, understood to include the claimed authority to alter God's law, specifically the Sabbath commandment.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Its dominion is given \"for a time and times and the dividing of time\" (7:25) — the same 1,260-year period (538–1798) given elsewhere as \"forty and two months\" (Rev. 13:5) and \"a thousand two hundred and threescore days\" (Rev. 12:6).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The judgment scene and the kingdom given to the saints",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"The judgment was set, and the books were opened\" (7:10) before \"the Ancient of days\" (7:9, 13, 22) — the Father, on His throne — and \"one like the Son of man came...and there was given him dominion, and glory, and a kingdom\" (7:13–14): Christ's coming to the Father in this scene is to heaven, not yet to earth, matching the sanctuary's Most Holy Place ministry.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The outcome of the judgment is stated plainly: \"judgment was given to the saints of the most High...and the saints possessed the kingdom\" (7:22) — vindication for God's people after the long period of the little horn's oppression.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IX",
+      "roman": "IX",
+      "title": "THE RAM, THE GOAT, AND THE 2300 DAYS (8:1–27)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The ram and the he goat",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The ram with two horns, \"the one...higher than the other\" (8:3), explicitly identified in the text itself: \"The ram which thou sawest having two horns are the kings of Media and Persia\" (8:20).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The he goat \"came from the west on the face of the whole earth,\" with \"a notable horn between his eyes\" (8:5), likewise directly identified: \"the rough goat is the king of Grecia: and the great horn...is the first king\" (8:21) — Alexander, whose empire at his death was divided into \"four kingdoms\" (8:8, 22), the Hellenistic successor states.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The little horn of chapter 8 and the sanctuary",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Out of one of the four divisions \"came forth a little horn, which waxed exceeding great, toward the south, and toward the east, and toward the pleasant land\" (8:9) — a power that grows from small beginnings to world dominance, casting down \"the place of his sanctuary\" and taking away \"the daily sacrifice\" (8:11), understood by Adventists to span pagan Rome's destruction of the Jerusalem temple and papal Rome's subsequent obscuring of Christ's true priestly ministry through a counterfeit, earthly priestly system.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The question that frames the whole chapter: \"How long shall be the vision concerning the daily sacrifice, and the transgression of desolation...? And he said unto me, Unto two thousand and three hundred days; then shall the sanctuary be cleansed\" (8:13–14).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "X",
+      "roman": "X",
+      "title": "THE SEVENTY WEEKS PROPHECY (9:1–27)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Daniel's prayer and Gabriel's answer",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Studying Jeremiah's prophecy of a seventy-year captivity (9:2; cf. Jer. 25:11–12; 29:10) near its close, Daniel turns to earnest, confessional prayer for his people (9:3–19) — and receives, in direct answer, the most precisely dated Messianic prophecy in the Old Testament, delivered by the angel Gabriel \"about the time of the evening oblation\" (9:21).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Seventy weeks determined",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Seventy weeks are determined upon thy people and upon thy holy city\" (9:24) — 490 years (70 weeks × 7 days/years, on the year-day principle), cut off from, and thus the very first segment of, the longer 2,300-day/year prophecy of chapter 8, both beginning at the same starting point.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The starting point: \"the commandment to restore and to build Jerusalem\" (9:25), identified with the decree of Artaxerxes in his seventh year, 457 B.C. (Ezra 7:11–26), the most complete of the three Persian decrees concerning Jerusalem and the one that fully restored Jewish civil and religious autonomy.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"Unto the Messiah the Prince shall be seven weeks, and threescore and two weeks\" — 69 weeks, 483 years, from 457 B.C. to A.D. 27, the year of Christ's baptism and anointing by the Spirit (cf. Acts 10:38), the beginning of His Messianic (\"anointed one\") ministry.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"In the midst of the week he shall cause the sacrifice and the oblation to cease\" (9:27) — three and a half years into the final (seventieth) week, at the cross, A.D. 31, the typical sacrificial system is rendered obsolete by the reality it had always pointed toward.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The seventieth week closes in A.D. 34 (3.5 years after the cross), marked by the stoning of Stephen and the formal turning of the gospel message to the Gentiles (Acts 7–8) — the close of the period of specific focus on \"thy people,\" ethnic Israel, as the covenant nation, though individual Jews remain, as always, welcome within the gospel call.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Doctrines Established in Daniel",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Daniel contributes the following doctrinal foundations, confirmed throughout Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "Doctrine",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "Daniel basis",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "Confirmed in",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "The historicist, year-day fulfillment of prophetic time periods",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "Num. 14:34; Ezek. 4:6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "Dan. 7:25; 8:14; 9:24–27; 12:7, 11–12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "The investigative judgment, beginning in 1844 at the cleansing of the heavenly sanctuary",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "Lev. 16; Dan. 8:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "Heb. 8:1–2; 9:23; Rev. 14:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "The four-kingdom prophetic sequence culminating in Christ's eternal kingdom",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "(Anticipated in Gen. 49:10)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "Dan. 2:31–45; 7:1–27; Rev. 11:15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "The identification and career of the little-horn power",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "Isa. 14:12–14; Ezek. 28:2",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "Dan. 7:8, 25; 8:9–12; 2 Thess. 2:3–4; Rev. 13:5–7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "The precise, verifiable fulfillment of Messianic prophecy",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "Gen. 49:10; Mic. 5:2",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "Dan. 9:24–27; Luke 3:1, 21–22; Gal. 4:4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Faithfulness of conscience and diet as a mark of consecration",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "(Anticipated in Lev. 11)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "Dan. 1:8, 15; 1 Cor. 6:19–20; 10:31",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "Deliverance in, not necessarily from, trial and persecution",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Ps. 34:19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "Dan. 3:17–18, 25; 6:22; Rev. 7:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "The sanctuary doctrine as the structural key to Daniel and Revelation",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "Ex. 25:8–9; Lev. 16",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "Dan. 8:14; 9:24; Heb. 8:1–2; 9:11–12, 23–24",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "The resurrection of both the righteous and the wicked",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "(Anticipated in Job 19:25–26)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "Dan. 12:2; John 5:28–29; Acts 24:15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "The time of trouble and final deliverance of God's people",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "Jer. 30:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "Dan. 12:1; Rev. 3:10; 7:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "The close of probation, marked by Michael's \"standing up\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "(Anticipated in Gen. 6:3)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Dan. 12:1; Rev. 22:11–12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "The supremacy of the law of God over human legislation that contradicts it",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "Ex. 20:1–17",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "Dan. 3:16–18; 6:10; Acts 5:29",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "Michael (Christ) as the great Prince and Commander of heaven's hosts",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "Josh. 5:13–15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "Dan. 10:13, 21; 12:1; Jude 9; Rev. 12:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "The progressive unsealing of prophecy for the time of the end",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 51,
+              "text": "(Anticipated in Amos 3:7)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 52,
+              "text": "Dan. 12:4, 9; Rev. 1:1, 3; 22:10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 53,
+              "text": "The downfall of proud, self-exalting human power before God",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 54,
+              "text": "Isa. 14:12–15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 55,
+              "text": "Dan. 4:30–37; 5:20–23; Rev. 18:7–8",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 56,
+              "text": "God's sovereignty over the rise and fall of nations",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 57,
+              "text": "Ps. 75:6–7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 58,
+              "text": "Dan. 2:21; 4:17, 25, 32; 5:21",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The sixty-nine weeks, or 483 years, were to extend to the Messiah, the Anointed One....Christ's baptism and anointing by the Holy Spirit...exactly fulfilled the specification.\" The Great Controversy, p. 327."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XI",
+      "roman": "XI",
+      "title": "THE VISIONS BY THE HIDDEKEL: PREPARATION AND CONFLICT (10:1–21)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Daniel's three-week fast and the delayed answer",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Mourning \"three full weeks\" (10:2), Daniel receives a visitor \"clothed in linen\" of overwhelming, Christlike appearance (10:5–6), who explains the delay in coming: \"the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me\" (10:13) — a glimpse behind the visible political order into the unseen conflict of spiritual forces contending over the course of nations.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Michael, the great prince",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Michael (Heb. \"who is like God\") is identified in this vision as the heavenly Prince who specially champions Daniel's people — understood by Adventists, on the basis of His unique titles elsewhere (the archangel's voice at the resurrection, 1 Thess. 4:16; the only one able to dispute with Satan over Moses' body, Jude 9), to be a name for Christ Himself in His role as Commander of heaven's armies, not a created angelic being.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XII",
+      "roman": "XII",
+      "title": "THE KINGS OF THE NORTH AND SOUTH (11:1–45)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The continuing historical sweep",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 11 extends the historical survey in minute, verifiable detail — Persia's remaining kings (11:2), Alexander and the fourfold division of his empire (11:3–4), and then a long, intricate history of conflict between \"the king of the north\" and \"the king of the south\" (beginning with the Seleucid and Ptolemaic successor dynasties, vv. 5–20) — a level of specificity that has led many to regard this chapter as the single most detailed predictive prophecy in Scripture.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The transition to Rome, pagan and papal",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "From verse 16 onward the \"king of the north\" increasingly takes on the character of Rome itself, first pagan then papal — \"he shall also set his face to the isles\" (11:18), and by verse 31, \"arms shall stand on his part, and they shall pollute the sanctuary of strength, and shall take away the daily sacrifice, and they shall place the abomination that maketh desolate\" — language directly paralleling the little horn of chapter 8 and Christ's own warning in Matthew 24:15.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The latter portion of the chapter (vv. 36–45) is understood to describe the papal power's further career, exalting itself \"above every god\" (11:36), through to its end at \"the time of the end\" (11:40), when it comes \"to his end, and none shall help him\" (11:45).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIII",
+      "roman": "XIII",
+      "title": "THE TIME OF THE END (12:1–13)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Michael stands up",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"At that time shall Michael stand up, the great prince which standeth for the children of thy people: and there shall be a time of trouble, such as never was since there was a nation even to that same time\" (12:1) — Christ's \"standing up\" marks the close of His mediatorial work in the heavenly sanctuary, the end of probation, immediately preceding the final time of trouble and the deliverance of \"every one that shall be found written in the book.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The resurrection and the sealed book",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt\" (12:2) — one of the clearest Old Testament statements of a future bodily resurrection of both the righteous and the wicked, the dead until that moment asleep \"in the dust.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Daniel is told to \"shut up the words, and seal the book, even to the time of the end: many shall run to and fro, and knowledge shall be increased\" (12:4) — a prophecy left sealed, its full meaning withheld, until the generation prepared by increasing knowledge and travel would be positioned to understand it, matched by Revelation 22:10's explicit statement that its own companion book is \"not sealed.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The 1,260, 1,290, and 1,335 days",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book closes with three further time periods — \"a time, times, and an half\" (12:7, the familiar 1,260 years), \"a thousand two hundred and ninety days\" (12:11), and \"a thousand three hundred and five and thirty days\" (12:12) — understood as marking successive milestones following the end of papal supremacy in 1798: the 1290 beginning from the point the daily (paganism) was \"taken away\" and the abomination of desolation set up, and the 1335 reaching to 1843, on the threshold of the great Advent awakening, with the promise \"Blessed is he that waiteth, and cometh to the thousand three hundred and five and thirty days\" (12:12).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIV",
+      "roman": "XIV",
+      "title": "TYPE AND ANTITYPE IN DANIEL",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Daniel's narratives as types of the end-time remnant",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The historical chapters of Daniel (1, 3, 6) function typologically, as well as historically, for Seventh-day Adventists: faithful individuals, tested over conscience and worship, delivered through rather than merely from crisis — patterns the prophetic chapters apply directly to God's people in the final conflict over worship (cf. Rev. 13–14).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of Daniel's types is given below. Memorize the type, its antitype, and the New Testament passage establishing the connection.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Daniel's refusal to defile himself with the king's meat",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The end-time remnant's refusal to conform to the world's compromised standards",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "1 Cor. 10:31; 1 John 2:15–17",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "The fiery furnace, and the fourth man present in the flame",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Christ's presence with His people through, not merely from, the final time of trouble",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "Isa. 43:2; Dan. 3:25; Rev. 7:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "The lions' den, and the shut mouths of the lions",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "God's protecting power over His faithful in the final crisis over worship",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "Dan. 6:22; Rev. 12:11",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "The great image, successive kingdoms of this world",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "The kingdoms of men, culminating and ending before the kingdom of God",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "Dan. 2:44; Rev. 11:15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "The stone cut out without hands",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "Christ's kingdom, established by divine power, not human statecraft",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "Dan. 2:34–35, 45; Matt. 21:44",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "The handwriting on the wall: \"weighed in the balances\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "The investigative judgment, examining the record of every life",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "Dan. 5:27; Rev. 20:12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "The Ancient of Days and the judgment scene (ch. 7)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "The pre-Advent judgment in the heavenly sanctuary",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "Dan. 7:9–10; Rev. 14:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "The daily sacrifice of the earthly sanctuary",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "Christ's continual heavenly intercession, obscured by the little horn's rival system",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Dan. 8:11–13; Heb. 7:25; 9:24",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "The cleansing of the sanctuary on the Day of Atonement",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "The pre-Advent investigative judgment beginning in 1844",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "Lev. 16:30; Dan. 8:14; Heb. 9:23",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "The seventy weeks, cut off from the 2,300 days",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "The precise, fulfilled timing of Messiah's first advent, anchoring the longer prophecy",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "Dan. 9:24–27; Luke 3:21–22; 4:21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "Michael contending for Daniel's people (ch. 10)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "Christ's ongoing heavenly intercession and conflict with Satan on His people's behalf",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "Dan. 10:13, 21; Jude 9; Rev. 12:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "Michael standing up (12:1)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "The close of Christ's mediatorial work and the end of probation",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "Dan. 12:1; Rev. 22:11–12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "The resurrection of \"many that sleep in the dust\" (12:2)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "The first and second resurrections",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "Dan. 12:2; John 5:28–29; Rev. 20:5–6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "The sealed book, opened \"at the time of the end\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "The unsealed prophecy of Revelation, given for the last generation",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "Dan. 12:4, 9; Rev. 22:10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "Belshazzar's profane use of the temple vessels",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "The corrupting of sacred truth by apostate religious systems",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "Dan. 5:3–4; Rev. 17:4–5",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "Nebuchadnezzar's pride, judgment, and restoration",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "God's dealing with proud human power, abased until it acknowledges His rule",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "Dan. 4:30–37; Rev. 19:15–16",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XV",
+      "roman": "XV",
+      "title": "DOCTRINES ESTABLISHED IN DANIEL",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The doctrinal center of the book",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Daniel supplies the chronological and structural backbone for the Seventh-day Adventist understanding of the sanctuary, the investigative judgment, and the historicist reading of prophecy generally — doctrines without which the Advent movement's own origin in 1844 cannot be explained, and which remain foundational to the church's distinctive end-time message.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of doctrines established in Daniel is given below, with their basis in the book and their confirmation elsewhere in Scripture.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    }
+  ],
+  "types": [
+    {
+      "type": "Daniel's refusal to defile himself with the king's meat",
+      "antitype": "The end-time remnant's refusal to conform to the world's compromised standards",
+      "scripture": "1 Cor. 10:31; 1 John 2:15–17"
+    },
+    {
+      "type": "The fiery furnace, and the fourth man present in the flame",
+      "antitype": "Christ's presence with His people through, not merely from, the final time of trouble",
+      "scripture": "Isa. 43:2; Dan. 3:25; Rev. 7:14"
+    },
+    {
+      "type": "The lions' den, and the shut mouths of the lions",
+      "antitype": "God's protecting power over His faithful in the final crisis over worship",
+      "scripture": "Dan. 6:22; Rev. 12:11"
+    },
+    {
+      "type": "The great image, successive kingdoms of this world",
+      "antitype": "The kingdoms of men, culminating and ending before the kingdom of God",
+      "scripture": "Dan. 2:44; Rev. 11:15"
+    },
+    {
+      "type": "The stone cut out without hands",
+      "antitype": "Christ's kingdom, established by divine power, not human statecraft",
+      "scripture": "Dan. 2:34–35, 45; Matt. 21:44"
+    },
+    {
+      "type": "The handwriting on the wall: \"weighed in the balances\"",
+      "antitype": "The investigative judgment, examining the record of every life",
+      "scripture": "Dan. 5:27; Rev. 20:12"
+    },
+    {
+      "type": "The Ancient of Days and the judgment scene (ch. 7)",
+      "antitype": "The pre-Advent judgment in the heavenly sanctuary",
+      "scripture": "Dan. 7:9–10; Rev. 14:7"
+    },
+    {
+      "type": "The daily sacrifice of the earthly sanctuary",
+      "antitype": "Christ's continual heavenly intercession, obscured by the little horn's rival system",
+      "scripture": "Dan. 8:11–13; Heb. 7:25; 9:24"
+    },
+    {
+      "type": "The cleansing of the sanctuary on the Day of Atonement",
+      "antitype": "The pre-Advent investigative judgment beginning in 1844",
+      "scripture": "Lev. 16:30; Dan. 8:14; Heb. 9:23"
+    },
+    {
+      "type": "The seventy weeks, cut off from the 2,300 days",
+      "antitype": "The precise, fulfilled timing of Messiah's first advent, anchoring the longer prophecy",
+      "scripture": "Dan. 9:24–27; Luke 3:21–22; 4:21"
+    },
+    {
+      "type": "Michael contending for Daniel's people (ch. 10)",
+      "antitype": "Christ's ongoing heavenly intercession and conflict with Satan on His people's behalf",
+      "scripture": "Dan. 10:13, 21; Jude 9; Rev. 12:7"
+    },
+    {
+      "type": "Michael standing up (12:1)",
+      "antitype": "The close of Christ's mediatorial work and the end of probation",
+      "scripture": "Dan. 12:1; Rev. 22:11–12"
+    },
+    {
+      "type": "The resurrection of \"many that sleep in the dust\" (12:2)",
+      "antitype": "The first and second resurrections",
+      "scripture": "Dan. 12:2; John 5:28–29; Rev. 20:5–6"
+    },
+    {
+      "type": "The sealed book, opened \"at the time of the end\"",
+      "antitype": "The unsealed prophecy of Revelation, given for the last generation",
+      "scripture": "Dan. 12:4, 9; Rev. 22:10"
+    },
+    {
+      "type": "Belshazzar's profane use of the temple vessels",
+      "antitype": "The corrupting of sacred truth by apostate religious systems",
+      "scripture": "Dan. 5:3–4; Rev. 17:4–5"
+    },
+    {
+      "type": "Nebuchadnezzar's pride, judgment, and restoration",
+      "antitype": "God's dealing with proud human power, abased until it acknowledges His rule",
+      "scripture": "Dan. 4:30–37; Rev. 19:15–16"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "prompt": "Daniel's authorship and prophetic office are directly confirmed in the New Testament by",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Paul, in Romans"
+        },
+        {
+          "id": "B",
+          "text": "Christ Himself, naming \"Daniel the prophet\" in the Olivet discourse (Matt. 24:15)"
+        },
+        {
+          "id": "C",
+          "text": "John the Baptist"
+        },
+        {
+          "id": "D",
+          "text": "no New Testament writer"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Christ Himself, in the Olivet discourse, directly names and endorses Daniel's prophetic office: \"when ye therefore shall see the abomination of desolation, spoken of by Daniel the prophet, stand in the holy place\" (Matt. 24:15). This is among the clearest New Testament attestations of an Old Testament prophet's authorship and authority given by Christ Himself."
+    },
+    {
+      "id": 2,
+      "prompt": "The result of Daniel and his companions' ten-day diet test (ch. 1) was that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "they grew noticeably weaker than the other youths"
+        },
+        {
+          "id": "B",
+          "text": "they appeared \"fairer and fatter in flesh\" than those who ate the king's meat"
+        },
+        {
+          "id": "C",
+          "text": "the test was inconclusive"
+        },
+        {
+          "id": "D",
+          "text": "Daniel alone passed, while his companions failed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The record states plainly, \"at the end of ten days their countenances appeared fairer and fatter in flesh than all the children which did eat the portion of the king's meat\" (1:15) — establishing, from the book's opening chapter, that obedience to God's principles of health works to advantage rather than deprivation, though the decisive factor was the settled purpose of heart that preceded and motivated the test (1:8)."
+    },
+    {
+      "id": 3,
+      "prompt": "In Nebuchadnezzar's image (Dan. 2), the \"stone cut out without hands\" that strikes the image represents",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Roman Empire"
+        },
+        {
+          "id": "B",
+          "text": "the kingdom of God, established by divine power at Christ's second coming"
+        },
+        {
+          "id": "C",
+          "text": "the Medo-Persian conquest of Babylon"
+        },
+        {
+          "id": "D",
+          "text": "the church growing gradually to dominate all nations"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Daniel interprets the stone directly: \"the God of heaven set up a kingdom, which shall never be destroyed...it shall break in pieces and consume all these kingdoms, and it shall stand for ever\" (2:44). The stone \"cut out without hands\" (2:45) is established by divine, not human, action — Christ's kingdom at His second coming, succeeding rather than gradually absorbing the kingdoms of this world."
+    },
+    {
+      "id": 4,
+      "prompt": "When Shadrach, Meshach, and Abed-nego were cast into the furnace, Nebuchadnezzar observed a fourth figure \"like the Son of God\" (3:25), understood as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an ordinary angel with no further significance"
+        },
+        {
+          "id": "B",
+          "text": "a hallucination brought on by the heat"
+        },
+        {
+          "id": "C",
+          "text": "a preincarnate appearance of Christ, present with His faithful in the fire"
+        },
+        {
+          "id": "D",
+          "text": "a reflection of the king himself"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Adventist and much of historic Christian interpretation identifies the fourth figure as a preincarnate appearance of Christ Himself, present with His three faithful servants in the midst of the very fire meant to destroy them — a pattern of deliverance in rather than merely from trial that recurs throughout Daniel and is applied prophetically to the end-time remnant in Revelation (cf. Rev. 7:14)."
+    },
+    {
+      "id": 5,
+      "prompt": "Nebuchadnezzar's madness in chapter 4 was a direct judgment for",
+      "choices": [
+        {
+          "id": "A",
+          "text": "idolatry alone"
+        },
+        {
+          "id": "B",
+          "text": "military failure"
+        },
+        {
+          "id": "C",
+          "text": "pride, boasting in his own power and glory rather than God's"
+        },
+        {
+          "id": "D",
+          "text": "neglecting the Babylonian priesthood"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The judgment is pronounced directly in response to Nebuchadnezzar's self-congratulation: \"Is not this great Babylon, that I have built...by the might of my power, and for the honour of my majesty?\" (4:30) — immediately followed by the sentence, \"till thou know that the most High ruleth in the kingdom of men\" (4:25). The lesson is specifically about pride and self-exaltation, not idolatry, military failure, or priestly neglect."
+    },
+    {
+      "id": 6,
+      "prompt": "The handwriting on the wall at Belshazzar's feast (ch. 5) pronounced that the king",
+      "choices": [
+        {
+          "id": "A",
+          "text": "would be given more time to repent"
+        },
+        {
+          "id": "B",
+          "text": "had been \"weighed in the balances, and found wanting,\" his kingdom finished"
+        },
+        {
+          "id": "C",
+          "text": "would be restored like his father Nebuchadnezzar"
+        },
+        {
+          "id": "D",
+          "text": "had fulfilled all righteousness"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Daniel's interpretation is explicit: \"TEKEL; Thou art weighed in the balances, and art found wanting....Thy kingdom is divided, and given to the Medes and Persians\" (5:27–28) — a pronouncement of finished judgment, not a reprieve, fulfilled that same night when \"Belshazzar the king of the Chaldeans\" was slain (5:30)."
+    },
+    {
+      "id": 7,
+      "prompt": "Daniel's conduct under the thirty-day prayer decree (ch. 6) is notable because he",
+      "choices": [
+        {
+          "id": "A",
+          "text": "stopped praying temporarily to avoid detection"
+        },
+        {
+          "id": "B",
+          "text": "prayed secretly so as not to be noticed"
+        },
+        {
+          "id": "C",
+          "text": "continued praying openly three times a day exactly as he had done before"
+        },
+        {
+          "id": "D",
+          "text": "petitioned the king for an exception before the decree was signed"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The text states that Daniel, on learning of the decree, \"kneeled upon his knees three times a day, and prayed, and gave thanks before his God, as he did aforetime\" (6:10) — simple, unbroken, undisguised continuation of his established pattern of devotion, neither hiding it out of fear nor provoking confrontation for its own sake."
+    },
+    {
+      "id": 8,
+      "prompt": "The four beasts of Daniel 7 correspond to the four metals of Daniel 2 as follows",
+      "choices": [
+        {
+          "id": "A",
+          "text": "lion/gold (Babylon), bear/silver (Medo-Persia), leopard/brass (Greece), dreadful beast/iron (Rome)"
+        },
+        {
+          "id": "B",
+          "text": "lion/iron, bear/gold, leopard/silver, dreadful beast/brass"
+        },
+        {
+          "id": "C",
+          "text": "the two visions describe entirely unrelated kingdoms"
+        },
+        {
+          "id": "D",
+          "text": "all four beasts represent the same kingdom at different times"
+        }
+      ],
+      "answer": "A",
+      "explanation": "The four beasts of Daniel 7 are the same four kingdoms symbolized by the metals of Daniel 2, in the same order: the lion (7:4) parallels the head of gold (Babylon); the bear (7:5) parallels the silver (Medo-Persia); the leopard (7:6) parallels the brass (Greece); and the dreadful, composite fourth beast (7:7) parallels the iron legs (Rome) — two independent visions confirming the same prophetic sequence."
+    },
+    {
+      "id": 9,
+      "prompt": "The little horn of Daniel 7, arising among the ten divided kingdoms of Europe, is identified by Adventists as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Ottoman Empire"
+        },
+        {
+          "id": "B",
+          "text": "Napoleon Bonaparte"
+        },
+        {
+          "id": "C",
+          "text": "the papacy, which displaced three Germanic tribes in its rise to dominance"
+        },
+        {
+          "id": "D",
+          "text": "the nation of Israel"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The little horn \"plucked up by the roots\" three of the first horns (7:8) as it rose to power — identified by Adventist interpreters with the papacy's displacement of three Arian Germanic tribes (the Heruli, Vandals, and Ostrogoths) that stood in the way of its rise to religio-political supremacy in post-Roman Europe, matching the horn's further description as speaking \"great words against the most High\" and seeking \"to change times and laws\" (7:25)."
+    },
+    {
+      "id": 10,
+      "prompt": "In Daniel 8, the ram and the he goat are explicitly identified within the text itself as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Babylon and Egypt"
+        },
+        {
+          "id": "B",
+          "text": "Medo-Persia and Greece"
+        },
+        {
+          "id": "C",
+          "text": "Rome and the papacy"
+        },
+        {
+          "id": "D",
+          "text": "Assyria and Babylon"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The text interprets its own symbols directly: \"The ram which thou sawest having two horns are the kings of Media and Persia....the rough goat is the king of Grecia\" (8:20–21) — one of the clearest self-interpreting prophecies in Scripture, leaving no doubt as to the historical powers intended."
+    },
+    {
+      "id": 11,
+      "prompt": "The 2,300 days of Daniel 8:14, on the year-day principle, point to the cleansing of the sanctuary, understood by Adventists as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the physical rebuilding of the Jerusalem temple"
+        },
+        {
+          "id": "B",
+          "text": "the pre-Advent investigative judgment, beginning in the heavenly sanctuary in 1844"
+        },
+        {
+          "id": "C",
+          "text": "the destruction of Jerusalem in A.D. 70"
+        },
+        {
+          "id": "D",
+          "text": "the Protestant Reformation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Daniel 8:14 states, \"Unto two thousand and three hundred days; then shall the sanctuary be cleansed.\" Applying the year-day principle (Num. 14:34; Ezek. 4:6) yields 2,300 literal years; beginning from the 457 B.C. decree (the same starting point as the seventy weeks, which are explicitly \"cut off\" from this longer period, 9:24), the period terminates in 1844, understood as the start of Christ's investigative judgment ministry in the Most Holy Place of the heavenly sanctuary."
+    },
+    {
+      "id": 12,
+      "prompt": "The seventy weeks of Daniel 9, beginning with the 457 B.C. decree to restore and build Jerusalem, are \"cut off\" from",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the 1,260-year prophecy of Daniel 7"
+        },
+        {
+          "id": "B",
+          "text": "the longer 2,300-day prophecy of Daniel 8, sharing the same starting point"
+        },
+        {
+          "id": "C",
+          "text": "the millennium of Revelation 20"
+        },
+        {
+          "id": "D",
+          "text": "no other prophecy"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Daniel 9:24 states the seventy weeks (490 years) \"are determined,\" using a Hebrew term meaning literally \"cut off,\" upon Daniel's people — cut off from the longer 2,300-day prophecy of chapter 8, both sharing the same starting point (the 457 B.C. decree), so that the precisely fulfilled dates of the seventy weeks serve as a confirming anchor for the chronology of the larger, 2,300-day prophecy as well."
+    },
+    {
+      "id": 13,
+      "prompt": "Daniel 9:25–27 places the Messiah's anointing (baptism) at the end of 69 weeks (483 years) from 457 B.C., landing on",
+      "choices": [
+        {
+          "id": "A",
+          "text": "A.D. 70"
+        },
+        {
+          "id": "B",
+          "text": "A.D. 27"
+        },
+        {
+          "id": "C",
+          "text": "1844"
+        },
+        {
+          "id": "D",
+          "text": "1798"
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"From the going forth of the commandment to restore and to build Jerusalem unto the Messiah the Prince shall be seven weeks, and threescore and two weeks\" — 69 weeks, or 483 years. Beginning at 457 B.C., this period of time reaches to A.D. 27, the year of Christ's baptism and anointing by the Holy Spirit (cf. Acts 10:38; Luke 3:21–22), the formal beginning of His Messianic (\"anointed\") public ministry."
+    },
+    {
+      "id": 14,
+      "prompt": "In the midst of the seventieth week (A.D. 31), Daniel 9:27 states that the Messiah would",
+      "choices": [
+        {
+          "id": "A",
+          "text": "establish an earthly political kingdom"
+        },
+        {
+          "id": "B",
+          "text": "cause the sacrifice and oblation to cease, fulfilled at the cross"
+        },
+        {
+          "id": "C",
+          "text": "be crowned king of Israel"
+        },
+        {
+          "id": "D",
+          "text": "rebuild the Jerusalem temple"
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"In the midst of the week he shall cause the sacrifice and the oblation to cease\" (9:27) — three and a half years into the final week, that is, in A.D. 31, at the cross. Christ's death rendered the entire typical sacrificial system obsolete, since the reality it had always pointed toward had now been accomplished."
+    },
+    {
+      "id": 15,
+      "prompt": "In Daniel 10, the angel explains his twenty-one-day delay by saying that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "he had become lost on the journey"
+        },
+        {
+          "id": "B",
+          "text": "\"the prince of the kingdom of Persia withstood me,\" until Michael came to help"
+        },
+        {
+          "id": "C",
+          "text": "Daniel had not prayed with sufficient faith"
+        },
+        {
+          "id": "D",
+          "text": "the delay was never explained"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The angel explains plainly: \"the prince of the kingdom of Persia withstood me one and twenty days: but, lo, Michael, one of the chief princes, came to help me\" (10:13) — a glimpse behind the visible, political order into an unseen conflict of spiritual forces contending over the course of nations and the outcome of Daniel's prayer."
+    },
+    {
+      "id": 16,
+      "prompt": "Michael, named in Daniel 10 and 12, is understood by Seventh-day Adventists to be",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a created archangel distinct from Christ"
+        },
+        {
+          "id": "B",
+          "text": "another name for Christ Himself, Commander of heaven's hosts"
+        },
+        {
+          "id": "C",
+          "text": "the guardian angel of the nation of Israel only, unrelated to Christ"
+        },
+        {
+          "id": "D",
+          "text": "a title applied to Daniel himself"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Adventist interpretation identifies Michael (\"who is like God\") as another name for Christ Himself in His role as Commander of heaven's armies, based on His unique characteristics elsewhere in Scripture: He alone is able to dispute with Satan over Moses' body (Jude 9), and the archangel's voice is specifically associated with Christ's own return at the resurrection of the dead (1 Thess. 4:16) — functions appropriate to Christ, not to a created angel."
+    },
+    {
+      "id": 17,
+      "prompt": "Daniel 11's detailed history of \"the king of the north\" and \"the king of the south\" is widely regarded as significant because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "it is purely symbolic with no historical correspondence"
+        },
+        {
+          "id": "B",
+          "text": "its level of verifiable historical detail is matched by no other prophecy in Scripture"
+        },
+        {
+          "id": "C",
+          "text": "it concerns only the Roman Empire"
+        },
+        {
+          "id": "D",
+          "text": "it was written after the events it describes"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Daniel 11's minutely detailed, chronologically sequential history of the successive conflicts between \"the king of the north\" and \"the king of the south,\" extending across centuries with striking historical correspondence, has led many students of prophecy to regard it as the single most detailed and verifiable predictive prophecy contained anywhere in Scripture."
+    },
+    {
+      "id": 18,
+      "prompt": "\"Michael shall stand up\" (Dan. 12:1) marks",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the beginning of Christ's earthly ministry"
+        },
+        {
+          "id": "B",
+          "text": "the close of Christ's mediatorial work in the heavenly sanctuary and the end of probation"
+        },
+        {
+          "id": "C",
+          "text": "the start of the millennium"
+        },
+        {
+          "id": "D",
+          "text": "the fall of Jerusalem in A.D. 70"
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"At that time shall Michael stand up\" (12:1) is understood to mark the close of Christ's mediatorial, intercessory work in the heavenly sanctuary — the end of probation for the human race — immediately preceding the final, unprecedented \"time of trouble\" and the deliverance of God's people at the Second Coming."
+    },
+    {
+      "id": 19,
+      "prompt": "Daniel 12:2, \"Many of them that sleep in the dust of the earth shall awake,\" teaches",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the immediate ascent of the soul to heaven at death"
+        },
+        {
+          "id": "B",
+          "text": "a future, literal, bodily resurrection of both the righteous and the wicked"
+        },
+        {
+          "id": "C",
+          "text": "reincarnation"
+        },
+        {
+          "id": "D",
+          "text": "that only the righteous will ever be resurrected"
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"Many of them that sleep in the dust of the earth shall awake, some to everlasting life, and some to shame and everlasting contempt\" (12:2) is one of the clearest Old Testament statements of a future, literal, bodily resurrection encompassing both the righteous and the wicked — the dead described as asleep \"in the dust\" until that awakening, consistent with the state-of-the-dead doctrine taught throughout Scripture."
+    },
+    {
+      "id": 20,
+      "prompt": "Daniel was told to \"seal the book...even to the time of the end\" (12:4), in contrast to Revelation, which is explicitly described as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "sealed with seven seals, never to be opened"
+        },
+        {
+          "id": "B",
+          "text": "\"not sealed,\" given for the generation living near the end"
+        },
+        {
+          "id": "C",
+          "text": "identical in content to Daniel, with nothing new"
+        },
+        {
+          "id": "D",
+          "text": "addressed only to the twelve apostles"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Daniel is told, \"shut up the words, and seal the book, even to the time of the end\" (12:4) — its prophecies left partly obscured until a later generation, equipped by \"knowledge...increased,\" would be positioned to understand them. Revelation, by direct contrast, is told, \"Seal not the sayings of the prophecy of this book: for the time is at hand\" (Rev. 22:10) — the two books functioning as sealed and unsealed halves of a single unfolding prophetic revelation."
+    }
+  ]
+}

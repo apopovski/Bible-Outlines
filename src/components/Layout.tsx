@@ -11,14 +11,15 @@ export function Layout() {
         <nav className="nav-links" aria-label="Primary">
           <Link to="/">Library</Link>
           <Link to="/books/genesis">Genesis</Link>
-          <Link to="/books/genesis/quiz">Quiz</Link>
+          <Link to="/books/exodus">Exodus</Link>
+          <Link to="/books/revelation">Revelation</Link>
         </nav>
       </header>
       <Outlet />
       <footer className="site-footer">
         <p>
-          <strong>Bible Outlines</strong> — interactive study for every book of
-          Scripture. Genesis now; more books ahead.
+          <strong>Bible Outlines</strong> — interactive study across Scripture.
+          Genesis, Exodus, Isaiah, Daniel, John, and Revelation are ready now.
         </p>
       </footer>
     </div>

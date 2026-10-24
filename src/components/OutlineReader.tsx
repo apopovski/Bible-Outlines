@@ -85,7 +85,12 @@ export function OutlineReader({
                         </div>
                       ),
                     )}
-                    {sub.sop ? <blockquote className="sop">{sub.sop}</blockquote> : null}
+                    {sub.commentary ? (
+                      <blockquote className="commentary">
+                        <span className="commentary__label">Commentary</span>
+                        {sub.commentary}
+                      </blockquote>
+                    ) : null}
                   </article>
                 )
               })}

@@ -1,5 +1,10 @@
 import type { BookData, BookMeta } from '../types'
+import daniel from './daniel.json'
+import exodus from './exodus.json'
 import genesis from './genesis.json'
+import isaiah from './isaiah.json'
+import john from './john.json'
+import revelation from './revelation.json'
 
 export const booksCatalog: BookMeta[] = [
   {
@@ -22,46 +27,60 @@ export const booksCatalog: BookMeta[] = [
     testament: 'Old Testament',
     order: 2,
     chapters: '1–40',
-    tagline: 'Coming soon — redemption from Egypt and the covenant at Sinai.',
-    available: false,
+    tagline: 'Redemption from Egypt, covenant at Sinai, and the sanctuary.',
+    available: true,
   },
   {
-    id: 'leviticus',
-    name: 'Leviticus',
-    hebrew: 'Vayikra',
-    subtitle: 'And He Called',
+    id: 'isaiah',
+    name: 'Isaiah',
+    hebrew: 'Yeshayahu',
+    subtitle: 'Yahweh is Salvation',
     testament: 'Old Testament',
-    order: 3,
-    chapters: '1–27',
-    tagline: 'Coming soon — holiness, sacrifice, and the sanctuary.',
-    available: false,
+    order: 23,
+    chapters: '1–66',
+    tagline: 'The evangelical prophet — Messiah, Servant, and new creation.',
+    available: true,
   },
   {
-    id: 'numbers',
-    name: 'Numbers',
-    hebrew: 'Bamidbar',
-    subtitle: 'In the Wilderness',
+    id: 'daniel',
+    name: 'Daniel',
+    hebrew: 'Daniyyel',
+    subtitle: 'God is My Judge',
     testament: 'Old Testament',
-    order: 4,
-    chapters: '1–36',
-    tagline: 'Coming soon — wilderness wanderings and faithfulness.',
-    available: false,
+    order: 27,
+    chapters: '1–12',
+    tagline: 'Faithfulness in exile and the sweep of prophetic history.',
+    available: true,
   },
   {
-    id: 'deuteronomy',
-    name: 'Deuteronomy',
-    hebrew: 'Devarim',
-    subtitle: 'Words',
-    testament: 'Old Testament',
-    order: 5,
-    chapters: '1–34',
-    tagline: 'Coming soon — covenant renewal before the Jordan.',
-    available: false,
+    id: 'john',
+    name: 'John',
+    subtitle: 'The Word Made Flesh',
+    testament: 'New Testament',
+    order: 43,
+    chapters: '1–21',
+    tagline: 'Signs, discourses, and life through His name.',
+    available: true,
+  },
+  {
+    id: 'revelation',
+    name: 'Revelation',
+    subtitle: 'The Revelation of Jesus Christ',
+    testament: 'New Testament',
+    order: 66,
+    chapters: '1–22',
+    tagline: 'Christ unveiled — churches, conflict, and the new earth.',
+    available: true,
   },
 ]
 
 const bookData: Record<string, BookData> = {
   genesis: genesis as BookData,
+  exodus: exodus as BookData,
+  isaiah: isaiah as BookData,
+  daniel: daniel as BookData,
+  john: john as BookData,
+  revelation: revelation as BookData,
 }
 
 export function getBook(id: string): BookData | null {
@@ -71,3 +90,5 @@ export function getBook(id: string): BookData | null {
 export function getCatalogEntry(id: string): BookMeta | undefined {
   return booksCatalog.find((b) => b.id === id)
 }
+
+export const availableBooks = booksCatalog.filter((b) => b.available)

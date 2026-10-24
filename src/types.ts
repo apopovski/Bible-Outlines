@@ -20,7 +20,7 @@ export type Subsection = {
   title: string
   highYield: boolean
   points: Point[]
-  sop: string | null
+  commentary: string | null
 }
 
 export type Section = {
@@ -40,7 +40,7 @@ export type TypePair = {
 export type BookMeta = {
   id: string
   name: string
-  hebrew?: string
+  hebrew?: string | null
   subtitle: string
   testament: 'Old Testament' | 'New Testament'
   order: number

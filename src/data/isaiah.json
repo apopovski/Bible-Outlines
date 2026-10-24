@@ -1,0 +1,1869 @@
+{
+  "meta": {
+    "id": "isaiah",
+    "name": "Isaiah",
+    "hebrew": "Yeshayahu",
+    "subtitle": "Yahweh is Salvation",
+    "testament": "Old Testament",
+    "order": 23,
+    "chapters": "1–66",
+    "tagline": "An interactive outline of Isaiah in the Seventh-day Adventist doctrine, following Ellen G. White, Prophets and Kings.",
+    "divisions": [
+      {
+        "title": "Judgment and promise",
+        "range": "chs. 1–39",
+        "focus": "Assyrian crisis and Messianic hope"
+      },
+      {
+        "title": "Comfort and redemption",
+        "range": "chs. 40–66",
+        "focus": "Servant, atonement, new creation"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "I",
+      "roman": "I",
+      "title": "INTRODUCTION, AUTHORSHIP, AND STRUCTURE",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The prophet and his times",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Isaiah, son of Amoz, prophesied in Judah \"in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah\" (1:1) — roughly 740–680 B.C., a period spanning the fall of the northern kingdom of Israel to Assyria (722 B.C.) and the near-destruction of Judah itself under Sennacherib's invasion (701 B.C.). By tradition he was of noble birth, had ready access to the royal court, and, according to Jewish tradition preserved by the church fathers, was martyred under the wicked king Manasseh, \"sawn asunder\" (cf. Heb. 11:37).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Isaiah as \"the fifth Gospel\"",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "No Old Testament book is cited more often in the New Testament, and none sets forth the person and work of the Messiah more fully — the virgin birth (7:14), the child of government and peace (9:6–7), the Spirit-anointed servant (11:1–5; 42:1–4), the suffering, substitutionary servant (52:13–53:12), and the final glory of the redeemed new creation (65:17; 66:22) are all given here with a clarity and fullness that has earned Isaiah the traditional title \"the fifth Gospel\" or \"the evangelical prophet.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"Isaiah's prophecies...outline the history of the people of God....The whole book, from first to last, deals with the great conflict between good and evil.\" Prophets and Kings, p. 311."
+        },
+        {
+          "letter": "C",
+          "title": "The broad structure of the book",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapters 1–39 — largely a book of judgment, set against the Assyrian crisis of Isaiah's own lifetime, interspersed with Messianic promise; closes with the historical narrative of Hezekiah and the Babylonian envoys (chs. 36–39), which forms the hinge to the second half.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Chapters 40–66 — a sustained book of comfort and future hope, addressed prophetically to a later generation in Babylonian captivity, climaxing in the Servant's atoning death (ch. 53) and the new heavens and new earth (chs. 65–66).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The sixty-six chapters of Isaiah are frequently noted to mirror, in miniature, the sixty-six books of the Bible itself: thirty-nine chapters of law and judgment (paralleling the thirty-nine Old Testament books), followed by twenty-seven chapters of gospel comfort beginning \"Comfort ye, comfort ye my people\" (paralleling the twenty-seven New Testament books) — an observation of structural symmetry rather than a claim about the book's compositional history.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "II",
+      "roman": "II",
+      "title": "JUDAH'S SIN AND THE COMING JUDGMENT (1:1–5:30)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The indictment and the call to repentance",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book opens with God's own lawsuit against His people: \"Hear, O heavens, and give ear, O earth: for the LORD hath spoken, I have nourished and brought up children, and they have rebelled against me\" (1:2) — a nation more spiritually obtuse than \"the ox\" that \"knoweth his owner\" (1:3).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Formal, external worship divorced from justice and mercy is explicitly rejected: \"To what purpose is the multitude of your sacrifices unto me?...bring no more vain oblations...your new moons and your appointed feasts my soul hateth\" (1:11–14) — the problem is not ritual itself but ritual as a substitute for righteousness.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The gracious invitation follows immediately: \"Come now, and let us reason together, saith the LORD: though your sins be as scarlet, they shall be as white as snow\" (1:18) — judgment is never God's final word while repentance remains possible.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The song of the vineyard",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 5 pictures Judah as a carefully tended vineyard that nonetheless \"brought forth wild grapes\" (5:2, 4) — explicitly interpreted: \"the vineyard of the LORD of hosts is the house of Israel...he looked for judgment, but behold oppression; for righteousness, but behold a cry\" (5:7), followed by a series of six woes pronounced on specific social sins (5:8–23).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "III",
+      "roman": "III",
+      "title": "THE PROPHET'S CALL AND COMMISSION (6:1–13)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The throne-room vision",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"In the year that king Uzziah died\" — the year Judah's long, stable reign ended — Isaiah \"saw also the Lord sitting upon a throne, high and lifted up,\" with seraphim crying one to another, \"Holy, holy, holy, is the LORD of hosts: the whole earth is full of his glory\" (6:1, 3), the threefold repetition the strongest form of emphasis in Hebrew, underscoring the absolute, surpassing holiness of God.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Confronted with this vision, Isaiah's immediate response is not awe alone but conviction of personal and corporate sin: \"Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips\" (6:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "A seraph touches his mouth with \"a live coal...from off the altar,\" pronouncing, \"thine iniquity is taken away, and thy sin purged\" (6:6–7) — cleansing proceeding directly from the altar of sacrifice, sanctuary imagery present at the very commissioning of the prophet.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The commission and its hard message",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Only after cleansing does Isaiah hear, \"Whom shall I send, and who will go for us?\" and answer, \"Here am I; send me\" (6:8) — the pattern of call: vision of holiness, conviction of sin, cleansing, then commission. The message he is given is deliberately, paradoxically hard: to a people who will \"hear...but understand not,\" preaching that, far from softening hearts, will in context harden them further, a judicial hardening following persistent, willful rejection of earlier light (6:9–10; cf. Christ's own application of this text in Matt. 13:14–15).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IV",
+      "roman": "IV",
+      "title": "THE BOOK OF IMMANUEL: MESSIANIC PROPHECY AMID CRISIS (7:1–12:6)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The sign of Immanuel",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "With Jerusalem under threat of siege by the allied kings of Syria and Israel, and Ahaz's heart \"moved as the trees of the wood are moved with the wind\" (7:2), Isaiah brings assurance along with an offered sign, which the faithless king refuses to request (7:10–12). God gives the sign unasked: \"Behold, a virgin shall conceive, and bear a son, and shall call his name Immanuel\" (\"God with us,\" 7:14) — a prophecy with a near fulfillment in Isaiah's own day (cf. 8:3–4, a child as a sign of Judah's coming deliverance from her immediate enemies) and a far, complete fulfillment in the literal virgin birth of Christ, as Matthew 1:22–23 explicitly affirms.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The child of government and peace",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"For unto us a child is born, unto us a son is given: and the government shall be upon his shoulder: and his name shall be called Wonderful, Counsellor, The mighty God, The everlasting Father, The Prince of Peace\" (9:6) — a cluster of titles claiming nothing less than full deity for the promised child, \"The mighty God\" (El Gibbor) being the identical title Isaiah applies to the LORD Himself in 10:21.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "His kingdom is described as one \"of peace there shall be no end, upon the throne of David, and upon his kingdom, to order it, and to establish it with judgment and with justice from henceforth even for ever\" (9:7) — a reign unlimited in both duration and moral character.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The righteous Branch and the peaceable kingdom",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"There shall come forth a rod out of the stem of Jesse, and a Branch shall grow out of his roots\" (11:1) — Messiah arising, humanly speaking, from a royal line reduced to a mere stump, upon whom \"the spirit of the LORD shall rest...the spirit of wisdom and understanding, the spirit of counsel and might, the spirit of knowledge and of the fear of the LORD\" (11:2).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The chapter's vision of the wolf dwelling \"with the lamb\" and the lion eating \"straw like the ox\" (11:6–7), understood as the restored harmony of the new earth rather than a merely figurative description of millennial social conditions, concludes with the great promise, \"the earth shall be full of the knowledge of the LORD, as the waters cover the sea\" (11:9).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Doctrines Established in Isaiah",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Isaiah contributes the following doctrinal foundations, confirmed throughout Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Doctrine",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Isaiah basis",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Confirmed in",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "The full, pre-existent deity of the Messiah",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "Isa. 9:6; 7:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "John 1:1, 14; Matt. 1:23; Col. 2:9",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "The literal virgin birth of Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "Isa. 7:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "Matt. 1:18–23; Luke 1:34–35",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "The origin of sin in Lucifer's pride and self-exaltation",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "Isa. 14:12–14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "Ezek. 28:12–17; Rev. 12:7–9; 1 Tim. 3:6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "The vicarious, substitutionary atonement of Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "Isa. 53:4–6, 10–12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "Rom. 5:8; 2 Cor. 5:21; 1 Pet. 2:24",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "The bodily resurrection of the dead",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "Isa. 26:19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "Dan. 12:2; John 5:28–29; 1 Cor. 15:51–54",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "The final, complete destruction of Satan and sin",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "Isa. 27:1",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "Mal. 4:1, 3; Rev. 20:10, 14–15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "The Sabbath as a perpetual delight, continuing into the new earth",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "Isa. 58:13–14; 66:23",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "Ex. 20:8–11; Mark 2:27; Rev. 22:1–3",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "God's uniqueness proved by predictive prophecy",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Isa. 41:22–23; 44:7; 46:9–10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "Deut. 18:21–22; 2 Pet. 1:19–21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "Salvation offered freely, by grace, without merit",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "Isa. 55:1–3",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "Eph. 2:8–9; Rev. 22:17",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "True worship inseparable from practical justice and mercy",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "Isa. 1:11–17; 58:6–7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "Mic. 6:6–8; James 1:27",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "The gospel's commission to all nations, not Israel alone",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "Isa. 49:6; 60:3",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "Luke 2:32; Acts 13:47; 26:23",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "Christ's present, ongoing ministry fulfilling Isaiah 61 \"this day\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "Isa. 61:1–2",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Luke 4:17–21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "Confession and forgiveness of sin, \"sins as scarlet...white as snow\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "Isa. 1:18",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "1 John 1:9; Ps. 51:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "The new heavens and new earth as the believer's final hope",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "Isa. 65:17; 66:22",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "2 Pet. 3:13; Rev. 21:1",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "The Redeemer's coming tied to repentance, \"to them that turn from transgression\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 51,
+              "text": "Isa. 59:20",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 52,
+              "text": "Rom. 11:26–27; Acts 3:19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 53,
+              "text": "The incomparable greatness and sovereignty of God over history and nations",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 54,
+              "text": "Isa. 40:12–18, 22–26",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 55,
+              "text": "Dan. 4:35; Rom. 11:33–36",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "V",
+      "roman": "V",
+      "title": "ORACLES AGAINST THE NATIONS AND THE FALL OF LUCIFER (13:1–23:18)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Judgment on Babylon and the taunt against the king of Babylon",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Among a series of oracles against surrounding nations (Babylon, Assyria, Philistia, Moab, Damascus, Egypt, Tyre, and others), the taunt-song against \"the king of Babylon\" (14:4) rises, in verses 12–14, to language no merely human king could satisfy: \"How art thou fallen from heaven, O Lucifer, son of the morning!...I will exalt my throne above the stars of God...I will be like the most High\" (14:12–14) — understood, as with the closely parallel oracle against the \"king of Tyrus\" in Ezekiel 28:12–17, to describe the original fall of Satan himself behind and beyond the human ruler the prophecy immediately addresses.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The five \"I will\" statements of 14:13–14 trace the precise progression of self-exaltation at the root of the great controversy between Christ and Satan — pride seeking to ascend, to be enthroned, to be worshiped, culminating in \"I will be like the most High.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VI",
+      "roman": "VI",
+      "title": "THE LITTLE APOCALYPSE: COSMIC JUDGMENT AND RESURRECTION (24:1–27:13)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Universal judgment and the feast on the mountain",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapters 24–27, often called \"Isaiah's apocalypse\" for their shift from judgments on particular nations to a vision of worldwide, cosmic scope, open with \"the earth is utterly broken down...clean dissolved...moved exceedingly\" under \"the curse\" that \"devoureth the earth\" (24:19–20, 6) — a scene of final, global judgment.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Against this backdrop comes one of the Old Testament's clearest previews of the gospel's final triumph: \"the LORD of hosts make unto all people a feast...he will swallow up death in victory; and the Lord GOD will wipe away tears from off all faces\" (25:6–8) — language Paul and John both draw on directly (1 Cor. 15:54; Rev. 21:4; 7:17).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The resurrection and the slaying of Leviathan",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust: for thy dew is as the dew of herbs, and the earth shall cast out the dead\" (26:19) — one of the clearest Old Testament statements of bodily resurrection, followed by the final defeat of \"leviathan the piercing serpent...that crooked serpent\" (27:1), the same figure Revelation identifies with Satan (Rev. 12:9; 20:2).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VII",
+      "roman": "VII",
+      "title": "WOES AND THE ASSYRIAN CRISIS: FAITH TESTED (28:1–35:10)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The sure foundation stone",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Amid a series of woes against drunken Ephraim and faithless Jerusalem's reliance on political alliance with Egypt rather than trust in God, the LORD promises: \"Behold, I lay in Zion for a foundation a stone, a tried stone, a precious corner stone, a sure foundation: he that believeth shall not make haste\" (28:16) — a prophecy the New Testament applies directly to Christ as the rejected-yet-chosen cornerstone of God's true building (Rom. 9:33; 1 Pet. 2:6).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Future glory: the desert shall blossom",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"The wilderness and the solitary place shall be glad for them; and the desert shall rejoice, and blossom as the rose\" (35:1), culminating in the great highway of holiness, where \"the ransomed of the LORD shall return, and come to Zion with songs and everlasting joy upon their heads: they shall obtain joy and gladness, and sorrow and sighing shall flee away\" (35:10) — the climactic promise closing the Assyrian-era section of the book.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VIII",
+      "roman": "VIII",
+      "title": "HISTORICAL INTERLUDE: HEZEKIAH, SENNACHERIB, AND THE BABYLONIAN ENVOYS (36:1–39:8)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Sennacherib's invasion and Hezekiah's prayer",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "With Jerusalem surrounded and the Assyrian field commander (Rabshakeh) openly blaspheming the God of Israel — \"Who are they among all the gods of these lands, that have delivered their land out of my hand, that the LORD should deliver Jerusalem?\" (36:20) — Hezekiah \"spread it,\" the taunting letter, \"before the LORD\" in the temple, praying, \"O LORD our God, save us from his hand, that all the kingdoms of the earth may know that thou art the LORD, even thou only\" (37:14, 20).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The answer comes that same night: \"the angel of the LORD went out, and smote in the camp of the Assyrians a hundred and fourscore and five thousand\" (37:36) — total, miraculous deliverance without a single human blow struck by Judah, a direct fulfillment of the faith lesson of 28:16, \"he that believeth shall not make haste.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Hezekiah's illness and the fatal display to Babylon",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Hezekiah's illness and miraculous fifteen-year extension of life (38:1–8) is followed by a far less creditable episode: receiving envoys from Babylon, he proudly displays \"all that was found in his treasures\" (39:2), prompting Isaiah's sobering prophecy that \"all that is in thine house...shall be carried to Babylon\" (39:6) — planting, within the historical section itself, the seed of the Babylonian-captivity setting that frames the whole second half of the book.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IX",
+      "roman": "IX",
+      "title": "COMFORT FOR GOD'S PEOPLE: THE GREATNESS AND INCOMPARABILITY OF GOD (40:1–48:22)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "\"Comfort ye, comfort ye my people\"",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The second half of the book opens with a wholly new tone, addressed prophetically to the generation of the Babylonian exile still a century and a half future to Isaiah: \"Comfort ye, comfort ye my people, saith your God...her warfare is accomplished, that her iniquity is pardoned\" (40:1–2), followed immediately by \"The voice of him that crieth in the wilderness, Prepare ye the way of the LORD\" (40:3), a text all four Gospels apply directly to John the Baptist (Matt. 3:3; Mark 1:3; Luke 3:4; John 1:23).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The incomparable Creator and the vanity of idols",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "God's unmatched greatness is set repeatedly against the impotence of man-made idols: \"To whom then will ye liken God?...It is he that sitteth upon the circle of the earth\" (40:18, 22); the LORD alone \"hath measured the waters in the hollow of his hand\" (40:12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "God's unique ability to declare \"the former things\" and announce \"new things\" before they occur — predictive prophecy itself — is repeatedly offered as the decisive proof of His deity against the false gods of the nations: \"shew the things that are to come hereafter, that we may know that ye are gods\" (41:22–23; cf. 44:7; 46:9–10).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "God names Cyrus of Persia by name roughly a century and a half before his birth, calling him \"my shepherd\" and \"his anointed\" who would decree Jerusalem's rebuilding (44:28; 45:1) — among the most striking examples of detailed predictive prophecy in Scripture, later literally fulfilled in Cyrus's decree of 538 B.C. (Ezra 1:1–4).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "X",
+      "roman": "X",
+      "title": "THE SERVANT SONGS (42:1–9; 49:1–13; 50:4–11; 52:13–53:12)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The first three Servant Songs",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Behold my servant, whom I uphold...I have put my spirit upon him: he shall bring forth judgment to the Gentiles\" (42:1) — the Spirit-anointed Servant, gentle rather than coercive: \"A bruised reed shall he not break, and the smoking flax shall he not quench\" (42:3), applied directly to Christ in Matthew 12:17–21.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"The LORD hath called me from the womb...and said unto me, Thou art my servant...I will also give thee for a light to the Gentiles, that thou mayest be my salvation unto the end of the earth\" (49:1, 3, 6) — the Servant's mission extending beyond Israel to all nations.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"I gave my back to the smiters, and my cheeks to them that plucked off the hair: I hid not my face from shame and spitting\" (50:6) — a prophetic foreshadowing of the physical abuse Christ would suffer at His trial, met with voluntary, non-retaliatory submission.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The fourth Servant Song: the suffering, substitutionary Servant (52:13–53:12)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"He hath no form nor comeliness...he is despised and rejected of men; a man of sorrows, and acquainted with grief\" (53:2–3) — His outward appearance offering no worldly inducement to belief, and His reception one of contempt rather than acclaim.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The chapter's substitutionary center: \"he was wounded for our transgressions, he was bruised for our iniquities: the chastisement of our peace was upon him; and with his stripes we are healed....the LORD hath laid on him the iniquity of us all\" (53:5–6) — vicarious, substitutionary atonement stated as plainly as anywhere in Scripture, centuries before the cross.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"He is brought as a lamb to the slaughter...he opened not his mouth\" (53:7), matching John the Baptist's identification of Christ as \"the Lamb of God\" (John 1:29) and Christ's own silence before His accusers (Matt. 27:12–14).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "\"He was cut off out of the land of the living: for the transgression of my people was he stricken....he made his grave with the wicked, and with the rich in his death\" (53:8–9) — fulfilled with precision in Christ's crucifixion alongside criminals yet burial in the tomb of the rich Joseph of Arimathea (Matt. 27:57–60).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "\"When thou shalt make his soul an offering for sin, he shall see his seed, he shall prolong his days...he shall see of the travail of his soul, and shall be satisfied\" (53:10–11) — death followed by resurrection, continued life, and ultimate triumph, not final defeat.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"Before His crucifixion, Christ had declared to His disciples that He would be put to death, and had also told them of His resurrection....Isaiah had testified that His grave would be made 'with the rich in His death' (ch. 53:9).\" The Desire of Ages, p. 772."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XI",
+      "roman": "XI",
+      "title": "ZION'S FUTURE GLORY AND THE CALL TO TRUE WORSHIP (54:1–59:21)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Everlasting kindness and the free invitation",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"For a small moment have I forsaken thee; but with great mercies will I gather thee....with everlasting kindness will I have mercy on thee\" (54:7–8), followed by the open invitation of 55:1, \"Ho, every one that thirsteth, come ye to the waters...come, buy wine and milk without money and without price\" — salvation offered freely, grace rather than merit from first to last.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "True fasting and the Sabbath promise",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapter 58 redefines acceptable fasting away from mere outward affliction of the body toward practical justice and mercy: \"to loose the bands of wickedness...to deal thy bread to the hungry...is not this the fast that I have chosen?\" (58:6–7).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The chapter closes with one of the clearest Old Testament Sabbath texts: \"If thou turn away thy foot from the sabbath, from doing thy pleasure on my holy day...and call the sabbath a delight, the holy of the LORD, honourable...Then shalt thou delight thyself in the LORD\" (58:13–14) — Sabbath-keeping tied directly to delight rather than burdensome restriction, and to genuine fellowship with God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "Sin as the barrier, and the coming Redeemer",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Your iniquities have separated between you and your God, and your sins have hid his face from you\" (59:2), followed by God's own intervention where none other could be found: \"he saw that there was no man...therefore his arm brought salvation unto him\" (59:16), and the promise, \"the Redeemer shall come to Zion, and unto them that turn from transgression in Jacob\" (59:20, quoted in Rom. 11:26).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XII",
+      "roman": "XII",
+      "title": "THE GLORY OF ZION AND THE ANOINTED PREACHER (60:1–63:19)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Arise, shine; for thy light is come",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Arise, shine; for thy light is come, and the glory of the LORD is risen upon thee....the Gentiles shall come to thy light, and kings to the brightness of thy rising\" (60:1, 3) — a vision of Zion's future glory drawing the nations, applied prophetically both to the gospel's spread and, ultimately, to the glory of the New Jerusalem (cf. Rev. 21:23–24).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Christ's own reading in the Nazareth synagogue",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"The Spirit of the Lord GOD is upon me; because the LORD hath anointed me to preach good tidings unto the meek...to proclaim liberty to the captives...to proclaim the acceptable year of the LORD\" (61:1–2) — the very passage Christ read in the synagogue at Nazareth at the outset of His public ministry, closing the scroll after \"the acceptable year of the LORD\" and declaring, \"This day is this scripture fulfilled in your ears\" (Luke 4:17–21), deliberately stopping short of the passage's continuation, \"the day of vengeance of our God,\" reserved for His second coming.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIII",
+      "roman": "XIII",
+      "title": "THE NEW HEAVENS AND THE NEW EARTH (64:1–66:24)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The new creation and the end of the former things",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Behold, I create new heavens and a new earth: and the former shall not be remembered, nor come into mind....the voice of weeping shall be no more heard in her, nor the voice of crying\" (65:17–19) — language directly echoed in Revelation's own vision of the new creation (Rev. 21:1, 4), along with the promise that \"the wolf and the lamb shall feed together...they shall not hurt nor destroy in all my holy mountain\" (65:25).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Eternal, perpetual Sabbath worship",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book's closing vision extends Sabbath observance into the eternal state itself: \"it shall come to pass, that from one new moon to another, and from one sabbath to another, shall all flesh come to worship before me, saith the LORD\" (66:23) — the Sabbath not a temporary Mosaic institution set aside with the old covenant, but a perpetual memorial of worship continuing without interruption into the new earth.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The book closes, startlingly, on a somber final note alongside this glory — \"they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched\" (66:24) — the reality of final judgment held in view even at the climax of redemption's promise.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIV",
+      "roman": "XIV",
+      "title": "TYPE AND ANTITYPE IN ISAIAH",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Isaiah's typology of judgment and redemption",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Isaiah's prophetic imagery moves constantly between Israel's own historical experience (Assyrian crisis, Babylonian exile, return) and the ultimate, antitypical deliverance accomplished by the Messiah — the pattern of type and fulfillment running throughout both halves of the book.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of Isaiah's types is given below. Memorize the type, its antitype, and the New Testament passage establishing the connection.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The live coal from the altar, cleansing Isaiah's lips",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Christ's atoning sacrifice, the sole ground of cleansing from sin",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Isa. 6:6–7; Heb. 9:14; 1 John 1:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "The sign of Immanuel, a child born of a virgin",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Christ's literal virgin birth, \"God with us\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "Isa. 7:14; Matt. 1:22–23",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "The rod out of the stem of Jesse",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "Christ, arising from David's royal line though reduced to a mere stump",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "Isa. 11:1; Rev. 5:5; 22:16",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "The king of Babylon's self-exaltation (ch. 14)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "Lucifer's original fall through pride, the root of the great controversy",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "Isa. 14:12–14; Ezek. 28:12–17; Rev. 12:7–9",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "The feast of fat things on the mountain, swallowing up death",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "The marriage supper of the Lamb and the final victory over death",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "Isa. 25:6–8; 1 Cor. 15:54; Rev. 19:9; 21:4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "The resurrection of the dead, \"awake and sing, ye that dwell in dust\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "The bodily resurrection of the righteous",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "Isa. 26:19; John 5:28–29; 1 Cor. 15:52",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "Leviathan, the crooked serpent, finally slain",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "Satan, finally and completely destroyed",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "Isa. 27:1; Rev. 12:9; 20:10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "The sure foundation stone laid in Zion",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "Christ, the rejected yet chosen cornerstone of God's true temple",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Isa. 28:16; Rom. 9:33; 1 Pet. 2:6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "The voice crying in the wilderness, preparing the way",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "John the Baptist, forerunner of Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "Isa. 40:3; Matt. 3:1–3",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Cyrus, named by God as His \"shepherd\" and \"anointed\" before his birth",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "God's sovereign foreknowledge and control of history, and ultimately Christ, the true Shepherd and Anointed One",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "Isa. 44:28; 45:1; John 10:11",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "The Spirit-anointed Servant, gentle to the bruised reed",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "Christ's meek, non-coercive Messianic ministry",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "Isa. 42:1–3; Matt. 12:17–21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "The Servant led as a lamb to the slaughter (ch. 53)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "Christ, the Lamb of God, silent before His accusers",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "Isa. 53:7; John 1:29; Matt. 27:12–14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "The Servant's vicarious suffering, \"wounded for our transgressions\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "Christ's substitutionary atonement for the sins of all",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "Isa. 53:4–6; 1 Pet. 2:24; 2 Cor. 5:21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "The anointed preacher of Isaiah 61, proclaiming the acceptable year",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Christ's own reading and claimed fulfillment at Nazareth",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "Isa. 61:1–2; Luke 4:17–21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "The new heavens and new earth, former things not remembered",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "The eternal new creation following the great controversy's end",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "Isa. 65:17; 2 Pet. 3:13; Rev. 21:1",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "Sabbath to Sabbath worship continuing in Isaiah's closing vision",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "The eternal, unceasing Sabbath worship of the redeemed in the new earth",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "Isa. 66:23; Rev. 22:1–3",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XV",
+      "roman": "XV",
+      "title": "DOCTRINES ESTABLISHED IN ISAIAH",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The doctrinal center of the book",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "No Old Testament book contributes more directly to the church's understanding of the person and atoning work of Christ, the great controversy's origin in Lucifer's fall, the eternal Sabbath, and the final new creation — doctrines given with a clarity in Isaiah that the New Testament writers repeatedly draw upon directly.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of doctrines established in Isaiah is given below, with their basis in the book and their confirmation elsewhere in Scripture.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    }
+  ],
+  "types": [
+    {
+      "type": "The live coal from the altar, cleansing Isaiah's lips",
+      "antitype": "Christ's atoning sacrifice, the sole ground of cleansing from sin",
+      "scripture": "Isa. 6:6–7; Heb. 9:14; 1 John 1:7"
+    },
+    {
+      "type": "The sign of Immanuel, a child born of a virgin",
+      "antitype": "Christ's literal virgin birth, \"God with us\"",
+      "scripture": "Isa. 7:14; Matt. 1:22–23"
+    },
+    {
+      "type": "The rod out of the stem of Jesse",
+      "antitype": "Christ, arising from David's royal line though reduced to a mere stump",
+      "scripture": "Isa. 11:1; Rev. 5:5; 22:16"
+    },
+    {
+      "type": "The king of Babylon's self-exaltation (ch. 14)",
+      "antitype": "Lucifer's original fall through pride, the root of the great controversy",
+      "scripture": "Isa. 14:12–14; Ezek. 28:12–17; Rev. 12:7–9"
+    },
+    {
+      "type": "The feast of fat things on the mountain, swallowing up death",
+      "antitype": "The marriage supper of the Lamb and the final victory over death",
+      "scripture": "Isa. 25:6–8; 1 Cor. 15:54; Rev. 19:9; 21:4"
+    },
+    {
+      "type": "The resurrection of the dead, \"awake and sing, ye that dwell in dust\"",
+      "antitype": "The bodily resurrection of the righteous",
+      "scripture": "Isa. 26:19; John 5:28–29; 1 Cor. 15:52"
+    },
+    {
+      "type": "The sure foundation stone laid in Zion",
+      "antitype": "Christ, the rejected yet chosen cornerstone of God's true temple",
+      "scripture": "Isa. 28:16; Rom. 9:33; 1 Pet. 2:6"
+    },
+    {
+      "type": "The voice crying in the wilderness, preparing the way",
+      "antitype": "John the Baptist, forerunner of Christ",
+      "scripture": "Isa. 40:3; Matt. 3:1–3"
+    },
+    {
+      "type": "Cyrus, named by God as His \"shepherd\" and \"anointed\" before his birth",
+      "antitype": "God's sovereign foreknowledge and control of history, and ultimately Christ, the true Shepherd and Anointed One",
+      "scripture": "Isa. 44:28; 45:1; John 10:11"
+    },
+    {
+      "type": "The Spirit-anointed Servant, gentle to the bruised reed",
+      "antitype": "Christ's meek, non-coercive Messianic ministry",
+      "scripture": "Isa. 42:1–3; Matt. 12:17–21"
+    },
+    {
+      "type": "The Servant led as a lamb to the slaughter (ch. 53)",
+      "antitype": "Christ, the Lamb of God, silent before His accusers",
+      "scripture": "Isa. 53:7; John 1:29; Matt. 27:12–14"
+    },
+    {
+      "type": "The Servant's vicarious suffering, \"wounded for our transgressions\"",
+      "antitype": "Christ's substitutionary atonement for the sins of all",
+      "scripture": "Isa. 53:4–6; 1 Pet. 2:24; 2 Cor. 5:21"
+    },
+    {
+      "type": "The anointed preacher of Isaiah 61, proclaiming the acceptable year",
+      "antitype": "Christ's own reading and claimed fulfillment at Nazareth",
+      "scripture": "Isa. 61:1–2; Luke 4:17–21"
+    },
+    {
+      "type": "The new heavens and new earth, former things not remembered",
+      "antitype": "The eternal new creation following the great controversy's end",
+      "scripture": "Isa. 65:17; 2 Pet. 3:13; Rev. 21:1"
+    },
+    {
+      "type": "Sabbath to Sabbath worship continuing in Isaiah's closing vision",
+      "antitype": "The eternal, unceasing Sabbath worship of the redeemed in the new earth",
+      "scripture": "Isa. 66:23; Rev. 22:1–3"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "prompt": "Isaiah ministered in Judah during the reigns of",
+      "choices": [
+        {
+          "id": "A",
+          "text": "David, Solomon, and Rehoboam"
+        },
+        {
+          "id": "B",
+          "text": "Uzziah, Jotham, Ahaz, and Hezekiah"
+        },
+        {
+          "id": "C",
+          "text": "Saul and David only"
+        },
+        {
+          "id": "D",
+          "text": "Zedekiah and the Babylonian exile kings"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah 1:1 states explicitly that his vision came \"in the days of Uzziah, Jotham, Ahaz, and Hezekiah, kings of Judah\" — a ministry spanning roughly 740–680 B.C., encompassing the fall of the northern kingdom to Assyria (722 B.C.) and the near-destruction of Judah under Sennacherib (701 B.C.)."
+    },
+    {
+      "id": 2,
+      "prompt": "Isaiah has traditionally been called \"the fifth Gospel\" because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "it was written by one of the four Gospel writers"
+        },
+        {
+          "id": "B",
+          "text": "it sets forth the person and work of the Messiah with exceptional clarity and fullness"
+        },
+        {
+          "id": "C",
+          "text": "it contains the Sermon on the Mount"
+        },
+        {
+          "id": "D",
+          "text": "it was composed after the New Testament"
+        }
+      ],
+      "answer": "B",
+      "explanation": "No Old Testament book is quoted more often in the New Testament or sets forth the person and saving work of the Messiah with greater clarity — the virgin birth (7:14), the divine child of government and peace (9:6–7), the Spirit-anointed Servant (42:1–4), the suffering, substitutionary Servant (52:13–53:12), and the final new creation (65:17) are all given here, earning the book its traditional title, \"the fifth Gospel.\""
+    },
+    {
+      "id": 3,
+      "prompt": "In Isaiah's call vision (ch. 6), his immediate response to seeing the Lord's holiness was",
+      "choices": [
+        {
+          "id": "A",
+          "text": "confident self-assurance"
+        },
+        {
+          "id": "B",
+          "text": "conviction of his own and his people's uncleanness: \"Woe is me!\""
+        },
+        {
+          "id": "C",
+          "text": "indifference"
+        },
+        {
+          "id": "D",
+          "text": "a request for political power"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Confronted with the seraphim's cry of \"Holy, holy, holy\" and the Lord's surpassing glory, Isaiah's immediate response is not self-confidence but conviction: \"Woe is me! for I am undone; because I am a man of unclean lips, and I dwell in the midst of a people of unclean lips\" (6:5) — a true encounter with divine holiness exposing human sinfulness rather than provoking pride."
+    },
+    {
+      "id": 4,
+      "prompt": "The cleansing of Isaiah's lips in his call vision came by means of",
+      "choices": [
+        {
+          "id": "A",
+          "text": "water from the temple laver"
+        },
+        {
+          "id": "B",
+          "text": "a live coal taken from the altar"
+        },
+        {
+          "id": "C",
+          "text": "anointing oil poured on his head"
+        },
+        {
+          "id": "D",
+          "text": "his own confession alone, with no external sign"
+        }
+      ],
+      "answer": "B",
+      "explanation": "A seraph takes \"a live coal...from off the altar\" and touches Isaiah's mouth, declaring, \"thine iniquity is taken away, and thy sin purged\" (6:6–7) — cleansing proceeding directly from sanctuary/altar imagery, foreshadowing the cleansing that comes only through Christ's atoning sacrifice."
+    },
+    {
+      "id": 5,
+      "prompt": "The sign of Immanuel (Isa. 7:14), given to faithless King Ahaz, is explicitly applied in the New Testament to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "John the Baptist"
+        },
+        {
+          "id": "B",
+          "text": "the literal virgin birth of Jesus Christ"
+        },
+        {
+          "id": "C",
+          "text": "King Hezekiah's birth"
+        },
+        {
+          "id": "D",
+          "text": "the prophet Isaiah's own son"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Matthew states the fulfillment directly: \"Now all this was done, that it might be fulfilled which was spoken of the Lord by the prophet, saying, Behold, a virgin shall be with child...which being interpreted is, God with us\" (Matt. 1:22–23, quoting Isa. 7:14) — an explicit New Testament application to Christ's literal virgin birth, though the prophecy also had a near fulfillment as a sign to Ahaz in Isaiah's own day."
+    },
+    {
+      "id": 6,
+      "prompt": "Isaiah 9:6 applies the title \"The mighty God\" to the promised child, a title that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "is never used elsewhere in Isaiah"
+        },
+        {
+          "id": "B",
+          "text": "Isaiah applies to the LORD Himself in 10:21, affirming the child's full deity"
+        },
+        {
+          "id": "C",
+          "text": "refers only to a human king's political power"
+        },
+        {
+          "id": "D",
+          "text": "was added by later editors"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah 10:21 applies the identical title, \"the mighty God\" (El Gibbor), directly to the LORD, establishing that the same title given to the promised child in 9:6 is a genuine claim to full deity, not merely an honorific title for a human monarch."
+    },
+    {
+      "id": 7,
+      "prompt": "The taunt-song against \"the king of Babylon,\" rising to \"How art thou fallen from heaven, O Lucifer\" (Isa. 14:12), is understood to describe",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a purely human king with no further significance"
+        },
+        {
+          "id": "B",
+          "text": "the original fall of Satan behind the human ruler the prophecy addresses"
+        },
+        {
+          "id": "C",
+          "text": "the destruction of literal Babylon only"
+        },
+        {
+          "id": "D",
+          "text": "the prophet Isaiah's own temptation"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The language of 14:12–14 — \"I will exalt my throne above the stars of God...I will be like the most High\" — far exceeds what any human king of Babylon could claim or accomplish, and parallels closely the taunt against the \"king of Tyrus\" in Ezekiel 28:12–17, both understood as describing the original fall of Satan behind the human ruler each prophecy immediately addresses."
+    },
+    {
+      "id": 8,
+      "prompt": "Isaiah 25:6–8, the feast on the mountain where God will \"swallow up death in victory,\" is directly drawn upon by",
+      "choices": [
+        {
+          "id": "A",
+          "text": "no later biblical writer"
+        },
+        {
+          "id": "B",
+          "text": "both Paul (1 Cor. 15:54) and John (Rev. 21:4; 7:17)"
+        },
+        {
+          "id": "C",
+          "text": "only the Gospel of Matthew"
+        },
+        {
+          "id": "D",
+          "text": "the book of Esther"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Paul directly quotes Isaiah 25:8 in 1 Corinthians 15:54 (\"Death is swallowed up in victory\"), and John's vision of the new creation in Revelation 21:4 and 7:17 draws on the same promise of God wiping away every tear — showing this Isaiah passage as a direct source for key New Testament pictures of final redemption."
+    },
+    {
+      "id": 9,
+      "prompt": "Isaiah 26:19, \"Thy dead men shall live...awake and sing, ye that dwell in dust,\" is significant as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "evidence against any bodily resurrection"
+        },
+        {
+          "id": "B",
+          "text": "one of the clearest Old Testament statements of a future bodily resurrection"
+        },
+        {
+          "id": "C",
+          "text": "a reference to reincarnation"
+        },
+        {
+          "id": "D",
+          "text": "a purely symbolic statement about national revival only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"Thy dead men shall live, together with my dead body shall they arise. Awake and sing, ye that dwell in dust\" (26:19) speaks of actual bodily awakening from the dust, one of the clearest and earliest Old Testament statements of a literal future resurrection, consistent with the hope later developed explicitly in Daniel 12:2 and the New Testament."
+    },
+    {
+      "id": 10,
+      "prompt": "The \"sure foundation stone\" laid in Zion (Isa. 28:16) is applied in the New Testament to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Jerusalem temple structure"
+        },
+        {
+          "id": "B",
+          "text": "Christ, the rejected yet chosen cornerstone"
+        },
+        {
+          "id": "C",
+          "text": "the nation of Israel collectively"
+        },
+        {
+          "id": "D",
+          "text": "the apostle Peter"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Both Paul (Rom. 9:33) and Peter (1 Pet. 2:6) quote Isaiah 28:16 directly and apply \"a tried stone, a precious corner stone, a sure foundation\" to Christ — rejected by many yet chosen by God as the foundation of His true spiritual temple."
+    },
+    {
+      "id": 11,
+      "prompt": "Hezekiah's response to Sennacherib's blasphemous letter (Isa. 37) was to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "surrender immediately"
+        },
+        {
+          "id": "B",
+          "text": "spread the letter before the LORD in the temple and pray for deliverance"
+        },
+        {
+          "id": "C",
+          "text": "write a defiant reply to Sennacherib himself"
+        },
+        {
+          "id": "D",
+          "text": "flee Jerusalem"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah 37:14–20 records that Hezekiah \"went up into the house of the LORD, and spread it before the LORD,\" then prayed for deliverance \"that all the kingdoms of the earth may know that thou art the LORD, even thou only\" — faith expressed in prayer rather than panic or political maneuvering, met with total, miraculous deliverance (37:36)."
+    },
+    {
+      "id": 12,
+      "prompt": "Hezekiah's display of his treasures to the Babylonian envoys (Isa. 39) led directly to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an alliance that saved Judah from Assyria"
+        },
+        {
+          "id": "B",
+          "text": "Isaiah's prophecy that Judah's wealth would one day be carried to Babylon"
+        },
+        {
+          "id": "C",
+          "text": "Hezekiah's immediate death"
+        },
+        {
+          "id": "D",
+          "text": "the rebuilding of the temple"
+        }
+      ],
+      "answer": "B",
+      "explanation": "After Hezekiah proudly shows the Babylonian envoys \"all that was found in his treasures\" (39:2), Isaiah pronounces, \"Behold, the days come, that all that is in thine house...shall be carried to Babylon\" (39:6) — a prophecy that plants, within the historical narrative, the seed of the Babylonian-exile setting addressed throughout the second half of the book."
+    },
+    {
+      "id": 13,
+      "prompt": "\"The voice of him that crieth in the wilderness, Prepare ye the way of the LORD\" (Isa. 40:3) is applied by all four Gospels to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the apostle Paul"
+        },
+        {
+          "id": "B",
+          "text": "John the Baptist"
+        },
+        {
+          "id": "C",
+          "text": "Isaiah himself"
+        },
+        {
+          "id": "D",
+          "text": "King Cyrus"
+        }
+      ],
+      "answer": "B",
+      "explanation": "All four Gospels (Matt. 3:3; Mark 1:3; Luke 3:4; John 1:23) apply Isaiah 40:3, \"The voice of him that crieth in the wilderness, Prepare ye the way of the LORD,\" directly to the ministry of John the Baptist, the forerunner who prepared the way for Christ's public ministry."
+    },
+    {
+      "id": 14,
+      "prompt": "God's ability to name Cyrus by name roughly 150 years before his birth (Isa. 44:28; 45:1) is presented in Isaiah chiefly as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an unremarkable literary device"
+        },
+        {
+          "id": "B",
+          "text": "proof of God's unique deity against the false gods of the nations, who could not foretell the future"
+        },
+        {
+          "id": "C",
+          "text": "a later scribal insertion after the fact"
+        },
+        {
+          "id": "D",
+          "text": "irrelevant to the book's main argument"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah repeatedly offers predictive prophecy as the decisive proof of God's unique deity against the idols of the nations: \"shew the things that are to come hereafter, that we may know that ye are gods\" (41:23). Naming Cyrus by name roughly 150 years in advance (44:28; 45:1) stands as one of Scripture's most striking demonstrations of this very point, later literally fulfilled in Cyrus's decree of 538 B.C."
+    },
+    {
+      "id": 15,
+      "prompt": "The fourth Servant Song (Isa. 52:13–53:12) states that the Servant",
+      "choices": [
+        {
+          "id": "A",
+          "text": "suffered for His own sins"
+        },
+        {
+          "id": "B",
+          "text": "was \"wounded for our transgressions...the LORD hath laid on him the iniquity of us all,\" a vicarious, substitutionary suffering"
+        },
+        {
+          "id": "C",
+          "text": "avoided all suffering through divine protection"
+        },
+        {
+          "id": "D",
+          "text": "was a purely political, military figure"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah 53:5–6 states this as plainly as Scripture ever does: \"he was wounded for our transgressions, he was bruised for our iniquities...the LORD hath laid on him the iniquity of us all\" — vicarious, substitutionary suffering for the sins of others, not His own, stated centuries before the crucifixion it describes."
+    },
+    {
+      "id": 16,
+      "prompt": "Isaiah 53:9, \"he made his grave with the wicked, and with the rich in his death,\" was fulfilled when Christ was",
+      "choices": [
+        {
+          "id": "A",
+          "text": "buried in a common criminal's grave with no distinction"
+        },
+        {
+          "id": "B",
+          "text": "crucified among criminals yet buried in the tomb of the rich Joseph of Arimathea"
+        },
+        {
+          "id": "C",
+          "text": "cremated according to Roman custom"
+        },
+        {
+          "id": "D",
+          "text": "never actually buried"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah 53:9 predicted a death \"with the wicked\" yet burial \"with the rich\" — fulfilled precisely when Christ was crucified between two criminals (Matt. 27:38) yet buried in the tomb of Joseph of Arimathea, \"a rich man\" (Matt. 27:57–60), a combination of circumstances no one engineering a false fulfillment could have easily arranged."
+    },
+    {
+      "id": 17,
+      "prompt": "Isaiah 58:13–14 ties faithful Sabbath observance directly to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "burdensome restriction and joyless duty"
+        },
+        {
+          "id": "B",
+          "text": "delight and genuine fellowship with God, \"then shalt thou delight thyself in the LORD\""
+        },
+        {
+          "id": "C",
+          "text": "the ceremonial law alone, ended at the cross"
+        },
+        {
+          "id": "D",
+          "text": "a merely social, not spiritual, benefit"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah 58:13–14 states that calling \"the sabbath a delight, the holy of the LORD, honourable\" leads directly to \"Then shalt thou delight thyself in the LORD\" — Sabbath-keeping presented as a positive source of joy and communion with God, not a burdensome restriction."
+    },
+    {
+      "id": 18,
+      "prompt": "Isaiah 61:1–2 is significant in the Gospels because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "it is never quoted in the New Testament"
+        },
+        {
+          "id": "B",
+          "text": "Christ read this very passage in the Nazareth synagogue and declared, \"This day is this scripture fulfilled in your ears\""
+        },
+        {
+          "id": "C",
+          "text": "it refers exclusively to John the Baptist"
+        },
+        {
+          "id": "D",
+          "text": "it was fulfilled only at the Second Coming"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Luke 4:17–21 records that Christ read Isaiah 61:1–2 in the Nazareth synagogue, closed the book, and declared, \"This day is this scripture fulfilled in your ears\" — a direct, explicit claim by Christ Himself to be the fulfillment of this specific Isaiah prophecy, deliberately stopping His reading before the passage's reference to final judgment, reserved for His second coming."
+    },
+    {
+      "id": 19,
+      "prompt": "Isaiah 66:23, concerning worship \"from one sabbath to another,\" indicates that the Sabbath is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a temporary Mosaic ordinance set aside with the old covenant"
+        },
+        {
+          "id": "B",
+          "text": "a perpetual institution continuing into the new earth"
+        },
+        {
+          "id": "C",
+          "text": "relevant only to ancient Israel"
+        },
+        {
+          "id": "D",
+          "text": "replaced by Sunday worship in this very passage"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Isaiah 66:23 pictures \"all flesh\" coming \"from one sabbath to another\" to worship God in the new earth — a vision of Sabbath observance continuing without interruption into the eternal state, consistent with the Sabbath's standing as a creation ordinance rather than a temporary Mosaic institution."
+    },
+    {
+      "id": 20,
+      "prompt": "The book of Isaiah closes (66:24) with",
+      "choices": [
+        {
+          "id": "A",
+          "text": "no mention of judgment at all"
+        },
+        {
+          "id": "B",
+          "text": "a sobering reminder of final judgment on the unrepentant, held alongside the vision of eternal glory"
+        },
+        {
+          "id": "C",
+          "text": "a message of universal salvation with no exceptions"
+        },
+        {
+          "id": "D",
+          "text": "an unfinished, abruptly truncated sentence"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Even at the climactic vision of eternal glory, the book's final verse holds the reality of judgment in view: \"they shall go forth, and look upon the carcases of the men that have transgressed against me: for their worm shall not die, neither shall their fire be quenched\" (66:24) — Isaiah closes by keeping redemption's joy and judgment's solemnity together, rather than offering an uncomplicated, universal promise of salvation."
+    }
+  ]
+}

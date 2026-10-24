@@ -1,0 +1,2058 @@
+{
+  "meta": {
+    "id": "john",
+    "name": "John",
+    "hebrew": null,
+    "subtitle": "The Word Made Flesh",
+    "testament": "New Testament",
+    "order": 43,
+    "chapters": "1–21",
+    "tagline": "An interactive outline of John in the Seventh-day Adventist doctrine, following Ellen G. White, The Desire of Ages.",
+    "divisions": [
+      {
+        "title": "Book of Signs",
+        "range": "chs. 1–12",
+        "focus": "Public ministry and seven signs"
+      },
+      {
+        "title": "Book of Glory",
+        "range": "chs. 13–21",
+        "focus": "Upper room, cross, resurrection"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "I",
+      "roman": "I",
+      "title": "INTRODUCTION, AUTHORSHIP, AND STRUCTURE",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Authorship and date",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The fourth Gospel nowhere names its author directly, but identifies him as \"the disciple whom Jesus loved\" (13:23; 19:26; 20:2; 21:7, 20), who \"leaned on Jesus' breast at supper\" and whose testimony the book itself vouches for: \"This is the disciple which testifieth of these things, and wrote these things: and we know that his testimony is true\" (21:24). Early church tradition, from Irenaeus (who knew Polycarp, a hearer of John) onward, uniformly identifies this disciple as John the son of Zebedee, the apostle, writing in his old age at Ephesus, traditionally dated c. A.D. 85–95.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Purpose and distinctive character",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "John states his purpose explicitly, near the Gospel's close: \"these are written, that ye might believe that Jesus is the Christ, the Son of God; and that believing ye might have life through his name\" (20:31) — the book is selective and theological rather than exhaustively biographical, built around seven carefully chosen \"signs\" and extended discourses rather than the parables and shorter sayings that dominate the Synoptics.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Written last of the four Gospels, after Matthew, Mark, and Luke were already in wide circulation, John supplements rather than duplicates them — over ninety percent of John's content, including the entire Upper Room discourse (chs. 13–17), appears in no other Gospel.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"John...dwells at length upon the scenes of the closing ministry of Christ....He had long dwelt upon the love of God...and his soul was filled with a desire to present to the churches the deep significance of this love.\" The Acts of the Apostles, p. 544."
+        },
+        {
+          "letter": "C",
+          "title": "The seven signs and the structural plan",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Water into wine at Cana (2:1–11).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Healing the nobleman's son (4:46–54).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Healing the impotent man at Bethesda (5:1–15).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Feeding the five thousand (6:1–14).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Walking on the sea (6:16–21).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Healing the man born blind (9:1–41).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Raising Lazarus (11:1–44).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "John himself calls these \"signs\" (Gr. semeia), chosen \"that ye might believe\" (20:30–31) — each points beyond the miracle itself to a truth about who Jesus is, and each is paired with an extended discourse drawing out its meaning (the bread of life after the feeding, the light of the world around the healing of the blind man, the resurrection and the life before Lazarus is raised).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "Two major divisions",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The Book of Signs (chs. 1–12) — Christ's public ministry to the world, structured around the seven signs and the growing division between faith and unbelief they provoke.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The Book of Glory (chs. 13–21) — the private ministry to His own, beginning with the upper room and moving through the cross, the empty tomb, and the resurrection appearances, where Christ's glory is most fully revealed in His self-giving love.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "II",
+      "roman": "II",
+      "title": "THE PROLOGUE: THE WORD MADE FLESH (1:1–18)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The eternal pre-existence and deity of the Word",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"In the beginning was the Word, and the Word was with God, and the Word was God\" (1:1) — three deliberate statements of eternal pre-existence, eternal distinct personality (\"with God\"), and full deity (\"was God\"); the imperfect tense \"was\" (Gr. en) throughout verses 1–2 points to timeless, uncreated existence, in contrast to \"was made\" (egeneto) used of created things in verse 3.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "\"All things were made by him; and without him was not any thing made that was made\" (1:3) — the Word is Himself the Creator, not the first of created beings; this directly refutes any notion that Christ is a created entity.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"From all eternity Christ was united with the Father....'His goings forth have been from of old, from everlasting.' Micah 5:2. And the Son of God declares concerning Himself: 'The Lord possessed me in the beginning of His way, before His works of old. I was set up from everlasting.'\" The Desire of Ages, p. 19."
+        },
+        {
+          "letter": "B",
+          "title": "The incarnation: \"the Word was made flesh\"",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"And the Word was made flesh, and dwelt among us\" (1:14) — the verb \"dwelt\" (Gr. eskenosen) literally means \"tabernacled,\" a deliberate echo of the wilderness sanctuary where God dwelt among His people (Ex. 25:8); in Christ, God once again tabernacles with humanity, now in a human body rather than a tent of skins. John adds, \"we beheld his glory, the glory as of the only begotten of the Father, full of grace and truth\" (1:14).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "John the Baptist's witness opens the chapter and reappears at verse 15: \"He that cometh after me is preferred before me: for he was before me\" — testifying to Christ's pre-existence even while introducing His public ministry.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"The law was given by Moses, but grace and truth came by Jesus Christ\" (1:17) — not a contrast of opposites but of shadow and substance; the law given at Sinai finds its fulfillment and embodiment in the Word made flesh.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "III",
+      "roman": "III",
+      "title": "THE TESTIMONY OF JOHN THE BAPTIST AND THE FIRST DISCIPLES (1:19–51)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "John the Baptist's testimony",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Questioned by priests and Levites from Jerusalem, John denies being the Christ, Elijah, or \"that prophet,\" identifying himself instead as \"the voice of one crying in the wilderness, Make straight the way of the Lord\" (1:23, quoting Isa. 40:3) — a self-effacing witness whose entire mission is to point away from himself.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "Seeing Jesus approach, John declares, \"Behold the Lamb of God, which taketh away the sin of the world\" (1:29) — the first and most sweeping title given to Christ in the Gospel, identifying Him with the whole Old Testament sacrificial system and its ultimate fulfillment.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The first disciples and their confessions",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "In rapid succession the opening chapter records a cluster of titles applied to Jesus by those who meet Him: \"Rabbi\" (1:38), \"Messias\" (1:41), \"the Son of God...the King of Israel\" (1:49), culminating in Jesus' own promise to Nathanael of greater things — seeing \"heaven open, and the angels of God ascending and descending upon the Son of man\" (1:51), a direct allusion to Jacob's ladder (Gen. 28:12), with Christ Himself as the link between heaven and earth.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IV",
+      "roman": "IV",
+      "title": "THE FIRST SIGNS: CANA, THE TEMPLE, AND THE NEW BIRTH (2:1–3:36)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The wedding at Cana (2:1–11)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Jesus' first sign — turning water into wine at a wedding feast — is deliberately called \"the beginning of miracles,\" and \"manifested forth his glory; and his disciples believed on him\" (2:11); the setting at a wedding, and the \"good wine\" kept \"until now,\" has been read as a quiet signal of the gospel's abundance compared with the ceremonial system it fulfills.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The cleansing of the temple and its sign",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Jesus drives the money-changers from the temple, declaring \"make not my Father's house an house of merchandise\" (2:16); challenged for a sign of His authority, He answers, \"Destroy this temple, and in three days I will raise it up\" — John explains, \"he spake of the temple of his body\" (2:19, 21), directly identifying Christ's own body as the true sanctuary, a theme that runs through the entire Gospel.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "Nicodemus and the new birth (3:1–21)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "To this ruler of the Jews, Christ declares, \"Except a man be born again, he cannot see the kingdom of God\" (3:3) — not moral reformation but a radical, Spirit-wrought new beginning, \"born of water and of the Spirit\" (3:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Christ illustrates by the wind, \"bloweth where it listeth\"...so is every one that is born of the Spirit\" (3:8) — the new birth is real though its inner working, like the wind, is not mechanically traceable.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "He points back to Moses' bronze serpent (Num. 21:9): \"as Moses lifted up the serpent in the wilderness, even so must the Son of man be lifted up: that whosoever believeth in him should not perish, but have eternal life\" (3:14–15) — introducing the cross before the narrative has reached it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "John 3:16 follows directly as the hinge of the whole Gospel: \"For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"Nothing less than the loss of all things could reveal to Nicodemus his need of the new birth....The soul who receives Christ enters into the possession of these infinite blessings.\" The Desire of Ages, pp. 174, 176."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "V",
+      "roman": "V",
+      "title": "THE WOMAN OF SAMARIA AND THE NOBLEMAN'S SON (4:1–54)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The woman at the well: living water",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Crossing deliberately through Samaria, Jesus asks a Samaritan woman for water, offering in exchange \"living water\" such that \"whosoever drinketh...shall never thirst\" (4:10, 14) — breaking social, religious, and gender barriers in a single conversation, He leads her from physical thirst to spiritual need to the revelation, \"I that speak unto thee am he\" (4:26), one of the Gospel's clearest, most direct self-disclosures.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "\"God is a Spirit: and they that worship him must worship him in spirit and in truth\" (4:24) — true worship transcends the Samaritan/Jewish controversy over sacred locations (Gerizim vs. Jerusalem) entirely.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The nobleman's son healed at a distance (4:46–54)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The second recorded sign: a nobleman's son, dying at Capernaum, is healed the instant Jesus speaks the word at Cana, many miles away — \"the man believed the word that Jesus had spoken unto him, and he went his way\" (4:50), faith resting on the bare word of Christ before any confirming evidence arrived.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VI",
+      "roman": "VI",
+      "title": "THE SABBATH CONTROVERSY: CHRIST'S EQUALITY WITH THE FATHER (5:1–47)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Healing at Bethesda on the Sabbath",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Jesus heals a man impotent for thirty-eight years at the pool of Bethesda, commanding him to \"take up thy bed, and walk\" — on the Sabbath (5:8–9), provoking persecution from \"the Jews\" for Sabbath-breaking. Christ's answer escalates the controversy rather than retreating from it: \"My Father worketh hitherto, and I work\" (5:17) — claiming the same unceasing, Sabbath-unbroken activity of preserving and sustaining life that the Father exercises, a direct claim to deity that His hearers understood perfectly: \"the Jews sought the more to kill him, because he...said also that God was his Father, making himself equal with God\" (5:18).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "This is not a claim to override the Sabbath's sanctity but to clarify its true character: the Sabbath rest was never a cessation of God's sustaining, redemptive activity (cf. Christ's own teaching in Matt. 12:11–12), and acts of mercy and healing are in full harmony with, not a violation of, the Sabbath's purpose.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Christ's fivefold claim to divine authority",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Authority to give life: \"as the Father raiseth up the dead, and quickeneth them; even so the Son quickeneth whom he will\" (5:21).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Authority to judge: \"the Father...hath committed all judgment unto the Son\" (5:22).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Authority to receive equal honor: \"That all men should honour the Son, even as they honour the Father\" (5:23).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Authority over the resurrection of all the dead, both \"unto the resurrection of life\" and \"unto the resurrection of damnation\" (5:28–29).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Fourfold witness to His claims: John the Baptist (5:33), His own works (5:36), the Father's voice (5:37), and the Scriptures themselves (5:39, 46) — \"search the scriptures...they are they which testify of me.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VII",
+      "roman": "VII",
+      "title": "THE BREAD OF LIFE (6:1–71)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The feeding of the five thousand and walking on the sea",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The fourth sign — feeding five thousand from five loaves and two small fishes, with twelve baskets left over (6:1–13) — is immediately followed by the sign of Christ walking on the stormy sea to His disciples, declaring \"It is I; be not afraid\" (6:19–20, Gr. ego eimi, \"I am,\" echoing the divine name of Ex. 3:14).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The bread of life discourse",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I am the bread of life: he that cometh to me shall never hunger\" (6:35) — the first of John's seven great \"I AM\" declarations, directly recalling the manna of Exodus 16 while claiming to supersede it: \"your fathers did eat manna in the wilderness, and are dead....I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever\" (6:49, 51).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The hard saying — \"Except ye eat the flesh of the Son of man, and drink his blood, ye have no life in you\" (6:53) — is figurative, not literal, language for the full, personal appropriation of Christ's sacrificed life by faith; many disciples, taking it literally, \"went back, and walked no more with him\" (6:66).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Peter's confession at the crisis point of defection: \"Lord, to whom shall we go? thou hast the words of eternal life. And we believe and are sure that thou art that Christ, the Son of the living God\" (6:68–69).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VIII",
+      "roman": "VIII",
+      "title": "THE FEAST OF TABERNACLES: LIVING WATER AND THE LIGHT OF THE WORLD (7:1–8:59)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Rivers of living water (7:37–39)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "On \"the last day, that great day of the feast,\" against the backdrop of the water-pouring ceremony that commemorated the rock in the wilderness, Jesus cries, \"If any man thirst, let him come unto me, and drink. He that believeth on me, as the scripture hath said, out of his belly shall flow rivers of living water\" (7:37–38) — John explains this spoke \"of the Spirit, which they that believe on him should receive...for the Holy Ghost was not yet given; because that Jesus was not yet glorified\" (7:39).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The woman taken in adultery (8:1–11)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Brought to Jesus as a legal trap, the woman caught in adultery is met not with the stoning the law prescribed but with both justice and mercy held together: \"He that is without sin among you, let him first cast a stone at her\" (8:7), followed by \"Neither do I condemn thee: go, and sin no more\" (8:11) — condemnation of the sin without condemnation of the sinner, grace that does not cancel the call to a transformed life.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "I am the light of the world",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I am the light of the world: he that followeth me shall not walk in darkness, but shall have the light of life\" (8:12) — spoken, by tradition, against the backdrop of the great golden lampstands lit during the feast, commemorating the pillar of fire that led Israel through the wilderness.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "\"Before Abraham was, I am\" (8:58)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Pressed on His relationship to Abraham, Jesus answers with the most direct claim to deity in the Gospel: \"Before Abraham was, I am\" — not \"I was\" but the timeless divine \"I AM\" of Exodus 3:14, a claim His hearers understood instantly as blasphemy: \"Then took they up stones to cast at him\" (8:59).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IX",
+      "roman": "IX",
+      "title": "THE MAN BORN BLIND AND THE GOOD SHEPHERD (9:1–10:42)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The healing of the man born blind",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Asked whether the man's blindness was punishment for his sin or his parents', Jesus redirects the question entirely: \"Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him\" (9:3) — not every affliction is a direct, traceable judgment for specific sin.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The healed man's testimony grows in clarity and courage through successive interrogations — from \"a man that is called Jesus\" (9:11) to \"a prophet\" (9:17) to, finally, worship: \"Lord, I believe. And he worshipped him\" (9:38) — while the Pharisees, who claim to see, are pronounced spiritually blind (9:39–41).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "I am the good shepherd",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I am the good shepherd: the good shepherd giveth his life for the sheep\" (10:11), directly recalling Ezekiel 34's indictment of Israel's false shepherds and promise of God Himself as shepherd (Ezek. 34:2–16, 23).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"Other sheep I have, which are not of this fold: them also I must bring...and there shall be one fold, and one shepherd\" (10:16) — anticipating the ingathering of Gentile believers into one body with Israel.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"I lay down my life, that I might take it again. No man taketh it from me, but I lay it down of myself\" (10:17–18) — the cross as Christ's voluntary, sovereign act, not a tragedy inflicted upon Him.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The chapter closes with another direct claim: \"I and my Father are one\" (10:30), again met with the charge of blasphemy, \"because that thou, being a man, makest thyself God\" (10:33).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "X",
+      "roman": "X",
+      "title": "THE RAISING OF LAZARUS (11:1–57)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "I am the resurrection and the life",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Deliberately delaying His arrival until Lazarus has been dead four days (11:6, 17, 39), Jesus allows the situation to become humanly hopeless before acting, so that the sign's significance cannot be mistaken for coincidence.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "To Martha, grieving yet still confessing faith in a future resurrection \"at the last day\" (11:24), Jesus answers, \"I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live\" (11:25) — relocating resurrection hope from an abstract future doctrine to His own present, personal authority over death.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"Jesus wept\" (11:35) — the shortest verse in Scripture, and one of the clearest windows into Christ's full humanity and genuine sorrow, even while He stood moments from reversing the very death that grieved Him.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The raising of Lazarus, \"he that was dead came forth\" (11:44) at Christ's command, is the climactic seventh sign and the direct provocation for the formal decision of the Sanhedrin to put Jesus to death (11:47–53) — the giving of life becomes, humanly speaking, the cause of His own death.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"In the death of Lazarus, God's purpose seemed inexplicable....But Christ saw the end from the beginning. In permitting Lazarus to die, the Saviour performed a greater miracle...this would be a lesson to His followers of the sleep and resurrection of the dead.\" The Desire of Ages, pp. 528, 530."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XI",
+      "roman": "XI",
+      "title": "THE PASSION WEEK BEGINS (12:1–50)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The anointing at Bethany and the triumphal entry",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Mary of Bethany anoints Jesus' feet with costly spikenard, an act He defends against Judas's objection as preparation \"against the day of my burying\" (12:7) — six days before the crucifixion, the full cost of devotion already anticipates the cross. The next day the triumphal entry (12:12–15) fulfills Zechariah 9:9, \"Behold, thy King cometh, sitting on an ass's colt,\" a deliberately humble, peaceable claim to kingship.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The Greeks, the grain of wheat, and the hour",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "When Greeks seek Him out, Jesus announces, \"The hour is come, that the Son of man should be glorified\" (12:23) — the \"hour\" language, held back throughout the Gospel (cf. 2:4; 7:30; 8:20), now finally arrives. He explains the necessity of His death with the image of the grain of wheat: \"Except a corn of wheat fall into the ground and die, it abideth alone: but if it die, it bringeth forth much fruit\" (12:24).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "A voice from heaven answers His prayer, \"Father, glorify thy name\" (12:28), the third and last audible divine voice recorded in the Gospels (cf. baptism, transfiguration) — publicly confirming the Father's approval at the very threshold of the cross.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XII",
+      "roman": "XII",
+      "title": "THE UPPER ROOM: SERVANT LEADERSHIP AND THE COMFORTER PROMISED (13:1–17:26)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The footwashing and the new commandment",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Jesus knowing that...he was come from God, and went to God\" — with full consciousness of His divine origin and destiny — \"riseth from supper...and began to wash the disciples' feet\" (13:3–5): the clearest enacted lesson of servant leadership in Scripture, performed knowingly by the One with every right to be served.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "\"A new commandment I give unto you, That ye love one another; as I have loved you...By this shall all men know that ye are my disciples, if ye have love one to another\" (13:34–35) — love, patterned on Christ's own self-giving love, made the identifying mark of discipleship.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The way, the truth, and the life; the promised Comforter",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I am the way, the truth, and the life: no man cometh unto the Father, but by me\" (14:6) — an exclusive, not merely one-among-many, claim, immediately followed by \"I go to prepare a place for you...I will come again, and receive you unto myself\" (14:2–3), the Gospel's clearest statement of the personal, literal hope of the Second Coming.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Christ promises \"another Comforter\" (Gr. parakletos, \"one called alongside\"), \"the Spirit of truth,\" who \"shall teach you all things, and bring all things to your remembrance\" (14:16–17, 26) — the Holy Spirit as Christ's own ongoing, personal presence with the disciples after His departure.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The Spirit's threefold work in the world is specified: to \"reprove the world of sin, and of righteousness, and of judgment\" (16:8) — conviction preceding conversion.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The vine and the branches",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I am the true vine, and my Father is the husbandman....I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing\" (15:1, 5) — Israel itself had long been pictured as God's vine (Ps. 80:8–16; Isa. 5:1–7), now fulfilled and reconstituted in Christ and those united to Him by living, abiding faith, not by physical descent.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "The high priestly prayer (ch. 17)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Christ's longest recorded prayer, offered on the very eve of His arrest, intercedes first for Himself (\"glorify thy Son,\" 17:1–5), then for His disciples (\"keep through thine own name those whom thou hast given me,\" 17:11), then for all future believers (\"that they all may be one,\" 17:20–21) — a pattern of priestly intercession that anticipates His ongoing ministry in the heavenly sanctuary.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIII",
+      "roman": "XIII",
+      "title": "THE PASSION, RESURRECTION, AND EPILOGUE (18:1–21:25)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The arrest, trials, and crucifixion",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "At His arrest, Jesus identifies Himself with the same \"I am\" (18:5–6) that had provoked stoning in chapter 8 — and the arresting party \"went backward, and fell to the ground,\" an involuntary response to a momentary flash of divine majesty.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Before Pilate, Jesus declares, \"My kingdom is not of this world...for this cause came I into the world, that I should bear witness unto the truth\" (18:36–37); Pilate's threefold declaration, \"I find in him no fault at all\" (18:38; 19:4, 6), stands as unintended testimony to His innocence.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "John alone notes the timing: Jesus is condemned \"about the sixth hour\" on \"the preparation of the passover\" (19:14) — the very hour the Passover lambs were being slain in the temple, a detail John's first readers could hardly have missed.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "\"It is finished\" (19:30, Gr. tetelestai, a business term meaning \"paid in full\") — Christ's final cry is one of completed accomplishment, not defeat. John alone records that \"a bone of him shall not be broken\" (19:36, fulfilling Ex. 12:46) and the piercing of His side, from which \"forthwith came there out blood and water\" (19:34, fulfilling Zech. 12:10).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The resurrection and the appearances",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Mary Magdalene, first at the empty tomb, mistakes the risen Christ for the gardener until He speaks her name — \"Mary\" — and she recognizes Him: \"Rabboni\" (20:16); the first resurrection appearance is to a woman whose testimony, by the legal standards of the day, would not even have been admissible in court, underscoring that the record was not fabricated to maximize credibility.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Thomas, absent at the first appearance, refuses to believe without physical proof; a week later Christ offers it directly, then pronounces the Gospel's climactic beatitude: \"blessed are they that have not seen, and yet have believed\" (20:29) — addressed to every later reader of the book.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The restoration of Peter by the Sea of Galilee (21:15–19), a threefold question answering his threefold denial, recommissions him to \"Feed my sheep\" and foretells the manner of his death, \"signifying by what death he should glorify God\" (21:19).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The Gospel's closing word",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "John closes with a deliberate acknowledgment of selectivity and sufficiency: \"many other signs truly did Jesus...which are not written in this book: But these are written, that ye might believe\" (20:30–31), and finally, with a note of hyperbolic wonder at the sheer magnitude of His subject: \"the world itself could not contain the books that should be written\" (21:25).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIV",
+      "roman": "XIV",
+      "title": "TYPE AND ANTITYPE IN JOHN",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The sanctuary and sacrificial system fulfilled in Christ",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "John's Gospel is saturated with sanctuary and festival typology — the tabernacling Word (1:14), the temple of His body (2:19–21), the Lamb of God (1:29), the bronze serpent (3:14), the manna (ch. 6), the water-pouring and light ceremonies of Tabernacles (chs. 7–8), and the Passover timing of the crucifixion itself (19:14, 36).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of John's types is given below. Memorize the type, its antitype, and the New Testament passage establishing the connection.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The tabernacle/sanctuary where God dwelt among Israel",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The Word made flesh, who \"tabernacled\" among men (1:14)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Ex. 25:8; John 1:14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "The Passover lamb, without blemish",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Christ, \"the Lamb of God, which taketh away the sin of the world,\" slain at the Passover hour",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "Ex. 12:5; John 1:29; 19:14, 36",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "The bronze serpent lifted up in the wilderness",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "Christ lifted up on the cross, that whosoever believes may not perish",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "Num. 21:9; John 3:14–15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "The manna, bread from heaven",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "Christ, the true bread of life come down from heaven",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "Ex. 16:4; John 6:31–35, 48–51",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "The rock struck in the wilderness, giving water",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "Christ, the source of living water and of the Spirit",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "Ex. 17:6; John 4:14; 7:37–39",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "The pillar of fire giving light in the wilderness",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "Christ, the light of the world",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "Ex. 13:21; John 8:12; 9:5",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "The Jerusalem temple, God's dwelling place",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "The temple of Christ's own body, destroyed and raised in three days",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "1 Kings 8:10–11; John 2:19–21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "The shepherds of Israel, faithful and false (Ezekiel 34)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "Christ, the good Shepherd who lays down His life for the sheep",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Ezek. 34:11–16, 23; John 10:11–16",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "Israel as God's vine",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "Christ, the true vine, and believers the branches abiding in Him",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "Ps. 80:8–16; Isa. 5:1–7; John 15:1–5",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Jacob's ladder, linking heaven and earth",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "Christ, the one Mediator by whom angels ascend and descend",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "Gen. 28:12; John 1:51",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "The high priest's intercession for Israel",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "Christ's high priestly prayer for His own and for all who would believe",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "Ex. 28:29; John 17:1–26",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "The feast of Tabernacles' water-pouring ceremony",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "The Holy Spirit, given after Christ's glorification",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "Zech. 14:16–17; John 7:37–39",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "The Sabbath rest instituted at creation",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "Christ's continuing redemptive work, \"My Father worketh...and I work\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "Gen. 2:1–3; John 5:17",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "The brazen laver, for priestly washing",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Christ washing the disciples' feet, the pattern of humble service",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "Ex. 30:17–21; John 13:4–15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "The firstfruits of the harvest",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "Lazarus raised, and Christ Himself as \"the resurrection and the life\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "Lev. 23:10–11; John 11:25; 1 Cor. 15:20",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "The seamless high priestly robe",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "Christ's seamless coat, \"woven from the top throughout,\" parted by lot at the cross",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "Ex. 28:31–32; John 19:23–24",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XV",
+      "roman": "XV",
+      "title": "DOCTRINES ESTABLISHED IN JOHN",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The doctrinal center of the Gospel",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "More than any other Gospel, John is written to establish the full, eternal deity of Jesus Christ, the reality and necessity of the new birth, the personal ministry of the Holy Spirit, and the believer's present possession of eternal life by faith — doctrines foundational to the whole of Christian theology and given their fullest New Testament exposition here.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The full table of doctrines established in John is given below, with their basis in the Gospel and their confirmation elsewhere in Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Doctrines Established in John",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "John contributes the following doctrinal foundations, confirmed throughout Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Doctrine",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "John basis",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Confirmed in",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "The full, eternal deity and pre-existence of Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "Isa. 9:6; Mic. 5:2",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "John 1:1–3, 14; 8:58; 10:30; 20:28",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "The new birth, a Spirit-wrought spiritual regeneration",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "Ezek. 36:26–27",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "John 3:3–8; Titus 3:5; 2 Cor. 5:17",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "Salvation and eternal life received now, by faith",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "Hab. 2:4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "John 3:16, 36; 5:24; 1 John 5:11–13",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "The personal, distinct ministry of the Holy Spirit",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "Joel 2:28–29",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "John 14:16–17, 26; 16:7–13",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "The Sabbath as the standing memorial of Christ's creative and sustaining work",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "Gen. 2:1–3; Ex. 20:8–11",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "John 1:3; 5:17; Heb. 4:9–10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "Christ's voluntary, substitutionary atonement",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "Isa. 53:4–7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "John 1:29; 10:17–18; 19:30",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Christ's high priestly, intercessory ministry",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "Ex. 28:1; Lev. 16",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "John 17:1–26; Heb. 7:25; 1 John 2:1",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "The literal, personal second coming of Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Dan. 7:13–14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "John 14:1–3; Acts 1:11; Rev. 1:7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "The resurrection of both the just and the unjust",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "Dan. 12:2",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "John 5:28–29; 11:25–26; Acts 24:15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "The state of the dead as a sleep, awaiting the resurrection",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "Eccl. 9:5–6, 10",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "John 11:11–14, 23–24; 1 Thess. 4:13–17",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "The church's unity as a witness to the world",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "Ps. 133:1",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "John 17:11, 20–23; Eph. 4:3–6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "Love as the identifying mark of true discipleship",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "Lev. 19:18",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "John 13:34–35; 1 John 4:7–8",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "The authority and sufficiency of Scripture, testifying of Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "Deut. 18:15; Isa. 8:20",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "John 5:39, 46; 20:30–31",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "Assurance of salvation grounded in the written Word",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "(Anticipated throughout the Psalms, e.g. Ps. 119:105)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "John 20:31; 1 John 5:13",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "The sanctuary motif: Christ as the true tabernacle and temple",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 51,
+              "text": "Ex. 25:8–9; 1 Kings 8:27",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 52,
+              "text": "John 1:14; 2:19–21; Heb. 9:11, 24",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 53,
+              "text": "Conviction and conversion as the Spirit's distinct work",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 54,
+              "text": "(Anticipated in Isa. 6:5–7)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 55,
+              "text": "John 16:8–11; Acts 2:37",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    }
+  ],
+  "types": [
+    {
+      "type": "The tabernacle/sanctuary where God dwelt among Israel",
+      "antitype": "The Word made flesh, who \"tabernacled\" among men (1:14)",
+      "scripture": "Ex. 25:8; John 1:14"
+    },
+    {
+      "type": "The Passover lamb, without blemish",
+      "antitype": "Christ, \"the Lamb of God, which taketh away the sin of the world,\" slain at the Passover hour",
+      "scripture": "Ex. 12:5; John 1:29; 19:14, 36"
+    },
+    {
+      "type": "The bronze serpent lifted up in the wilderness",
+      "antitype": "Christ lifted up on the cross, that whosoever believes may not perish",
+      "scripture": "Num. 21:9; John 3:14–15"
+    },
+    {
+      "type": "The manna, bread from heaven",
+      "antitype": "Christ, the true bread of life come down from heaven",
+      "scripture": "Ex. 16:4; John 6:31–35, 48–51"
+    },
+    {
+      "type": "The rock struck in the wilderness, giving water",
+      "antitype": "Christ, the source of living water and of the Spirit",
+      "scripture": "Ex. 17:6; John 4:14; 7:37–39"
+    },
+    {
+      "type": "The pillar of fire giving light in the wilderness",
+      "antitype": "Christ, the light of the world",
+      "scripture": "Ex. 13:21; John 8:12; 9:5"
+    },
+    {
+      "type": "The Jerusalem temple, God's dwelling place",
+      "antitype": "The temple of Christ's own body, destroyed and raised in three days",
+      "scripture": "1 Kings 8:10–11; John 2:19–21"
+    },
+    {
+      "type": "The shepherds of Israel, faithful and false (Ezekiel 34)",
+      "antitype": "Christ, the good Shepherd who lays down His life for the sheep",
+      "scripture": "Ezek. 34:11–16, 23; John 10:11–16"
+    },
+    {
+      "type": "Israel as God's vine",
+      "antitype": "Christ, the true vine, and believers the branches abiding in Him",
+      "scripture": "Ps. 80:8–16; Isa. 5:1–7; John 15:1–5"
+    },
+    {
+      "type": "Jacob's ladder, linking heaven and earth",
+      "antitype": "Christ, the one Mediator by whom angels ascend and descend",
+      "scripture": "Gen. 28:12; John 1:51"
+    },
+    {
+      "type": "The high priest's intercession for Israel",
+      "antitype": "Christ's high priestly prayer for His own and for all who would believe",
+      "scripture": "Ex. 28:29; John 17:1–26"
+    },
+    {
+      "type": "The feast of Tabernacles' water-pouring ceremony",
+      "antitype": "The Holy Spirit, given after Christ's glorification",
+      "scripture": "Zech. 14:16–17; John 7:37–39"
+    },
+    {
+      "type": "The Sabbath rest instituted at creation",
+      "antitype": "Christ's continuing redemptive work, \"My Father worketh...and I work\"",
+      "scripture": "Gen. 2:1–3; John 5:17"
+    },
+    {
+      "type": "The brazen laver, for priestly washing",
+      "antitype": "Christ washing the disciples' feet, the pattern of humble service",
+      "scripture": "Ex. 30:17–21; John 13:4–15"
+    },
+    {
+      "type": "The firstfruits of the harvest",
+      "antitype": "Lazarus raised, and Christ Himself as \"the resurrection and the life\"",
+      "scripture": "Lev. 23:10–11; John 11:25; 1 Cor. 15:20"
+    },
+    {
+      "type": "The seamless high priestly robe",
+      "antitype": "Christ's seamless coat, \"woven from the top throughout,\" parted by lot at the cross",
+      "scripture": "Ex. 28:31–32; John 19:23–24"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "prompt": "John identifies the purpose of his Gospel (20:30–31) as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an exhaustive, chronological biography of Jesus' life"
+        },
+        {
+          "id": "B",
+          "text": "selective testimony, \"written, that ye might believe that Jesus is the Christ, the Son of God\""
+        },
+        {
+          "id": "C",
+          "text": "a polemical response to the Synoptic Gospels"
+        },
+        {
+          "id": "D",
+          "text": "a manual of church organization for the apostolic age"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John states his purpose explicitly near the close of the Gospel: \"these are written, that ye might believe that Jesus is the Christ, the Son of God: and that believing ye might have life through his name\" (20:31). The book is deliberately selective, built around seven chosen signs and extended discourses rather than an attempt at exhaustive biography — John himself notes that \"many other signs truly did Jesus...which are not written in this book\" (20:30)."
+    },
+    {
+      "id": 2,
+      "prompt": "The prologue's statement \"the Word was God\" (1:1), together with \"the Word was made flesh\" (1:14), establishes",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that Christ was the first and greatest of God's created beings"
+        },
+        {
+          "id": "B",
+          "text": "the eternal, uncreated deity of Christ united with genuine humanity in the incarnation"
+        },
+        {
+          "id": "C",
+          "text": "that \"the Word\" is merely a symbol for God's abstract wisdom"
+        },
+        {
+          "id": "D",
+          "text": "that John taught two separate gods"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John 1:1 makes three careful statements: the Word existed \"in the beginning\" (eternal pre-existence), was \"with God\" (distinct personality), and \"was God\" (full deity). Verse 14 then adds \"the Word was made flesh, and dwelt among us\" — true, genuine humanity joined to that eternal deity, not a replacement of it. Together these verses rule out both the idea of Christ as a created being and the idea that His humanity was unreal or merely apparent."
+    },
+    {
+      "id": 3,
+      "prompt": "John explains that Jesus, cleansing the temple and predicting its destruction and rebuilding \"in three days\" (2:19–21), \"spake of",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the literal rebuilding of Herod's temple"
+        },
+        {
+          "id": "B",
+          "text": "the temple of his body"
+        },
+        {
+          "id": "C",
+          "text": "the future heavenly sanctuary only"
+        },
+        {
+          "id": "D",
+          "text": "the temple at Shiloh"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John supplies the explanation directly: \"he spake of the temple of his body\" (2:21). Jesus' statement, \"Destroy this temple, and in three days I will raise it up\" (2:19), was a veiled prophecy of His own death and resurrection, given in response to a demand for a sign of His authority — a prophecy His own disciples understood only in retrospect, \"when therefore he was risen from the dead, his disciples remembered that he had said this\" (2:22)."
+    },
+    {
+      "id": 4,
+      "prompt": "To Nicodemus, Jesus explains that the new birth is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a matter of ceremonial purification only"
+        },
+        {
+          "id": "B",
+          "text": "a Spirit-wrought spiritual regeneration, necessary to see the kingdom of God"
+        },
+        {
+          "id": "C",
+          "text": "optional for those who keep the law"
+        },
+        {
+          "id": "D",
+          "text": "identical with physical birth into a Jewish family"
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"Except a man be born again, he cannot see the kingdom of God\" (3:3), further specified as being \"born of water and of the Spirit\" (3:5) — a Spirit-wrought spiritual regeneration, not a matter of physical descent, ceremonial washing, or moral self-improvement. Christ's illustration of the wind (3:8) underscores that this new birth is real and its effects observable, even though the inner working of the Spirit, like the wind, cannot be mechanically traced or controlled."
+    },
+    {
+      "id": 5,
+      "prompt": "At the pool of Bethesda, Jesus' statement \"My Father worketh hitherto, and I work\" (5:17) was understood by His hearers as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a denial of His relationship to the Father"
+        },
+        {
+          "id": "B",
+          "text": "a claim of equality with God, provoking a charge of blasphemy"
+        },
+        {
+          "id": "C",
+          "text": "a reference to secular employment"
+        },
+        {
+          "id": "D",
+          "text": "an endorsement of abolishing the Sabbath entirely"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John states the reaction plainly: \"the Jews sought the more to kill him, because he not only had broken the sabbath, but said also that God was his Father, making himself equal with God\" (5:18). Christ's claim to share the Father's unceasing, Sabbath-unbroken work of sustaining life (5:17) was understood by His hearers, correctly, as nothing less than a claim to full deity."
+    },
+    {
+      "id": 6,
+      "prompt": "The bread of life discourse (John 6) identifies Christ as superior to the manna because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "manna was a myth, while Christ is historical"
+        },
+        {
+          "id": "B",
+          "text": "those who ate manna still died, while Christ gives eternal life to those who feed on Him by faith"
+        },
+        {
+          "id": "C",
+          "text": "manna fell only on the Sabbath"
+        },
+        {
+          "id": "D",
+          "text": "Christ multiplied manna in the wilderness"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Jesus states the contrast directly: \"your fathers did eat manna in the wilderness, and are dead....I am the living bread which came down from heaven: if any man eat of this bread, he shall live for ever\" (6:49, 51). The manna sustained physical life temporarily; Christ, received by faith, gives eternal life — the type (daily bread) gives way to the greater antitype (the bread of life Himself)."
+    },
+    {
+      "id": 7,
+      "prompt": "At the Feast of Tabernacles, Jesus' invitation \"If any man thirst, let him come unto me, and drink\" (7:37) was explained by John as referring to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "literal drinking water for pilgrims"
+        },
+        {
+          "id": "B",
+          "text": "the Holy Spirit, to be given after Jesus' glorification"
+        },
+        {
+          "id": "C",
+          "text": "the wine of the Lord's Supper"
+        },
+        {
+          "id": "D",
+          "text": "baptism by immersion"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John supplies the interpretation directly: Jesus \"spake of the Spirit, which they that believe on him should receive: for the Holy Ghost was not yet given; because that Jesus was not yet glorified\" (7:39). The invitation to \"come...and drink\" (7:37) was a prophetic promise of the Holy Spirit's outpouring, not a reference to literal water."
+    },
+    {
+      "id": 8,
+      "prompt": "Jesus' declaration \"Before Abraham was, I am\" (8:58) is significant because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "it merely claims seniority in age over Abraham"
+        },
+        {
+          "id": "B",
+          "text": "it applies the divine name of Exodus 3:14 to Himself, a direct claim to deity"
+        },
+        {
+          "id": "C",
+          "text": "it was a grammatical error later corrected by scribes"
+        },
+        {
+          "id": "D",
+          "text": "it refers to Abraham's vision of Christ's birth only"
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"I AM\" is the divine name God gave Moses at the burning bush: \"I AM THAT I AM...say unto the children of Israel, I AM hath sent me unto you\" (Ex. 3:14). By applying this timeless, self-existent name directly to Himself in relation to Abraham, Jesus made an unmistakable claim to deity — a claim His hearers understood immediately, for they \"took up stones to cast at him\" (8:59), the prescribed penalty for blasphemy."
+    },
+    {
+      "id": 9,
+      "prompt": "Concerning the man born blind, Jesus states that his blindness was",
+      "choices": [
+        {
+          "id": "A",
+          "text": "direct punishment for his own sin"
+        },
+        {
+          "id": "B",
+          "text": "direct punishment for his parents' sin"
+        },
+        {
+          "id": "C",
+          "text": "an occasion for the works of God to be made manifest in him"
+        },
+        {
+          "id": "D",
+          "text": "a divine accident outside God's purpose"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Jesus redirects the disciples' question entirely: \"Neither hath this man sinned, nor his parents: but that the works of God should be made manifest in him\" (9:3). The text explicitly rejects the assumption that every affliction is direct, traceable punishment for specific sin, instead framing the man's blindness as an occasion for God's power and glory to be displayed."
+    },
+    {
+      "id": 10,
+      "prompt": "The good shepherd discourse (John 10) states that Christ lays down His life for the sheep",
+      "choices": [
+        {
+          "id": "A",
+          "text": "as a tragedy forced upon Him against His will"
+        },
+        {
+          "id": "B",
+          "text": "voluntarily, \"No man taketh it from me, but I lay it down of myself\""
+        },
+        {
+          "id": "C",
+          "text": "only after being overpowered by His enemies"
+        },
+        {
+          "id": "D",
+          "text": "as a last resort after all other options failed"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Christ states this as emphatically as possible: \"No man taketh it from me, but I lay it down of myself. I have power to lay it down, and I have power to take it again\" (10:18). The cross, in John's presentation, is Christ's sovereign, voluntary act of self-giving love, not a tragedy that overtakes Him against His will."
+    },
+    {
+      "id": 11,
+      "prompt": "Jesus' statement to Martha, \"I am the resurrection, and the life\" (11:25), relocates resurrection hope from",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a future doctrine only, to His own present, personal authority over death"
+        },
+        {
+          "id": "B",
+          "text": "the Old Testament to the New Testament exclusively"
+        },
+        {
+          "id": "C",
+          "text": "Judaism to a wholly new religion"
+        },
+        {
+          "id": "D",
+          "text": "Martha to Mary"
+        }
+      ],
+      "answer": "A",
+      "explanation": "To Martha's statement of hope in \"the resurrection at the last day\" (11:24), Jesus answers, \"I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live\" (11:25) — grounding resurrection hope not in an abstract future doctrine alone but in His own present, personal authority over death, an authority He then immediately demonstrates by raising Lazarus."
+    },
+    {
+      "id": 12,
+      "prompt": "The raising of Lazarus, John notes, directly led to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "widespread Roman persecution of all Jews"
+        },
+        {
+          "id": "B",
+          "text": "the Sanhedrin's formal decision to put Jesus to death"
+        },
+        {
+          "id": "C",
+          "text": "Lazarus's own conversion to Rome"
+        },
+        {
+          "id": "D",
+          "text": "the closing of the temple"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John records the direct causal link: \"Then from that day forth they took counsel together for to put him to death\" (11:53), following the chief priests' and Pharisees' alarm that \"if we let him thus alone, all men will believe on him: and the Romans shall come and take away both our place and nation\" (11:48). The seventh and greatest sign becomes, humanly speaking, the trigger for the decision to crucify Him."
+    },
+    {
+      "id": 13,
+      "prompt": "At the triumphal entry, Jesus' choice to ride a colt rather than a war horse fulfilled",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a Roman custom of humility"
+        },
+        {
+          "id": "B",
+          "text": "Zechariah's prophecy of a King coming \"lowly, and riding upon an ass\" (Zech. 9:9)"
+        },
+        {
+          "id": "C",
+          "text": "no specific prophecy"
+        },
+        {
+          "id": "D",
+          "text": "the custom of Passover pilgrims generally"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John explicitly connects the event to prophecy: \"as it is written, Fear not, daughter of Sion: behold, thy King cometh, sitting on an ass's colt\" (12:14–15, citing Zech. 9:9). A king riding a colt, rather than a war horse, was a deliberate, prophesied sign of humble, peaceable kingship, not military conquest."
+    },
+    {
+      "id": 14,
+      "prompt": "The footwashing in the upper room (John 13) is significant chiefly because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "it was a common, unremarkable custom requiring no special comment"
+        },
+        {
+          "id": "B",
+          "text": "Christ, fully conscious of His divine origin, performed a servant's task as the pattern of discipleship"
+        },
+        {
+          "id": "C",
+          "text": "only Peter was washed"
+        },
+        {
+          "id": "D",
+          "text": "it replaced the Lord's Supper"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John frames the scene with Christ's full self-awareness: \"Jesus knowing that...he was come from God, and went to God...riseth from supper...and began to wash the disciples' feet\" (13:3–5). The force of the lesson lies precisely in the fact that the One with every right to be served chose, knowingly and deliberately, to perform the lowest servant's task — the pattern He then directly commands His disciples to follow (13:14–15)."
+    },
+    {
+      "id": 15,
+      "prompt": "The \"Comforter\" promised in John 14–16 is identified as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an impersonal force"
+        },
+        {
+          "id": "B",
+          "text": "the Holy Spirit, who would teach, remind, and convict the world of sin, righteousness, and judgment"
+        },
+        {
+          "id": "C",
+          "text": "a guardian angel assigned to each believer"
+        },
+        {
+          "id": "D",
+          "text": "the written Gospel of John itself"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Jesus calls Him \"the Comforter...the Spirit of truth\" (14:16–17), who would \"teach you all things\" (14:26) and \"reprove the world of sin, and of righteousness, and of judgment\" (16:8) — language of personal action (teaching, testifying, convicting) that identifies the Holy Spirit as a personal, distinct member of the Godhead continuing Christ's own ministry, not an impersonal force or influence."
+    },
+    {
+      "id": 16,
+      "prompt": "The vine and branches discourse (John 15) teaches that fruitfulness depends on",
+      "choices": [
+        {
+          "id": "A",
+          "text": "strict adherence to ceremonial law"
+        },
+        {
+          "id": "B",
+          "text": "abiding in Christ, \"for without me ye can do nothing\""
+        },
+        {
+          "id": "C",
+          "text": "physical descent from Abraham"
+        },
+        {
+          "id": "D",
+          "text": "political independence from Rome"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Christ states the principle without qualification: \"I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing\" (15:5). Fruitfulness in the Christian life flows entirely from continued, living union with Christ, not from external religious performance or ancestry."
+    },
+    {
+      "id": 17,
+      "prompt": "John notes that Jesus was condemned \"about the sixth hour\" on \"the preparation of the passover\" (19:14), a detail significant because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "it has no theological meaning"
+        },
+        {
+          "id": "B",
+          "text": "it coincides with the very hour the Passover lambs were being slain in the temple"
+        },
+        {
+          "id": "C",
+          "text": "it contradicts the Synoptic Gospels with no explanation"
+        },
+        {
+          "id": "D",
+          "text": "it refers to a different festival entirely"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John notes the timing deliberately: Pilate delivered Jesus to be crucified \"about the sixth hour\" on \"the preparation of the passover\" (19:14) — precisely the hour when the Passover lambs were being slain in the temple for the feast that evening. For readers familiar with the Passover ritual, the coincidence of timing underscored that Christ was dying as the true Passover Lamb, of whom the annual sacrifice had always been the type (cf. 1 Cor. 5:7)."
+    },
+    {
+      "id": 18,
+      "prompt": "Christ's final cry, \"It is finished\" (19:30), using a term that meant \"paid in full,\" signifies",
+      "choices": [
+        {
+          "id": "A",
+          "text": "defeat and the collapse of His mission"
+        },
+        {
+          "id": "B",
+          "text": "the completed, sufficient accomplishment of the work of redemption"
+        },
+        {
+          "id": "C",
+          "text": "merely the end of His physical suffering with no further meaning"
+        },
+        {
+          "id": "D",
+          "text": "a question rather than a declaration"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Greek word rendered \"finished\" (tetelestai) was commonly used in the first century as a commercial term meaning a debt \"paid in full.\" Christ's final cry on the cross is therefore a declaration of completed, sufficient accomplishment — the work of redemption fully and finally achieved — not an admission of defeat or an unfinished task."
+    },
+    {
+      "id": 19,
+      "prompt": "The first witness of the resurrection, Mary Magdalene (20:11–18), is significant evidentially because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "her testimony would have carried maximum legal weight in that culture"
+        },
+        {
+          "id": "B",
+          "text": "a woman's testimony was not legally admissible at the time, making fabrication for credibility unlikely"
+        },
+        {
+          "id": "C",
+          "text": "she was a Roman citizen"
+        },
+        {
+          "id": "D",
+          "text": "she was one of the twelve apostles"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In first-century Jewish legal practice, the testimony of a woman was not generally considered admissible as formal legal evidence. That the Gospel writers nonetheless record a woman, Mary Magdalene, as the very first witness of the resurrection is a detail that argues strongly for the honesty and historical reliability of the account — it is not the detail anyone fabricating a persuasive legal case would have invented."
+    },
+    {
+      "id": 20,
+      "prompt": "Christ's beatitude to Thomas, \"blessed are they that have not seen, and yet have believed\" (20:29), is addressed",
+      "choices": [
+        {
+          "id": "A",
+          "text": "only to the original twelve disciples"
+        },
+        {
+          "id": "B",
+          "text": "to every later reader of the Gospel who believes without having seen the risen Christ in person"
+        },
+        {
+          "id": "C",
+          "text": "exclusively to Thomas as a private rebuke"
+        },
+        {
+          "id": "D",
+          "text": "to the Pharisees"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Christ's words are addressed beyond Thomas and the original disciples to every reader who would come after: \"blessed are they that have not seen, and yet have believed\" (20:29) — a direct bridge from the eyewitness generation to all later believers, reinforcing the stated purpose of the whole Gospel (20:30–31), written precisely so that those who cannot see might nonetheless believe."
+    }
+  ]
+}

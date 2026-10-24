@@ -706,7 +706,7 @@ img {
   background: var(--sage);
 }
 
-.sop {
+.commentary {
   margin-top: 0.9rem;
   padding: 0.9rem 1rem;
   border-left: 2px solid var(--sage);
@@ -716,6 +716,18 @@ img {
   font-style: italic;
   font-size: 0.98rem;
   line-height: 1.5;
+}
+
+.commentary__label {
+  display: block;
+  font-family: var(--font-body);
+  font-style: normal;
+  font-size: 0.68rem;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--sage);
+  margin-bottom: 0.35rem;
+  font-weight: 600;
 }
 
 .types-grid {

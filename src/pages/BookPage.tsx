@@ -36,7 +36,11 @@ export function BookPage() {
           </p>
           <h1>
             {meta.name}
-            <span>{meta.hebrew ? `${meta.hebrew} — ${meta.subtitle}` : meta.subtitle}</span>
+            <span>
+              {meta.hebrew
+                ? `${meta.hebrew} — ${meta.subtitle}`
+                : meta.subtitle}
+            </span>
           </h1>
           <p className="book-hero__lede">{meta.tagline}</p>
           <div className="stats-inline">
@@ -46,9 +50,11 @@ export function BookPage() {
             <div>
               <strong>{quiz.length}</strong> quiz questions
             </div>
-            <div>
-              <strong>{types.length}</strong> type / antitype pairs
-            </div>
+            {types.length > 0 ? (
+              <div>
+                <strong>{types.length}</strong> type / antitype pairs
+              </div>
+            ) : null}
             {progress.quizBest !== null ? (
               <div>
                 <strong>
@@ -69,14 +75,15 @@ export function BookPage() {
         </div>
       </section>
 
-      {meta.divisions ? (
+      {meta.divisions && meta.divisions.length > 0 ? (
         <section className="section">
           <div className="section-head">
-            <h2>Two movements</h2>
-            <p>
-              The hinge is Genesis 12:1–3 — universal ruin meets God&apos;s
-              remedy in the call of one man.
-            </p>
+            <h2>
+              {meta.divisions.length === 2
+                ? 'Two movements'
+                : 'How the book moves'}
+            </h2>
+            <p>Follow the shape of {meta.name} before diving into each lesson.</p>
           </div>
           <div className="types-grid">
             {meta.divisions.map((d) => (
@@ -100,8 +107,8 @@ export function BookPage() {
         <div className="section-head">
           <h2>Study the outline</h2>
           <p>
-            Key badges mark high-yield material. Check sections as you finish
-            them — your progress stays on this device.
+            Key badges mark high-yield material. Commentary blocks highlight
+            quoted insights. Progress stays on this device.
           </p>
         </div>
 
@@ -135,27 +142,29 @@ export function BookPage() {
         />
       </section>
 
-      <section className="section" id="types">
-        <div className="section-head">
-          <h2>Type and antitype</h2>
-          <p>
-            Flip each card — memorize the type, the antitype, and the passage
-            that establishes the link.
-          </p>
-        </div>
-        <TypeCards types={types} />
-      </section>
+      {types.length > 0 ? (
+        <section className="section" id="types">
+          <div className="section-head">
+            <h2>Type and antitype</h2>
+            <p>
+              Flip each card — memorize the type, the antitype, and the passage
+              that establishes the link.
+            </p>
+          </div>
+          <TypeCards types={types} />
+        </section>
+      ) : null}
 
       <section className="section">
         <div className="section-head">
           <h2>Ready to be tested?</h2>
           <p>
-            Seventeen multiple-choice questions with full explanations drawn
+            {quiz.length} multiple-choice questions with full explanations drawn
             from the outline.
           </p>
         </div>
         <Link className="btn btn-primary" to={`/books/${meta.id}/quiz`}>
-          Start Genesis quiz
+          Start {meta.name} quiz
         </Link>
       </section>
     </main>

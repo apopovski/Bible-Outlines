@@ -2,7 +2,8 @@ import { Link } from 'react-router-dom'
 import { booksCatalog } from '../data/books'
 
 export function HomePage() {
-  const available = booksCatalog.filter((b) => b.available).length
+  const available = booksCatalog.filter((b) => b.available)
+  const sorted = [...booksCatalog].sort((a, b) => a.order - b.order)
 
   return (
     <main>
@@ -13,8 +14,8 @@ export function HomePage() {
             Bible <em>Outlines</em>
           </h1>
           <p className="home-hero__lede">
-            Guided lessons and high-yield quizzes for every book of Scripture —
-            starting with Genesis.
+            Guided lessons, commentary callouts, and high-yield quizzes —
+            {available.length} books ready to study.
           </p>
           <div className="cta-row">
             <Link className="btn btn-primary" to="/books/genesis">
@@ -31,12 +32,12 @@ export function HomePage() {
         <div className="section-head">
           <h2>The library</h2>
           <p>
-            One interactive outline per book. {available} ready now — the rest
-            unlock as outlines arrive.
+            One interactive outline per book. {available.length} ready now —
+            more arrive as outlines are added.
           </p>
         </div>
         <div className="book-rail">
-          {booksCatalog.map((book) => {
+          {sorted.map((book) => {
             const inner = (
               <>
                 <div className="book-num">
