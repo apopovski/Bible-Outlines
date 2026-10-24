@@ -1,0 +1,2256 @@
+{
+  "meta": {
+    "id": "genesis",
+    "name": "Genesis",
+    "hebrew": "Bereshit",
+    "subtitle": "Beginnings",
+    "testament": "Old Testament",
+    "order": 1,
+    "chapters": "1–50",
+    "tagline": "An interactive outline of Genesis in the Seventh-day Adventist doctrine, following Ellen G. White, Patriarchs and Prophets.",
+    "divisions": [
+      {
+        "title": "Primeval history",
+        "range": "chs. 1–11",
+        "focus": "Creation, fall, flood, Babel"
+      },
+      {
+        "title": "Patriarchal history",
+        "range": "chs. 12–50",
+        "focus": "Abraham, Isaac, Jacob, Joseph"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "I",
+      "title": "INTRODUCTION, AUTHORSHIP, AND STRUCTURE",
+      "roman": "I",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Name and canonical position",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Genesis means \"beginnings.\" The Hebrew title is Bereshit (\"In the beginning\"), taken from the book's first word.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "It is the first book of the Pentateuch — Genesis, Exodus, Leviticus, Numbers, Deuteronomy — the five books of Moses.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Genesis supplies the foundation for every doctrine that follows: the character of God, the origin of the world and of man, the entrance of sin, the Sabbath, marriage, the sacrificial system, and the plan of redemption.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "Authorship",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Moses wrote Genesis under inspiration, guided by the Holy Spirit, drawing on revelation given directly to him and on records preserved from the patriarchs.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": "\"The Bible is the most ancient and the most comprehensive history that men possess... Here only can we find a history of our race unsullied by human prejudice or human pride.\" — Education, p. 173"
+        },
+        {
+          "letter": "C",
+          "title": "Structure: the toledot framework",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book is organized by the recurring phrase \"These are the generations of\" (Heb. toledot), which is a heading introducing what follows, not a summary of what precedes.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "There are eleven occurrences, dividing the book into a prologue plus ten sections.",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "2:4 (the heavens and the earth) · 5:1 (Adam) · 6:9 (Noah) · 10:1 (sons of Noah) · 11:10 (Shem)"
+                },
+                {
+                  "letter": "b",
+                  "text": "11:27 (Terah) · 25:12 (Ishmael) · 25:19 (Isaac) · 36:1 and 36:9 (Esau) · 37:2 (Jacob)"
+                }
+              ]
+            },
+            {
+              "n": 3,
+              "text": "A consistent pattern emerges: the rejected line is treated first and briefly (Ishmael, Esau), then set aside, so that the narrative may follow the line of promise (Isaac, Jacob).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "D",
+          "title": "Two major divisions",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Primeval history (chs. 1–11). Universal in scope: creation, fall, flood, Babel.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Patriarchal history (chs. 12–50). Particular in scope: Abraham, Isaac, Jacob, Joseph.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The hinge is 12:1–3. The universal ruin of chs. 3–11 meets God's remedy in the call of one man through whom \"all families of the earth shall be blessed.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "E",
+          "title": "Chronology",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The genealogies of chs. 5 and 11 give ages at the birth of the next named son, forming a continuous chronological chain from Adam to Abraham.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Genesis therefore presents a recent creation and a young earth, not an indefinite antiquity.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The long lifespans before the flood (Adam 930; Methuselah 969) and their rapid decline afterward reflect the vigor of the race at creation and the progressive effects of sin and of changed post-flood conditions.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "II",
+      "title": "THE GREAT CONTROVERSY: THE ORIGIN OF SIN",
+      "roman": "II",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Sin began in heaven, not on earth",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Genesis opens with a world already containing a tempter.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The record of how that tempter fell (Ezek. 28:14): Lucifer was \"the anointed cherub that covereth,\" \"perfect in thy ways from the day that thou wast created, till iniquity was found in thee\".",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Isa. 14:12–14 records the five \"I wills\": ascend into heaven, exalt my throne above the stars of God, sit upon the mount of the congregation, ascend above the heights of the clouds, \"I will be like the most High.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Rev. 12:7–9 records the war in heaven and the expulsion of \"that old serpent, called the Devil, and Satan, which deceiveth the whole world.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The issue raised was the character and government of God — whether His law is arbitrary and His rule self-serving. This is the controversy that Genesis 3 brings to earth and that the whole Bible resolves.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Key principle: sin is not eternal and had a beginning in a created being who was not made sinful. God is not its author, and it will not be eternal (Nahum 1:9).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": "\"Little by little, Lucifer came to indulge the desire for self-exaltation... He sought to deceive the angels. His work was done with mystery.\" — Patriarchs and Prophets, ch. 1, \"Why Was Sin Permitted?\""
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "III",
+      "title": "CREATION (1:1–2:25)",
+      "roman": "III",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Creation by the word of God",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Genesis 1:1 — \"In the beginning God created the heaven and the earth.\" The verb bara' takes God alone as its subject and never an accusative of material: creation is ex nihilo, not the shaping of pre-existing matter.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"And God said\" occurs ten times. Ps. 33:6, 9 — \"By the word of the LORD were the heavens made... For he spake, and it was done.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "There is no conflict, no struggle, no rival deity. God speaks and it is so; He pronounces the result \"good\" seven times, climaxing in \"very good\" (1:31).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "Six literal days",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The days of creation were literal twenty-four-hour days, marked off by \"the evening and the morning\" and by the sun from the fourth day onward.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Exod. 20:11 grounds the fourth commandment in the literal week: \"in six days the LORD made heaven and earth... and rested the seventh day.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The week has no natural basis in astronomy, unlike the day, month, and year. Its existence among all nations is itself a witness to the creation record.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Long-age theories are expressly rejected. The proposal that \"the days of creation were vast, indefinite periods\" is identified in the Spirit of Prophecy as infidelity, destroying confidence in the Mosaic record (PP, p. 112).",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The order of creation itself refutes evolutionary sequence: the earth before the sun, light before the luminaries, plants before animals, and birds before land animals.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Structure of the week: forming (days 1–3) and filling (days 4–6).",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "Day 1 light / Day 4 luminaries · Day 2 sky and sea / Day 5 birds and fish · Day 3 land and plants / Day 6 land animals and man."
+                }
+              ]
+            }
+          ],
+          "sop": "\"Like every other, it consisted of seven literal days... God Himself measured off the first week as a sample for successive weeks to the close of time.\" — PP, p. 111"
+        },
+        {
+          "letter": "C",
+          "title": "The Sabbath instituted at creation (2:1–3)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "God did three things on the seventh day: He rested, He blessed it, and He sanctified it — set it apart for holy use.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The Sabbath was therefore instituted before sin, before Israel, and before the Jewish nation existed. It is a creation ordinance for the whole race, not a Mosaic or national institution.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "It is a memorial of creation — the standing sign of who the Creator is (Exod. 20:11; Ezek. 20:12, 20).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Christ is the Maker of the Sabbath (John 1:3; Col. 1:16; Heb. 1:2) and therefore its Lord (Mark 2:27–28), and He said it \"was made for man\" — for mankind, not for one people.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "It is the seventh day specifically, not a seventh part of time, and the blessing was placed on that day alone.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": "\"On the seventh day man is to refrain from labor, in commemoration of the Creator's rest.\" — PP, p. 111"
+        },
+        {
+          "letter": "D",
+          "title": "The image of God and the nature of man",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Man was created in the image of God (1:26–28), in physical, mental, and spiritual likeness, and given dominion over the earth as God's representative.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "2:7 — \"the LORD God formed man of the dust of the ground, and breathed into his nostrils the breath of life; and man became a living soul.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Man does not possess a soul; man is a soul. Dust + breath of life = living soul. The soul is not a separable, immortal entity.",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "At death the process reverses: \"dust thou art, and unto dust shalt thou return\" (3:19); \"his breath goeth forth, he returneth to his earth; in that very day his thoughts perish\" (Ps. 146:4); \"the dead know not any thing\" (Eccl. 9:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Immortality belongs to God alone (1 Tim. 6:16) and is given to the righteous at the resurrection (1 Cor. 15:51–54). Man was created conditionally immortal, his continued life depending on access to the tree of life.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "E",
+          "title": "The garden, the test, and the original diet",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Eden contained the tree of life and the tree of the knowledge of good and evil. Only the latter was forbidden (2:17), under the stated penalty of death.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The prohibition was a test of loyalty, deliberately simple, requiring no reasoning but only trust.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "1:29 gives the original diet: \"every herb bearing seed... and every tree, in the which is the fruit of a tree yielding seed\" — grains, fruits, nuts, and seeds. Vegetables are added after the fall (3:18). Flesh food was not given until after the flood (9:3).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "F",
+          "title": "Marriage instituted at creation (2:18–25)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "God declared \"it is not good that the man should be alone\" and made one woman for one man — the divine pattern is monogamy, the first departure from it being Lamech (4:19).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The woman was taken from his side — not from his head to rule over him, nor from his feet to be trampled, but from his side to be equal, near his heart.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "2:24 — \"they shall be one flesh.\" Reaffirmed by Christ (Matt. 19:4–6) and Paul (Eph. 5:31) as binding and grounded in creation.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Marriage and the Sabbath are the two institutions given in Eden, both before the fall, and both brought forward unchanged into the Christian era.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IV",
+      "title": "THE FALL AND THE PLAN OF REDEMPTION (3:1–24)",
+      "roman": "IV",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The temptation (3:1–6)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Satan spoke through the serpent, then one of the most beautiful creatures in Eden, concealing himself so that Eve would not recognize her adversary.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Eve's first error was leaving her husband's side and lingering at the forbidden tree, placing herself on the ground of the tempter's choosing.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The method advanced in three steps:",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "Questioning God's word — \"Yea, hath God said...?\" (3:1)."
+                },
+                {
+                  "letter": "b",
+                  "text": "Denying God's word — \"Ye shall not surely die\" (3:4), a flat contradiction of 2:17."
+                },
+                {
+                  "letter": "c",
+                  "text": "Charging God with a selfish motive — \"God doth know... ye shall be as gods\" (3:5)."
+                }
+              ]
+            },
+            {
+              "n": 4,
+              "text": "\"Ye shall not surely die\" is the first lie recorded in Scripture, and it is the foundation of the doctrine of the natural immortality of the soul. Every form of spiritualism rests ultimately upon it.",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "3:6 records the threefold appeal — \"good for food... pleasant to the eyes... to be desired to make one wise\" — the same three avenues named in 1 John 2:16 and used against Christ in the wilderness (Matt. 4:1–11), where He overcame on every point at which Adam fell.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Adam was not deceived (1 Tim. 2:14). He sinned knowingly, choosing Eve above God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "The results (3:7–19)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The covering of light that had clothed the holy pair departed; they knew they were naked and sewed fig leaves — the first attempt at salvation by works, which God replaced.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Both excused themselves: the man blamed the woman and, implicitly, God (\"the woman whom thou gavest\"); the woman blamed the serpent.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The ground is cursed and labor becomes toil; sorrow is multiplied; and death is pronounced. The serpent is cursed above all cattle.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Man and woman are not cursed; the curse falls on the serpent and on the ground.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "The first gospel promise (3:15)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I will put enmity between thee and the woman, and between thy seed and her seed; it shall bruise thy head, and thou shalt bruise his heel.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "This is the protoevangelium — the first announcement of the gospel, given in the hearing of Adam and Eve before sentence was passed on them, so that hope preceded the pronouncement of the curse.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The enmity is divinely implanted. Fallen man has no natural hatred of sin; the enmity against Satan is itself a gift of grace.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The asymmetry is decisive: a bruised head is a mortal wound; a bruised heel is not. The cross was Satan's wound to Christ's heel and Christ's wound to Satan's head.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "\"Her seed\" — not the man's — is an early intimation of the incarnation by a virgin. Echoed at Gal. 4:4 and Rom. 16:20.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "D",
+          "title": "The coats of skins (3:21)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "God clothed them with coats of skins, which required the death of an innocent animal — the first death in the history of the world, and the beginning of the sacrificial system.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "This is the divine answer to the fig leaves: man's covering is rejected and God's substitute covering is supplied. It typifies the robe of Christ's righteousness (Isa. 61:10; Rev. 3:18).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The whole sacrificial system from this point forward pointed forward to the Lamb of God and was never efficacious in itself (Heb. 10:4).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "E",
+          "title": "Expulsion and the tree of life (3:22–24)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "They were driven out lest they eat of the tree of life and perpetuate sin eternally. The exclusion was an act of mercy, not merely of judgment.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Cherubim and a flaming sword guarded the way. Access is restored only in the earth made new (Rev. 22:2, 14), framing the entire canon.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "V",
+      "title": "CAIN AND ABEL; SETH AND ENOCH (4:1–5:32)",
+      "roman": "V",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Cain and Abel: the two systems of religion (4:1–16)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Abel brought a lamb — the firstlings of his flock — in obedience to the divinely appointed way, acknowledging himself a sinner needing a substitute.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Cain brought the fruit of the ground — an offering of his own labor, with no blood and no confession of sin. It was a bloodless offering representing salvation by works.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Heb. 11:4 — \"By faith Abel offered unto God a more excellent sacrifice than Cain.\" The difference was not sincerity but obedience and faith in the appointed means.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "These two offerings represent the two systems of religion that have divided the world ever since: righteousness by faith in a substitute, and righteousness by human merit.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "God warned Cain that \"sin lieth at the door\" (4:7) and gave him opportunity to repent; he responded with murder.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": "\"Cain and Abel represent two classes that will exist until the close of time.\" — PP, ch. 5, \"Cain and Abel Tested\""
+        },
+        {
+          "letter": "B",
+          "title": "The two lines (4:17–5:32)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The line of Cain is marked by city-building, the arts, metallurgy — and by escalating evil: Lamech introduces polygamy (4:19) and boasts of murder (4:23–24).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The line of Seth preserved the knowledge and worship of God; \"then began men to call upon the name of the LORD\" (4:26).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Chapter 5 is a genealogy of ten generations from Adam to Noah, punctuated by the refrain \"and he died\" — the sentence of 2:17 executed eight times over.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "Enoch (5:21–24)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Enoch \"walked with God\" three hundred years, and that walk began after the birth of his son — holiness in the midst of family life and of a corrupt age, not in isolation from them.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"And he was not; for God took him\" — translated without seeing death (Heb. 11:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Enoch was also a prophet. Jude 14–15 preserves his message: \"Behold, the Lord cometh with ten thousands of his saints, to execute judgment upon all\" — the earliest recorded prophecy of the second advent, given before the flood.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Enoch is a type of the living righteous who will be translated without seeing death at Christ's coming (1 Thess. 4:16–17; 1 Cor. 15:51–52). As he was taken before the destruction of the world by water, so they will be taken before its destruction by fire.",
+              "highYield": true,
+              "subpoints": []
+            }
+          ],
+          "sop": "Enoch's life represents the holiness of character that must be attained by those who will be \"redeemed from the earth\" at the time of Christ's second advent. — PP, ch. 6, \"Seth and Enoch,\" pp. 80–88"
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VI",
+      "title": "THE FLOOD (6:1–9:29)",
+      "roman": "VI",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "\"The sons of God and the daughters of men\" (6:1–4)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The \"sons of God\" were the descendants of Seth, who had professed loyalty to God; the \"daughters of men\" were of the line of Cain. The intermarriage of the professed people of God with the ungodly destroyed the distinction between the two lines.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The notion that fallen angels married women is to be rejected. Angels do not marry (Matt. 22:30), and the text is describing a religious apostasy, not an ontological one.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The result was universal corruption: \"every imagination of the thoughts of his heart was only evil continually\" (6:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "6:3 — \"his days shall be an hundred and twenty years\" — a prophecy fixing the period of probation granted to the antediluvian world.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "Noah's preaching and the building of the ark (6:8–7:10)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "6:8 — \"But Noah found grace in the eyes of the LORD\" — the first occurrence of the word grace in Scripture, and it stands before the statement of Noah's righteousness in 6:9, not after it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Noah was \"a preacher of righteousness\" (2 Pet. 2:5) for 120 years. The ark itself was his sermon, and his message was rejected by all but his own family.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Dimensions: 300 × 50 × 30 cubits, three decks, one door, one window above. The single door typifies the one way of salvation (John 10:9; 14:6).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "7:2–3 — seven pairs of clean animals and birds, two of unclean. The distinction between clean and unclean was therefore known long before Sinai and is not a Jewish ceremonial invention.",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "\"The LORD shut him in\" (7:16). The door was closed by God, and probation for that world ended seven days before the rain began.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "The flood itself (7:11–8:19)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The flood was universal, not local: the waters covered \"all the high hills, that were under the whole heaven\" (7:19), and all flesh outside the ark died.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Waters came from both \"the fountains of the great deep\" and \"the windows of heaven\" (7:11) — the breaking up of the earth's crust as well as rain.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The flood reshaped the surface of the earth, and the fossil record and the strata are its monument, not the record of long ages.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Noah and his family were in the ark a little over a year (7:11; 8:13–14).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "D",
+          "title": "The Noahic covenant and after (8:20–9:29)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Noah built an altar and offered of every clean beast — the reason the clean animals were taken by sevens.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Flesh food was first permitted (9:3), after the destruction of all vegetation, with the prohibition of blood (9:4). Human lifespans decline sharply from this point.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Capital punishment instituted for murder (9:6), grounded expressly in the image of God.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The sign of the covenant is the bow in the cloud (9:13) — an unconditional, universal promise never again to destroy the earth by water.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The curse of 9:25 falls upon Canaan, Ham's son — not upon Ham, and not upon any race. It anticipates the moral degradation of the Canaanite nations. The use of this text to justify race-based slavery is a corruption of Scripture; the text names a people, never a color.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VII",
+      "title": "BABEL AND THE NATIONS (10:1–11:32)",
+      "roman": "VII",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The Table of Nations (ch. 10)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Seventy nations descend from Shem, Ham, and Japheth — the whole human family from one ancestor (Acts 17:26).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Nimrod (10:8–12) is \"a mighty one in the earth,\" and his kingdom begins at Babel and extends to Nineveh, linking the two great persecuting powers of later Scripture.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "The tower of Babel (11:1–9)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The builders' motives are stated: \"let us make us a name\" and \"lest we be scattered abroad\" (11:4) — self-exaltation and deliberate defiance of God's command to fill the earth.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The tower was also a monument of unbelief, intended as a refuge should God send another flood — a direct distrust of the covenant of 9:11 and of the rainbow itself.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "God confounded their language and scattered them. The project collapsed not by force but by the removal of the ability to cooperate in rebellion.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Babel is the origin of Babylon, and the spirit of Babel — human confederacy, self-exaltation, and compelled false worship — reappears in Dan. 3 and finally in Rev. 14:8; 17; 18, where Babylon falls.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Reversed at Pentecost (Acts 2), where the Spirit gave understanding across every language to gather, rather than scatter, the race.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "From Shem to Abram (11:10–32)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "A second genealogy narrows from seventy nations to one family.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Terah left Ur of the Chaldees with Abram, Lot, and Sarai, intending Canaan, but stopped at Haran — a delay of partial obedience.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Sarai was barren (11:30), the obstacle around which the entire Abrahamic narrative turns, ensuring the promised seed would be plainly of God and not of nature.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VIII",
+      "title": "ABRAHAM (12:1–25:11)",
+      "roman": "VIII",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The call and the covenant promise (12:1–3)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The command: separate from country, kindred, and father's house, to a land not yet named. The call required faith before sight.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The promise is sevenfold and culminates in \"in thee shall all families of the earth be blessed\" — the gospel, as Gal. 3:8 states expressly: \"the scripture... preached before the gospel unto Abraham.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The three elements are land, seed, and blessing.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Direct answer to Babel: those who sought to \"make us a name\" were scattered; Abram, who surrendered everything, was told \"I will make thy name great.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": "\"Abraham's unquestioning obedience is one of the most striking evidences of faith to be found in all the Bible.\" — PP, p. 126, ch. 11, \"The Call of Abraham\""
+        },
+        {
+          "letter": "B",
+          "title": "Canaan, Egypt, and Lot (12:4–14:16)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Abram built altars at Shechem and Bethel — wherever he pitched his tent, he raised an altar, and his encampment was a school of true religion.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The descent into Egypt during famine, and the half-truth about Sarai, was a departure from faith that brought rebuke from a heathen king — a warning that unbelief in one leads to dishonor of God's name before the world.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Lot chose by sight the well-watered plain and pitched toward Sodom (13:10–12), placing worldly advantage above spiritual safety, and lost everything by it.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "Melchizedek (14:18–20)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"King of Salem\" and \"priest of the most high God,\" he brought forth bread and wine and blessed Abram.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Abram paid tithe to him — \"gave him tithes of all\" (14:20). Tithing therefore predates the Levitical system by centuries and is not a Mosaic ceremonial requirement. Jacob likewise vowed a tenth (28:22).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Melchizedek is a type of Christ, presented in Scripture without recorded genealogy, beginning of days, or end of life (Heb. 7:3), and so figures a priesthood not derived from Levi and not ended by death — the ground of Ps. 110:4 and Heb. 5–7.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "D",
+          "title": "Righteousness by faith (15:1–21)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "15:6 — \"And he believed in the LORD; and he counted it to him for righteousness.\" The foundational Old Testament statement of righteousness by faith, cited at Rom. 4:3, Gal. 3:6, and James 2:23.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "It stands before circumcision (ch. 17), proving that the rite was a sign and seal of a righteousness already received, never its ground (Rom. 4:9–12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The covenant ceremony: the animals were divided and only God — the smoking furnace and burning lamp — passed between the pieces. The covenant is therefore unilateral and unconditional, resting on God's oath alone.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "15:13–16 is a dated prophecy: four hundred years of affliction in a strange land, deliverance \"with great substance,\" and return in the fourth generation — \"for the iniquity of the Amorites is not yet full.\" God's judgments wait upon the full measure of a nation's guilt.",
+              "highYield": true,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "E",
+          "title": "Hagar, Ishmael, and circumcision (chs. 16–17)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The taking of Hagar was a scheme of unbelief — an attempt to fulfil God's promise by human means, and the source of lasting sorrow.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Hagar named God El Roi, \"Thou God seest me\" (16:13).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Ch. 17: God reveals Himself as El Shaddai; Abram becomes Abraham, Sarai becomes Sarah; circumcision is given as the sign of the covenant.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "F",
+          "title": "Sodom (chs. 18–19)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Abraham interceded, from fifty righteous down to ten (18:22–33).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Ezek. 16:49 names Sodom's sin fully: \"pride, fulness of bread, and abundance of idleness... neither did she strengthen the hand of the poor and needy.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The destruction of Sodom is a type of the final destruction of the wicked by fire — stated expressly in 2 Pet. 2:6 (\"making them an ensample unto those that after should live ungodly\") and Jude 7 (\"set forth for an example, suffering the vengeance of eternal fire\").",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Lot's wife looked back and became a pillar of salt. Christ cited her as a warning for the last generation: \"Remember Lot's wife\" (Luke 17:28–32).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "G",
+          "title": "The test of faith: Moriah (21:1–22:19)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Isaac was born when Abraham was 100 and Sarah 90 — twenty-five years after the promise, when its fulfilment was naturally impossible.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Ch. 22 is the supreme type in Genesis of the sacrifice of Christ:",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "\"Thine only son Isaac, whom thou lovest\" — compare John 3:16."
+                },
+                {
+                  "letter": "b",
+                  "text": "The place was Moriah, the mount on which the temple was afterward built (2 Chron. 3:1) and near which Calvary stood."
+                },
+                {
+                  "letter": "c",
+                  "text": "Isaac carried the wood up the mountain, as Christ bore His cross (John 19:17), and submitted willingly though able to resist."
+                },
+                {
+                  "letter": "d",
+                  "text": "Three days of journey — the interval between the sentence of death and the restoration (Heb. 11:19)."
+                },
+                {
+                  "letter": "e",
+                  "text": "The ram caught in a thicket was accepted in Isaac's stead — substitution."
+                },
+                {
+                  "letter": "f",
+                  "text": "\"God will provide himself a lamb\" (22:8), and the place was named Jehovah-jireh."
+                }
+              ]
+            },
+            {
+              "n": 3,
+              "text": "What the type teaches above all is the Father's sacrifice. Abraham was permitted to feel in some measure what God endured in giving His Son — and for Abraham a substitute was supplied, while for God there was none.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "22:18 — \"in thy seed shall all the nations of the earth be blessed.\" Gal. 3:16 identifies the seed as Christ.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "H",
+          "title": "Closing events (chs. 23–25)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Sarah died at 127; Abraham bought the cave of Machpelah for 400 shekels — the only ground in Canaan he ever owned, held as a pledge of the promise.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Ch. 24: the servant's mission for Rebekah — a model of prayer, providence, and refusal to intermarry with the Canaanites.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Abraham died at 175, \"an old man, and full of years,\" and is called \"the Friend of God\" (James 2:23) and \"the father of all them that believe\" (Rom. 4:11).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IX",
+      "title": "ISAAC AND JACOB (25:12–36:43)",
+      "roman": "IX",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The birthright and the blessing (25:19–27:46)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The oracle (25:23): \"the elder shall serve the younger,\" given before the children were born (Rom. 9:10–13).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The birthright carried not merely a double portion but the spiritual leadership of the family and the covenant line, including the priesthood of the household and the line of the promised Seed. Esau \"despised\" it for a meal (25:34); Heb. 12:16 calls him \"a profane person.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Jacob and Rebekah resorted to deception to secure what God had already promised. The promise was his by divine appointment; the fraud was unnecessary, and the consequences — exile, twenty years of hard service, and deception practiced upon him in turn — followed immediately.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Isaac's own career (ch. 26): the promises personally renewed, wells re-dug, strife yielded rather than contested.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "Bethel: the ladder (28:10–22)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Fleeing, friendless, and conscious of his sin, Jacob saw a ladder set up on the earth, the top of it reaching to heaven, with the angels of God ascending and descending.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The ladder is Christ, the only medium of communication between God and man — \"ye shall see heaven open, and the angels of God ascending and descending upon the Son of man\" (John 1:51).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The ladder teaches that heaven is joined to earth not by human merit but by a provided way, and that angels minister to the heirs of salvation (Heb. 1:14).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Jacob named the place Bethel (\"house of God\") and vowed a tenth of all God should give him (28:22).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "Haran: Laban, the wives, and the twelve sons (29–31)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The deceiver is deceived: Laban substituted Leah for Rachel. Jacob served fourteen years for the two.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Polygamy, practiced here, was never God's plan, and the jealousy, rivalry, and bitterness in Jacob's household are the direct and recorded fruit of it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The twelve sons: by Leah — Reuben, Simeon, Levi, Judah, Issachar, Zebulun (and Dinah); by Rachel — Joseph, Benjamin; by Bilhah — Dan, Naphtali; by Zilpah — Gad, Asher.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "29:31 — \"when the LORD saw that Leah was hated\" — i.e., loved less, the Hebrew idiom that also governs Luke 14:26.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "D",
+          "title": "Peniel and the time of Jacob's trouble (32:1–32)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Facing Esau and four hundred men, and conscious that his own long-ago sin had brought him to this, Jacob sent his family over the brook and remained alone.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "He wrestled until the breaking of the day with One whom he took for an enemy and discovered to be the Angel of the covenant — Christ Himself.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "His thigh was put out of joint at a touch, proving the contest was never one of physical strength; he then prevailed by clinging and pleading, not by force (Hosea 12:3–4, \"he wept, and made supplication\").",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "His name was changed to Israel — \"a prince of God\" — \"for as a prince hast thou power with God and with men, and hast prevailed.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "This night is the type of the time of Jacob's trouble (Jer. 30:7) — the final crisis of God's people after the close of probation, when they will see their sins, find no visible deliverance, and prevail only by holding fast to the promises of God.",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "He went forward limping and reconciled with Esau, who received him with unexpected kindness (33:4) — God had gone before him.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": "\"Jacob's experience during that night of wrestling and anguish represents the trial through which the people of God must pass just before Christ's second coming.\" — PP, p. 201, ch. 18, \"The Night of Wrestling\""
+        },
+        {
+          "letter": "E",
+          "title": "Shechem, Bethel, and Esau's line (34–36)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Dinah's association with the women of the land led to her defilement and to the treacherous massacre by Simeon and Levi, condemned by Jacob then (34:30) and at his death (49:5–7).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Ch. 35: Jacob returned to Bethel, commanded his household to put away the strange gods, and the covenant was renewed. Rachel died bearing Benjamin; Isaac died at 180.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Ch. 36 disposes of Esau's line (Edom) before the narrative returns to the line of promise.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "X",
+      "title": "JOSEPH (37:1–50:26)",
+      "roman": "X",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Sold into Egypt (ch. 37)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Joseph at seventeen was marked by integrity, purity, and faith, and refused to join his brothers' evil. The coat was a token of his father's favor and the brothers' grievance.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Two dreams foretold his future elevation; they were from God, and were fulfilled exactly.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Judah proposed the sale; Joseph was sold for twenty pieces of silver and carried to Potiphar in Egypt — a boy of seventeen, alone, in a heathen land.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "Testing and elevation (chs. 39–41)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"The LORD was with Joseph\" structures the whole account — in the house, in the prison, and on the throne.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "He refused Potiphar's wife with the decisive question, \"how then can I do this great wickedness, and sin against God?\" — showing that his loyalty was to God, not merely to his master.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Imprisoned on a false charge, he neither complained nor abandoned his integrity. The prison was God's school, preparing him for the throne.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "He consistently refused credit for his gift: \"Do not interpretations belong to God?\" (40:8); \"It is not in me: God shall give Pharaoh an answer of peace\" (41:16).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Made vizier at thirty, renamed Zaphnath-paaneah; sons Manasseh and Ephraim.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "The brothers restored (chs. 42–45)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Joseph's testing of his brothers was designed not to punish but to bring them to repentance, and it succeeded: he heard them confess among themselves, \"we are verily guilty concerning our brother\" (42:21).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Judah's offer of himself as a substitute for Benjamin (44:18–34) is the evidence that the change was genuine — the very brother who had proposed the sale now offering to become a slave in another's place.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"I am Joseph your brother, whom ye sold into Egypt\" (45:4), followed immediately by comfort rather than reproach.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "D",
+          "title": "Jacob's prophecy and the close of the book (46–50)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Seventy persons went down into Egypt and settled in Goshen.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Jacob blessed Ephraim and Manasseh, crossing his hands deliberately to place the greater blessing on the younger (48:14–19).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Gen. 49 is a prophecy of the twelve tribes, their characters and their future history. Its center is 49:10 — \"The sceptre shall not depart from Judah, nor a lawgiver from between his feet, until Shiloh come; and unto him shall the gathering of the people be\" — a direct Messianic prophecy. Compare Rev. 5:5, \"the Lion of the tribe of Juda.\"",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Jacob died at 147 and was buried at Machpelah.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "50:20 — \"ye thought evil against me; but God meant it unto good.\" The clearest statement in Genesis of divine providence: the brothers' act was genuinely evil and genuinely theirs, and God overruled it for the saving of many.",
+              "highYield": true,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Joseph died at 110, charging his brethren concerning his bones (50:25) — fulfilled at Exod. 13:19 and Josh. 24:32. Genesis ends with \"a coffin in Egypt\": the promises given, believed, and not yet possessed (Heb. 11:13, 22).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XI",
+      "title": "TYPE AND ANTITYPE IN GENESIS",
+      "roman": "XI",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Principles of typology",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "A type is a divinely appointed person, object, or event in the Old Testament that prefigures a corresponding antitype in the work of Christ or in the plan of salvation.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The type must be divinely intended, not merely resembling. Scripture itself supplies the warrant: Adam is \"the figure of him that was to come\" (Rom. 5:14); the sacrifices were \"a shadow of good things to come\" (Heb. 10:1).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The antitype always exceeds the type. The type is the shadow; Christ is the substance (Col. 2:17).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The sacrificial system beginning in Eden was itself one extended type: every lamb slain pointed to \"the Lamb of God, which taketh away the sin of the world\" (John 1:29), and \"it is not possible that the blood of bulls and of goats should take away sins\" (Heb. 10:4).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The full table of Genesis types is given below. Memorize the type, the antitype, and the New Testament passage that establishes the connection.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XII",
+      "title": "PROPHECY IN GENESIS",
+      "roman": "XII",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Direct Messianic prophecy",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "3:15 — the seed of the woman. The first gospel promise; the head wound of the serpent accomplished at the cross and completed at his final destruction.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "22:18 — \"in thy seed shall all the nations of the earth be blessed.\" Identified as Christ at Gal. 3:16 — \"He saith not, And to seeds, as of many; but as of one... which is Christ.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "49:10 — Shiloh. The sceptre remains with Judah until Shiloh comes; the national identity of Judah was to persist until the Messiah appeared, and after His coming it was lost.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "B",
+          "title": "Prophecy of the second advent",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Enoch's prophecy, preserved in Jude 14–15: \"Behold, the Lord cometh with ten thousands of his saints, to execute judgment upon all.\" Spoken before the flood, it is the earliest recorded prophecy of the second coming.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The flood as prophetic pattern: \"But as the days of Noe were, so shall also the coming of the Son of man be\" (Matt. 24:37–39). The parallels are exact: a warning message given and rejected, a closing probation, a shut door, a sudden destruction, and a preserved remnant.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Sodom as prophetic pattern: \"Likewise also as it was in the days of Lot... Remember Lot's wife\" (Luke 17:28–32); set forth as \"an ensample\" in 2 Pet. 2:6 and Jude 7.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The time of Jacob's trouble (Gen. 32; Jer. 30:7) — the final struggle of God's people before deliverance.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "C",
+          "title": "Dated and historical prophecy",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "6:3 — 120 years of probation for the antediluvian world, exactly fulfilled.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "15:13–16 — the sojourn and affliction of Abraham's seed, their deliverance \"with great substance,\" and their return \"in the fourth generation,\" when \"the iniquity of the Amorites\" should be full.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "9:25–27 — Noah's prophecy concerning the future of the lines of Shem, Ham, and Japheth.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Ch. 49 — Jacob's prophecy of the twelve tribes, fulfilled in their subsequent national history.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        },
+        {
+          "letter": "D",
+          "title": "Prophetic dreams as a mode of revelation",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Num. 12:6 — \"If there be a prophet among you, I the LORD will make myself known unto him in a vision, and will speak unto him in a dream.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Genesis records God speaking in dreams to Abimelech (20:3), Jacob (28:12; 31:11), Laban (31:24), Joseph (37:5–9), the butler and baker (40), and Pharaoh (41) — including to men outside the covenant line.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Joseph's and Daniel's careers are parallel: both Hebrew youths carried captive, both preserved their integrity in a heathen court, both interpreted a king's dream that none could interpret, both expressly disclaimed personal ability (\"Do not interpretations belong to God?\" / \"there is a God in heaven that revealeth secrets\"), and both were exalted to be second in the kingdom.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "sop": null
+        }
+      ],
+      "points": []
+    }
+  ],
+  "types": [
+    {
+      "type": "Adam, head of the race",
+      "antitype": "Christ, the second Adam and head of the redeemed",
+      "scripture": "Rom. 5:14; 1 Cor. 15:22, 45"
+    },
+    {
+      "type": "The coats of skins (3:21)",
+      "antitype": "The robe of Christ's righteousness covering the sinner",
+      "scripture": "Isa. 61:10; Rev. 3:18"
+    },
+    {
+      "type": "Abel's lamb (4:4)",
+      "antitype": "Christ, the Lamb of God slain for sin",
+      "scripture": "John 1:29; Heb. 11:4"
+    },
+    {
+      "type": "Enoch translated (5:24)",
+      "antitype": "The living righteous translated at the second advent",
+      "scripture": "Heb. 11:5; 1 Thess. 4:16–17"
+    },
+    {
+      "type": "The ark and its one door (6–8)",
+      "antitype": "Christ, the one refuge and the one way of salvation",
+      "scripture": "John 10:9; 14:6; 1 Pet. 3:20–21"
+    },
+    {
+      "type": "The flood (7)",
+      "antitype": "The final destruction of the wicked; probation closed",
+      "scripture": "Matt. 24:37–39; 2 Pet. 3:5–7"
+    },
+    {
+      "type": "Noah's preaching (2 Pet. 2:5)",
+      "antitype": "The last warning message to the world",
+      "scripture": "Rev. 14:6–12"
+    },
+    {
+      "type": "Melchizedek (14:18–20)",
+      "antitype": "Christ's eternal priesthood, not after the order of Levi",
+      "scripture": "Ps. 110:4; Heb. 5–7"
+    },
+    {
+      "type": "Destruction of Sodom (19)",
+      "antitype": "The destruction of the wicked by fire at the end",
+      "scripture": "2 Pet. 2:6; Jude 7; Luke 17:28–32"
+    },
+    {
+      "type": "Isaac offered on Moriah (22)",
+      "antitype": "The Father giving His only Son",
+      "scripture": "John 3:16; Rom. 8:32; Heb. 11:17–19"
+    },
+    {
+      "type": "The ram in the thicket (22:13)",
+      "antitype": "Christ the substitute, dying in the sinner's place",
+      "scripture": "Isa. 53:5–6; 2 Cor. 5:21"
+    },
+    {
+      "type": "Jacob's ladder (28:12)",
+      "antitype": "Christ, the only link between heaven and earth",
+      "scripture": "John 1:51"
+    },
+    {
+      "type": "Jacob's night of wrestling (32)",
+      "antitype": "The time of Jacob's trouble before deliverance",
+      "scripture": "Jer. 30:7; PP 201"
+    },
+    {
+      "type": "Joseph: beloved, rejected, sold, exalted",
+      "antitype": "Christ, rejected by His own, sold, raised to save many",
+      "scripture": "Acts 7:9–13; Gen. 50:20"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "prompt": "The creation week described in Genesis 1 is to be understood as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "seven indefinite ages corresponding to geological periods."
+        },
+        {
+          "id": "B",
+          "text": "a literary framework with no chronological intent."
+        },
+        {
+          "id": "C",
+          "text": "seven literal twenty-four-hour days, measured off by God as the pattern for every week to the close of time."
+        },
+        {
+          "id": "D",
+          "text": "a vision given to Moses rather than a historical account."
+        },
+        {
+          "id": "E",
+          "text": "a poetic adaptation of Mesopotamian creation accounts."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The days of creation were literal twenty-four-hour days, marked by \"the evening and the morning.\" Exodus 20:11 grounds the fourth commandment in a literal week, which would be meaningless if the days were ages. Patriarchs and Prophets states it plainly: \"Like every other, it consisted of seven literal days... God Himself measured off the first week as a sample for successive weeks to the close of time\" (p. 111). The same chapter identifies the long-age theory — that \"the days of creation were vast, indefinite periods\" — as infidelity that destroys confidence in the Mosaic record (p. 112). Note also that the week, unlike the day, month, and year, has no basis in astronomy; its universal observance is itself a witness to the creation record."
+    },
+    {
+      "id": 2,
+      "prompt": "Three things are said of God and the seventh day in Genesis 2:1–3. They are that He",
+      "choices": [
+        {
+          "id": "A",
+          "text": "created it, named it, and commanded it."
+        },
+        {
+          "id": "B",
+          "text": "rested on it, blessed it, and sanctified it."
+        },
+        {
+          "id": "C",
+          "text": "hallowed it, numbered it, and gave it to Israel."
+        },
+        {
+          "id": "D",
+          "text": "blessed it, circumcised it, and sealed it."
+        },
+        {
+          "id": "E",
+          "text": "rested on it, veiled it, and reserved it for the Jews."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Genesis 2:2–3: God rested, blessed the seventh day, and sanctified it — set it apart for holy use. All three acts occurred at creation, before sin and before any nation existed. The blessing was placed upon that day and no other, which is why no human authority can transfer it."
+    },
+    {
+      "id": 3,
+      "prompt": "The most significant point about the institution of the Sabbath in Genesis 2 is that it was given",
+      "choices": [
+        {
+          "id": "A",
+          "text": "to Israel at Sinai and renewed in Eden."
+        },
+        {
+          "id": "B",
+          "text": "before sin entered and before any nation existed, making it an ordinance for the whole human race."
+        },
+        {
+          "id": "C",
+          "text": "only as a type, to cease at the cross."
+        },
+        {
+          "id": "D",
+          "text": "to Adam privately, with no obligation upon his descendants."
+        },
+        {
+          "id": "E",
+          "text": "as a seventh part of time rather than a specific day."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Sabbath is a creation ordinance, not a Mosaic or national one. It was given in Eden, before the fall, before Abraham, and before Israel existed — which is why Christ said it \"was made for man\" (Mark 2:27), for the race, not for one people. Choice A reverses the order of history. Choice C is refuted by Hebrews 4:9. Choice E fails because the blessing rests on the seventh day specifically, not on a seventh part of time. Along with marriage, the Sabbath is one of the two institutions given in Eden, both carried forward unchanged."
+    },
+    {
+      "id": 4,
+      "prompt": "Genesis 2:7 states that man \"became a living soul.\" The doctrinal consequence is that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "man possesses an immortal soul that survives the death of the body."
+        },
+        {
+          "id": "B",
+          "text": "the soul is a separable entity temporarily housed in the body."
+        },
+        {
+          "id": "C",
+          "text": "man is a soul rather than has a soul; dust plus the breath of life constitutes the living being, and immortality belongs to God alone."
+        },
+        {
+          "id": "D",
+          "text": "the breath of life is identical with the Holy Spirit."
+        },
+        {
+          "id": "E",
+          "text": "the soul was added at the fall."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The formula is explicit: dust + the breath of life = a living soul. Man does not receive a soul as a separate component; he becomes one. At death the process reverses — \"dust thou art, and unto dust shalt thou return\" (3:19) — and \"his thoughts perish\" (Ps. 146:4). Immortality belongs to God alone (1 Tim. 6:16) and is conferred on the righteous at the resurrection (1 Cor. 15:51–54). Adam's continued life was conditional upon access to the tree of life, which is precisely why he was excluded from it after the fall (3:22)."
+    },
+    {
+      "id": 5,
+      "prompt": "Satan's statement to Eve in Genesis 3:4, \"Ye shall not surely die,\" is doctrinally significant because it is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the first recorded prophecy in Scripture."
+        },
+        {
+          "id": "B",
+          "text": "a conditional promise later fulfilled."
+        },
+        {
+          "id": "C",
+          "text": "the first lie, and the foundation of the doctrine of the natural immortality of the soul."
+        },
+        {
+          "id": "D",
+          "text": "a mistranslation of the Hebrew."
+        },
+        {
+          "id": "E",
+          "text": "addressed to Adam rather than to Eve."
+        }
+      ],
+      "answer": "C",
+      "explanation": "\"Ye shall not surely die\" is the first lie recorded in Scripture, and it directly contradicts God's \"thou shalt surely die\" (2:17). It is the seed of the doctrine of the natural immortality of the soul, upon which spiritualism in all its forms ultimately rests. The question before Eve was simply which of two statements she would believe — and the same question confronts every generation since."
+    },
+    {
+      "id": 6,
+      "prompt": "The coats of skins with which God clothed Adam and Eve (Genesis 3:21) are significant chiefly because they",
+      "choices": [
+        {
+          "id": "A",
+          "text": "provided better protection than fig leaves against the changed climate."
+        },
+        {
+          "id": "B",
+          "text": "required the death of an innocent victim, introducing substitutionary sacrifice and typifying the robe of Christ's righteousness."
+        },
+        {
+          "id": "C",
+          "text": "were made from the serpent that had deceived them."
+        },
+        {
+          "id": "D",
+          "text": "marked them as outcasts from the garden."
+        },
+        {
+          "id": "E",
+          "text": "were a reward for their confession."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The fig leaves were man's own covering — the first attempt at salvation by works — and God rejected them. In their place He supplied a covering that cost the life of an innocent victim, the first death in the history of the world. This is the beginning of the sacrificial system, and it typifies the robe of Christ's righteousness (Isa. 61:10; Rev. 3:18), which the sinner receives rather than produces."
+    },
+    {
+      "id": 7,
+      "prompt": "The difference between the offerings of Cain and Abel lay in the fact that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Abel brought a larger quantity than Cain."
+        },
+        {
+          "id": "B",
+          "text": "Cain was insincere, whereas Abel was sincere."
+        },
+        {
+          "id": "C",
+          "text": "Abel brought a lamb in faith and obedience to the appointed way, while Cain brought a bloodless offering of his own labor, representing salvation by works."
+        },
+        {
+          "id": "D",
+          "text": "Cain offered at the wrong time of year."
+        },
+        {
+          "id": "E",
+          "text": "Abel was the firstborn and therefore had the right to sacrifice."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Abel brought a lamb, in faith and in obedience to the way God had appointed, acknowledging himself a sinner needing a substitute. Cain brought the fruit of the ground — his own labor, with no blood and no confession of sin. Hebrews 11:4 locates the difference in faith, not sincerity: Cain was perfectly sincere, which is why choice B fails. The two offerings represent the two systems of religion that have divided the world ever since — righteousness by a provided substitute, and righteousness by human merit."
+    },
+    {
+      "id": 8,
+      "prompt": "Enoch is presented in Scripture as a type of",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the resurrected saints at the first resurrection."
+        },
+        {
+          "id": "B",
+          "text": "the living righteous who will be translated without seeing death at Christ's second coming."
+        },
+        {
+          "id": "C",
+          "text": "the 144,000 sealed from the tribes of Israel."
+        },
+        {
+          "id": "D",
+          "text": "the martyrs under the fifth seal."
+        },
+        {
+          "id": "E",
+          "text": "the two witnesses of Revelation 11."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Enoch \"walked with God... and he was not; for God took him\" (5:24), translated without seeing death (Heb. 11:5). He is the type of the living righteous translated at the second advent (1 Thess. 4:16–17; 1 Cor. 15:51–52). Patriarchs and Prophets draws the parallel directly: as Enoch was taken before the destruction of the world by water, so the living saints will be taken before its destruction by fire. Enoch was also the earliest prophet of the second coming (Jude 14–15)."
+    },
+    {
+      "id": 9,
+      "prompt": "The \"sons of God\" who married the \"daughters of men\" in Genesis 6:2 are properly identified as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "fallen angels who took human wives."
+        },
+        {
+          "id": "B",
+          "text": "the descendants of Seth, who had professed loyalty to God, intermarrying with the line of Cain."
+        },
+        {
+          "id": "C",
+          "text": "the Nephilim, a race of giants."
+        },
+        {
+          "id": "D",
+          "text": "kings and princes practicing polygamy."
+        },
+        {
+          "id": "E",
+          "text": "angels who had not sinned but were tempted by human beauty."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Sethite interpretation is the correct one. The \"sons of God\" were the descendants of Seth, who had professed loyalty to God; the \"daughters of men\" were of the line of Cain. What Genesis 6 describes is a religious apostasy — the breaking down of the separation between the two lines — which produced the universal corruption of 6:5. The angelic view (choice A) must be rejected: angels do not marry (Matt. 22:30), and nothing in the text suggests a change in the nature of the beings involved. The Nephilim (choice C) are the result described, not the parties to the marriages."
+    },
+    {
+      "id": 10,
+      "prompt": "Noah was instructed to take clean animals into the ark by sevens and unclean by twos (Genesis 7:2–3). This detail establishes that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the distinction between clean and unclean was a Jewish ceremonial invention given at Sinai."
+        },
+        {
+          "id": "B",
+          "text": "the distinction between clean and unclean was known and observed long before Sinai."
+        },
+        {
+          "id": "C",
+          "text": "clean animals were more numerous in the antediluvian world."
+        },
+        {
+          "id": "D",
+          "text": "only clean animals survived the flood."
+        },
+        {
+          "id": "E",
+          "text": "the distinction applied to birds only."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The instruction presupposes that Noah already knew which animals were clean and which were not; no definition is given because none was needed. The distinction is therefore far older than Sinai and is not a Jewish ceremonial invention. The practical reason for the sevens appears at 8:20, where Noah offers of every clean beast on the altar after leaving the ark — a sacrifice that would have extinguished a species had only two been preserved."
+    },
+    {
+      "id": 11,
+      "prompt": "Abraham paid tithe to Melchizedek (Genesis 14:20), and Jacob vowed a tenth at Bethel (Genesis 28:22). These two passages establish that tithing",
+      "choices": [
+        {
+          "id": "A",
+          "text": "originated with the Levitical priesthood and ended with it."
+        },
+        {
+          "id": "B",
+          "text": "was a voluntary Canaanite custom adopted by the patriarchs."
+        },
+        {
+          "id": "C",
+          "text": "was recognized and practiced centuries before the Levitical system and is therefore not a Mosaic ceremonial requirement."
+        },
+        {
+          "id": "D",
+          "text": "applied only to spoils of war."
+        },
+        {
+          "id": "E",
+          "text": "was commanded first at Sinai and read back into Genesis by a later editor."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Abraham \"gave him tithes of all\" (14:20) centuries before Levi was born, and Jacob vowed \"the tenth unto thee\" at Bethel (28:22) under no compulsion of law. Hebrews 7:1–10 builds an entire argument on the fact that Abraham tithed to Melchizedek, and that Levi, still \"in the loins of his father,\" paid tithes through him. Tithing is therefore a principle recognized from the beginning, confirmed rather than instituted at Sinai, and not among the ceremonial requirements that ended at the cross."
+    },
+    {
+      "id": 12,
+      "prompt": "Genesis 15:6 (\"he believed in the LORD; and he counted it to him for righteousness\") is foundational to the doctrine of righteousness by faith. The decisive supporting observation is that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Abraham had already been circumcised when it was spoken."
+        },
+        {
+          "id": "B",
+          "text": "it was spoken after the offering of Isaac in chapter 22."
+        },
+        {
+          "id": "C",
+          "text": "it precedes the institution of circumcision in chapter 17, proving circumcision to be a sign and seal of a righteousness already received, not its ground."
+        },
+        {
+          "id": "D",
+          "text": "Abraham had just paid tithe to Melchizedek."
+        },
+        {
+          "id": "E",
+          "text": "it is quoted only in the Old Testament."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The order is the whole argument. Righteousness was reckoned to Abraham in chapter 15; circumcision was not instituted until chapter 17 — some fourteen years later. Paul presses exactly this point in Romans 4:9–12: Abraham \"received the sign of circumcision, a seal of the righteousness of the faith which he had yet being uncircumcised.\" The rite confirmed a standing already possessed by faith; it never created it. Choice B confuses this with James 2:21–23, where chapter 22 is cited as the demonstration of the faith declared in chapter 15."
+    },
+    {
+      "id": 13,
+      "prompt": "In the covenant ceremony of Genesis 15, only God passed between the divided animals. This signifies that the covenant was",
+      "choices": [
+        {
+          "id": "A",
+          "text": "provisional, pending Abraham's obedience."
+        },
+        {
+          "id": "B",
+          "text": "mutual, with obligations binding both parties equally."
+        },
+        {
+          "id": "C",
+          "text": "unilateral and unconditional, resting upon God's oath alone."
+        },
+        {
+          "id": "D",
+          "text": "temporary, to be replaced at Sinai."
+        },
+        {
+          "id": "E",
+          "text": "a legal formality without theological weight."
+        }
+      ],
+      "answer": "C",
+      "explanation": "In the ancient covenant ritual the parties walked between the divided halves, invoking a self-maledictory oath. In Genesis 15 Abraham is cast into a deep sleep, and only God — represented by the smoking furnace and burning lamp — passes through. God alone assumed the oath; the covenant therefore rests on His faithfulness and cannot be annulled by human failure (Gal. 3:17). This is the structural foundation of assurance in the covenant of grace."
+    },
+    {
+      "id": 14,
+      "prompt": "The offering of Isaac on Moriah (Genesis 22) is a type whose central lesson is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Abraham's endurance under trial as a model of human merit."
+        },
+        {
+          "id": "B",
+          "text": "the Father's sacrifice in giving His only Son — with the difference that a substitute was provided for Isaac, while for Christ there was none."
+        },
+        {
+          "id": "C",
+          "text": "the necessity of human sacrifice in early worship."
+        },
+        {
+          "id": "D",
+          "text": "Isaac's ignorance of what was intended."
+        },
+        {
+          "id": "E",
+          "text": "the superiority of Moriah over other places of worship."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The type is not primarily about Abraham. Abraham was permitted to feel, in some measure, what God Himself endured in giving His Son — and the difference is the point: for Isaac a substitute was supplied at the last moment; for Christ there was none (Rom. 8:32, \"spared not his own Son\"). The other typical features are many — the only son whom the father loved, the three days, the wood carried up the mountain, Moriah, the willing submission of the son, and \"God will provide himself a lamb\" — but they all converge on the Father's sacrifice."
+    },
+    {
+      "id": 15,
+      "prompt": "Jacob's night of wrestling at Peniel (Genesis 32) is expressly presented in the Spirit of Prophecy as representing",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the conversion experience of every believer at baptism."
+        },
+        {
+          "id": "B",
+          "text": "the trial through which the people of God must pass just before Christ's second coming."
+        },
+        {
+          "id": "C",
+          "text": "the struggle of Israel against the surrounding nations."
+        },
+        {
+          "id": "D",
+          "text": "the investigative judgment in the heavenly sanctuary."
+        },
+        {
+          "id": "E",
+          "text": "the conflict between the law and the gospel."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Patriarchs and Prophets, p. 201, states it directly: \"Jacob's experience during that night of wrestling and anguish represents the trial through which the people of God must pass just before Christ's second coming.\" This is the time of Jacob's trouble of Jeremiah 30:7 — the final crisis after the close of probation, when God's people will see their own sinfulness, find no visible deliverance, and prevail as Jacob did: not by strength, for his thigh was disabled at a touch, but by clinging and pleading the promises (Hosea 12:3–4, \"he wept, and made supplication\")."
+    },
+    {
+      "id": 16,
+      "prompt": "Genesis 49:10 (\"The sceptre shall not depart from Judah... until Shiloh come\") is understood as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a prophecy of the division of the kingdom under Rehoboam."
+        },
+        {
+          "id": "B",
+          "text": "a direct Messianic prophecy, Shiloh being Christ, of whom Revelation 5:5 speaks as the Lion of the tribe of Judah."
+        },
+        {
+          "id": "C",
+          "text": "a blessing on Judah's military prowess only."
+        },
+        {
+          "id": "D",
+          "text": "a reference to the sanctuary at Shiloh in Joshua's day."
+        },
+        {
+          "id": "E",
+          "text": "a later addition reflecting the Davidic monarchy."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Genesis 49:10 is a direct Messianic prophecy. The tribal identity and governing authority of Judah were to continue until Shiloh — the Messiah — appeared, \"and unto him shall the gathering of the people be.\" Revelation 5:5 names Christ \"the Lion of the tribe of Juda,\" and Hebrews 7:14 observes that \"our Lord sprang out of Juda.\" The prophecy was given on Jacob's deathbed, centuries before the monarchy existed, which is the force of its fulfilment."
+    },
+    {
+      "id": 17,
+      "prompt": "Genesis closes with Joseph embalmed and \"in a coffin in Egypt.\" The theological point of this ending is that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the promises had been fully realized by the close of the book."
+        },
+        {
+          "id": "B",
+          "text": "Joseph had abandoned hope in the covenant."
+        },
+        {
+          "id": "C",
+          "text": "the promises of land and nationhood remained unfulfilled, and the patriarchs died in faith, leaving the narrative open toward the Exodus."
+        },
+        {
+          "id": "D",
+          "text": "Egyptian burial customs were permanently adopted by Israel."
+        },
+        {
+          "id": "E",
+          "text": "Joseph preferred burial in Egypt to burial in Canaan."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Genesis ends deliberately unresolved. Joseph dies in Egypt and is laid \"in a coffin\" — but only after charging his brethren, \"God will surely visit you, and ye shall carry up my bones from hence\" (50:25). The land is promised but unpossessed; the nation numbers seventy. Hebrews 11:13 describes the patriarchs as having \"died in faith, not having received the promises, but having seen them afar off,\" and 11:22 singles out this very charge as Joseph's act of faith. The bones were carried out at the Exodus (Exod. 13:19) and buried at Shechem (Josh. 24:32)."
+    }
+  ]
+}
