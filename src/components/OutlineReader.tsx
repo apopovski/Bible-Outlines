@@ -35,12 +35,12 @@ export function OutlineReader({
             <summary>
               <span className="section-roman">{section.roman}</span>
               <h3>{section.title}</h3>
-              <span className="section-expand" aria-hidden="true">
-                <svg viewBox="0 0 24 24" width="18" height="18" fill="none">
+              <span className="section-expand" aria-hidden="true" title="Open">
+                <svg viewBox="0 0 24 24" fill="none" aria-hidden="true">
                   <path
-                    d="M6 9l6 6 6-6"
+                    d="M7 10l5 5 5-5"
                     stroke="currentColor"
-                    strokeWidth="2"
+                    strokeWidth="2.25"
                     strokeLinecap="round"
                     strokeLinejoin="round"
                   />
