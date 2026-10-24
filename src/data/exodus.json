@@ -1,0 +1,2751 @@
+{
+  "meta": {
+    "id": "exodus",
+    "name": "Exodus",
+    "hebrew": "Shemot",
+    "subtitle": "Departure",
+    "testament": "Old Testament",
+    "order": 2,
+    "chapters": "1–40",
+    "tagline": "An interactive outline of Exodus in the Seventh-day Adventist doctrine, following Ellen G. White, Patriarchs and Prophets.",
+    "divisions": [
+      {
+        "title": "Egypt and the Exodus",
+        "range": "chs. 1–13",
+        "focus": "Bondage, plagues, Passover"
+      },
+      {
+        "title": "Wilderness to Sinai",
+        "range": "chs. 14–18",
+        "focus": "Sea, manna, water, Jethro"
+      },
+      {
+        "title": "Covenant and sanctuary",
+        "range": "chs. 19–40",
+        "focus": "Law, tabernacle, glory"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "I",
+      "roman": "I",
+      "title": "INTRODUCTION, AUTHORSHIP, AND STRUCTURE",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Name and position",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Exodus is from the Greek exodos meaning \"going out,\" \"departure.\" The Hebrew title is Shemot (\"names\"), taken from the opening phrase, \"These are the names of the children of Israel.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The second book of the Pentateuch, continuing directly from Genesis. Genesis ends with \"a coffin in Egypt\"; Exodus opens with a nation in bondage and the promises of Genesis beginning to be fulfilled.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Exodus is the great Old Testament book of redemption: the historical type of the salvation accomplished in Christ.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Authorship",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Moses wrote Exodus under the inspiration of the Holy Spirit, as a participant in and eyewitness of the events (chs. 2–40).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Christ Himself quoted Exodus as the writing of Moses (Mark 12:26; cf. Luke 24:27, 44), closing the question for the believer.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The Bible was given for practical purposes… Moses wrote by inspiration of God.\" — Patriarchs and Prophets, ch. 22, \"Moses\""
+        },
+        {
+          "letter": "C",
+          "title": "Structure",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Exodus falls naturally into three movements:",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "Egypt and the Exodus — chs. 1–13"
+                },
+                {
+                  "letter": "b",
+                  "text": "From Egypt to Sinai — chs. 14–18"
+                },
+                {
+                  "letter": "c",
+                  "text": "At Sinai: the covenant and the sanctuary — chs. 19–40"
+                }
+              ]
+            },
+            {
+              "n": 2,
+              "text": "The whole book is governed by one movement: God brings His people out, that He may bring them in (6:6–8), and that He may dwell among them (25:8; 29:45–46; 40:34–38).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Chronology. The 430 years of Egyptian sojourn (12:40–41) terminate at the Exodus. The Exodus is dated by 1 Kings 6:1 to 480 years before Solomon's fourth year, placing it in the fifteenth century B.C.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "Theme and purpose",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Redemption, revelation, and residence. Redemption from Egypt (chs. 1–15); revelation of God's law and character (chs. 19–24); residence of God among His people in the sanctuary (chs. 25–40).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Exodus is cited more often in the New Testament than any other Old Testament book except Psalms and Isaiah. It supplies the imagery of Passover, deliverance, baptism, manna, the rock, the law, the tabernacle, the priesthood, and the glory.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "II",
+      "roman": "II",
+      "title": "BONDAGE AND THE PRESERVATION OF THE DELIVERER (1:1–2:25)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The multiplication and the oppression (ch. 1)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The seventy who went down (Gen. 46:27; Exod. 1:5) grew into a nation — the exact fulfilment of Gen. 46:3, \"I will there make of thee a great nation.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"There arose up a new king over Egypt, which knew not Joseph\" (1:8). Forgetfulness of God's past dealings is the seedbed of oppression.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Pharaoh's policy advanced in three stages: forced labor, infanticide by the midwives, and the drowning of every Hebrew son.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The Hebrew midwives, Shiphrah and Puah, \"feared God, and did not as the king of Egypt commanded them\" (1:17). Obedience to God outranks the command of the civil power — a principle to be reaffirmed again and again (Dan. 3; 6; Acts 5:29; Rev. 13).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Moses: the first forty years (2:1–15)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Amram and Jochebed (6:20) — both of the tribe of Levi — had three children, Miriam, Aaron, and Moses.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The ark of bulrushes placed in the Nile is a quiet type: the appointed deliverer passes safely through the very waters commanded for his death. The daughter of Pharaoh drew him out and his own mother was paid to nurse him.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Moses received the finest Egyptian education — \"learned in all the wisdom of the Egyptians, and was mighty in words and in deeds\" (Acts 7:22) — yet by his mother's teaching he was already decided for the God of his fathers before he entered Pharaoh's court.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Heb. 11:24–27 records the decisive act of his faith: \"By faith Moses, when he was come to years, refused to be called the son of Pharaoh's daughter; choosing rather to suffer affliction with the people of God, than to enjoy the pleasures of sin for a season; esteeming the reproach of Christ greater riches than the treasures in Egypt.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "At forty he struck down the Egyptian — a right end attempted by the wrong means. Self-reliant deliverance failed, and Moses fled.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "Midian: the second forty years (2:15–25)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "He married Zipporah, daughter of Jethro (also called Reuel), the priest of Midian; sons Gershom and Eliezer.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Forty years as a shepherd replaced the self-confidence of Egypt with meekness (Num. 12:3). The desert was God's school; the care of sheep was the preparation for the care of Israel.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Meanwhile \"God heard their groaning, and God remembered his covenant with Abraham, with Isaac, and with Jacob\" (2:24). The covenant to Abraham (Gen. 15:13–16) governs the timing of all that follows.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The years spent amid the solitudes of the mountains and the quiet of pastoral life were a loss to Moses only in appearance. In reality they were his best preparation.\" — Patriarchs and Prophets, pp. 247–248"
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "III",
+      "roman": "III",
+      "title": "THE CALL OF MOSES AND THE DIVINE NAME (3:1–4:31)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The burning bush (3:1–10)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"The angel of the LORD appeared unto him in a flame of fire out of the midst of a bush\" (3:2). v. 4 says plainly \"God called unto him out of the midst of the bush.\" The Angel is therefore the pre-incarnate Christ — the same identification carried forward at Peniel (Gen. 32), Joshua 5, and Judges 13.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The bush burned and was not consumed — a figure of Israel in the furnace of affliction, and of the church throughout history: in the flame but not devoured.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"Put off thy shoes from off thy feet, for the place whereon thou standest is holy ground\" (3:5). Holiness attaches to the presence of God, not to the ground itself.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The divine name: \"I AM THAT I AM\" (3:13–15)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I AM THAT I AM: thus shalt thou say unto the children of Israel, I AM hath sent me unto you\" (3:14). The verbal form of the name is \"to be\" — self-existence, unchangeableness, and active presence.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The four-letter personal name (YHWH), rendered LORD in capitals in the English Bible, is given here (3:15) as the covenant name by which God will henceforth be known to Israel — \"this is my name for ever, and this is my memorial unto all generations.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Christ took this name to Himself: \"Before Abraham was, I AM\" (John 8:58). The Jews understood Him exactly; they took up stones to stone Him for blasphemy. The seven great \"I AM\" sayings of John (bread, light, door, shepherd, resurrection, way, true vine) rest upon Exodus 3.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"I AM means an eternal presence; the past, present, and future are alike to God.\" — The Desire of Ages, p. 24"
+        },
+        {
+          "letter": "C",
+          "title": "Objections, signs, and Aaron (3:11–4:17)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Moses raised five objections — \"who am I?\" (3:11), \"what is thy name?\" (3:13), \"they will not believe me\" (4:1), \"I am not eloquent\" (4:10), \"send… by the hand of him whom thou wilt send\" (4:13).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Three signs were given: the rod turned to a serpent, the hand made leprous and healed, water turned to blood — a confrontation at the symbolic level with the gods and powers of Egypt.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Aaron, three years older than Moses, was appointed spokesman. The arrangement was a concession to Moses's unbelief, not God's original plan, and brought later difficulty (the golden calf).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "The journey and the inn (4:18–31)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The circumcision incident (4:24–26): Moses had failed to circumcise his son — a breach of the Abrahamic covenant (Gen. 17) that would have disqualified him as representative of the covenant people. God requires His messenger's own obedience before He will accept his message.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The elders of Israel believed and worshipped when Aaron spoke and the signs were shown (4:31). Faith at first; the testing lay just ahead.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IV",
+      "roman": "IV",
+      "title": "THE CONTEST WITH PHARAOH AND THE TEN PLAGUES (5:1–12:36)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The demand and the hardening (5–6)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The demand was in God's own words: \"Let my people go, that they may hold a feast unto me in the wilderness\" (5:1). Pharaoh's reply, \"Who is the LORD, that I should obey his voice? I know not the LORD\" (5:2), set the central question of the whole book.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Pharaoh answered the demand by increasing the burden — straw was withdrawn while the quota of bricks remained. The people, overwhelmed, turned on Moses and Aaron.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "6:6–8 is the great passage of promised deliverance: \"I will bring you out… rid you out of their bondage… redeem you… take you to me for a people… bring you in unto the land.\" These seven \"I will\" statements are the covenant program of Exodus.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The hardening of Pharaoh's heart",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Scripture speaks of Pharaoh's heart being hardened twenty times in Exodus 4–14. In ten of them Pharaoh (or his heart) is the subject; in ten, God is. The two are not in tension.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The order is decisive. In the first five plagues Pharaoh hardens his own heart. Only from the sixth plague onward does the text say that God hardened it (9:12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "God hardens by withdrawing restraint and leaving the sinner to what he has chosen. The sun that softens wax hardens clay by the same action; the hardening lies in the material, not in the sun. Rom. 1:24, 26, 28 — \"God gave them up\" — expresses the same principle in the New Testament.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"God does not force the will of any; and so if, by persistent resistance, men make up their mind to reject Him, God lets them have their way and leaves them to their own hearts.\" — see Patriarchs and Prophets, p. 268"
+        },
+        {
+          "letter": "C",
+          "title": "The ten plagues as judgments on the gods of Egypt (chs. 7–11)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Exod. 12:12 states the purpose explicitly: \"against all the gods of Egypt I will execute judgment.\" Each plague struck at a specific object of Egyptian worship.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The plagues fall in three cycles of three, with the tenth as climax. In cycles two and three, Israel in Goshen is expressly spared (8:22; 9:4, 26; 10:23; 11:7) — the first great distinction between the people of God and the world.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Table of the ten plagues:",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "Nile to blood (7:14–25) — against Hapi, god of the Nile."
+                },
+                {
+                  "letter": "b",
+                  "text": "Frogs (8:1–15) — against Heqet, frog-headed goddess of fertility."
+                },
+                {
+                  "letter": "c",
+                  "text": "Lice/gnats (8:16–19) — the magicians confess, \"This is the finger of God.\""
+                },
+                {
+                  "letter": "d",
+                  "text": "Flies (8:20–32) — Goshen first excepted."
+                },
+                {
+                  "letter": "e",
+                  "text": "Murrain on cattle (9:1–7) — against Hathor and the sacred bull-cults."
+                },
+                {
+                  "letter": "f",
+                  "text": "Boils (9:8–12) — the magicians cannot even stand before Moses."
+                },
+                {
+                  "letter": "g",
+                  "text": "Hail with fire (9:13–35) — against the sky and storm gods."
+                },
+                {
+                  "letter": "h",
+                  "text": "Locusts (10:1–20) — \"that ye may know how I have wrought my signs\" (10:2)."
+                },
+                {
+                  "letter": "i",
+                  "text": "Darkness (10:21–29) — against Ra, the sun-god and chief deity; \"all the children of Israel had light in their dwellings\" (10:23)."
+                },
+                {
+                  "letter": "j",
+                  "text": "Death of the firstborn (11; 12:29–30) — against Pharaoh himself, held to be the son of Ra."
+                }
+              ]
+            },
+            {
+              "n": 4,
+              "text": "The plagues are the Old Testament type of the seven last plagues of Rev. 15–16, which likewise fall on those who have rejected the message of the three angels and are poured out immediately before deliverance.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "V",
+      "roman": "V",
+      "title": "THE PASSOVER AND THE DEPARTURE (12:1–13:22)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The Passover lamb (12:1–14)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"This month shall be unto you the beginning of months\" (12:2). The entire sacred calendar is reset at the Exodus — redemption is a new creation.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The lamb required: without blemish, a male of the first year, taken on the tenth, kept up until the fourteenth, killed in the evening, its blood struck on the doorposts and lintel, its flesh roasted with fire and eaten with unleavened bread and bitter herbs, not a bone broken (12:46).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"When I see the blood, I will pass over you\" (12:13). Deliverance was not by the sincerity, the character, or the lineage of the household but by the applied blood of the lamb.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Every detail is Christological:",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "Without blemish — \"a lamb without blemish and without spot\" (1 Pet. 1:19)."
+                },
+                {
+                  "letter": "b",
+                  "text": "Chosen on the tenth, slain on the fourteenth — Christ entered Jerusalem on the tenth of Nisan and was crucified on the fourteenth."
+                },
+                {
+                  "letter": "c",
+                  "text": "Not a bone broken — fulfilled at the cross (John 19:33, 36)."
+                },
+                {
+                  "letter": "d",
+                  "text": "The blood on the door — \"Christ our passover is sacrificed for us\" (1 Cor. 5:7). It must be applied to the individual household."
+                },
+                {
+                  "letter": "e",
+                  "text": "Eaten with bitter herbs — faith remembers the bondage out of which it was redeemed."
+                },
+                {
+                  "letter": "f",
+                  "text": "Unleavened bread — \"the unleavened bread of sincerity and truth\" (1 Cor. 5:8); leaven is the standing symbol of sin."
+                }
+              ]
+            }
+          ],
+          "commentary": "\"The paschal lamb was Christ. He is our Passover. He died for us.\" — Patriarchs and Prophets, p. 277"
+        },
+        {
+          "letter": "B",
+          "title": "The night of the Exodus (12:29–42)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "At midnight the firstborn of Egypt died, \"from the firstborn of Pharaoh that sat on his throne unto the firstborn of the captive that was in the dungeon\" (12:29).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Pharaoh summoned Moses and commanded them to depart. The Egyptians urged them out, gave them silver, gold, and raiment (12:35–36) — the exact fulfilment of Gen. 15:14, \"afterward shall they come out with great substance.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "\"About six hundred thousand on foot that were men, beside children\" (12:37), plus a mixed multitude — a nation born in a single night.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The feast of unleavened bread and the firstborn (12:15–20; 13:1–16)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The Feast of Unleavened Bread (fifteenth to twenty-first) was joined to the Passover. Leaven had to be put away out of every house — the standing figure for sin removed from the heart delivered by the blood.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The firstborn of Israel were sanctified unto God (13:2). The Levites were later taken in their stead (Num. 3:12–13). Christ, as the firstborn, is the antitype — \"the firstborn of every creature\" (Col. 1:15), \"the firstborn among many brethren\" (Rom. 8:29).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The bones of Joseph were carried out (13:19), fulfilling his oath of Gen. 50:25. The promise outlived its generation.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "The pillar of cloud and fire (13:21–22)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "A single pillar — cloud by day, fire by night — went before them and never departed from them until Canaan.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The pillar is the visible token of the presence of Christ with His people (1 Cor. 10:4; PP 282).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VI",
+      "roman": "VI",
+      "title": "THE RED SEA (14:1–15:21)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The pursuit and the deliverance (ch. 14)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "God Himself led them to a position of apparent impossibility — the sea before, the mountains to the sides, Pharaoh's army behind. He did it so that His name should be magnified in Pharaoh (14:4, 17–18).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "At the people's cry Moses answered, \"Fear ye not, stand still, and see the salvation of the LORD… the LORD shall fight for you, and ye shall hold your peace\" (14:13–14) — a principle for every crisis of faith.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The angel of God (14:19) moved from the front to the rear, standing between Egypt and Israel — \"a cloud and darkness to them, but it gave light by night to these\" (14:20). The same providence that lightens the believer darkens the opposer.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "A strong east wind divided the sea; Israel passed through on dry ground; the Egyptian army, pressing in, was overwhelmed when the sea returned at morning.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The Red Sea as the type of baptism",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "1 Cor. 10:1–2 is express: \"our fathers… were all baptized unto Moses in the cloud and in the sea.\" The passage of the Red Sea is the Old Testament type of Christian baptism.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The pattern: Egypt (bondage) → Red Sea (deliverance by water) → wilderness (life with God). The antitype: sin → baptism into the death of Christ → life in the Spirit (Rom. 6:3–4).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Pharaoh and his army — the old life — were buried in the water and never again threatened Israel. Baptism is a death, not a reform.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The song of Moses (ch. 15)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The first recorded song of redemption: \"I will sing unto the LORD, for he hath triumphed gloriously\" (15:1).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The chapter closes with Miriam the prophetess (15:20) leading the women with timbrels.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Rev. 15:3 speaks of the redeemed singing \"the song of Moses the servant of God, and the song of the Lamb\" — the deliverance from Egypt and the deliverance from sin joined in one anthem at the end.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VII",
+      "roman": "VII",
+      "title": "FROM THE RED SEA TO SINAI (15:22–18:27)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Marah: the bitter waters sweetened (15:22–27)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Three days without water. At Marah the waters were bitter. God showed Moses a tree which, cast in, made them sweet (15:25).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The tree is a type of the cross: the bitterness of life is made sweet by the cross of Christ cast into it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "There God gave the promise of health (15:26): \"I will put none of these diseases upon thee… I am the LORD that healeth thee\" — Jehovah Rapha.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The manna and the Sabbath (ch. 16)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The manna fell six mornings a week for forty years, a double portion on the sixth day, and none on the seventh (16:22–30).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "When some went out on the seventh day the Lord said, \"How long refuse ye to keep my commandments and my laws?\" (16:28) — before Sinai, before the giving of the law, the Sabbath was already God's commandment.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "This settles once for all that the Sabbath was not instituted at Sinai. It had been given at creation (Gen. 2:1–3), was known to the patriarchs, was reaffirmed at the manna, and finally codified in the law at Sinai (ch. 20).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The manna itself is a type of Christ, the bread from heaven (John 6:31–35, 48–51): daily, personal, sufficient, and never found by those who sought it on the Sabbath.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "An omer of manna was laid up before the Lord (16:33) — Christ in the sanctuary.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"Here, before they came to Sinai, God had taught them concerning the holy Sabbath.\" — Patriarchs and Prophets, p. 296"
+        },
+        {
+          "letter": "C",
+          "title": "The rock at Rephidim (17:1–7)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "At the people's murmuring God said, \"I will stand before thee there upon the rock in Horeb; and thou shalt smite the rock, and there shall come water out of it\" (17:6).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "1 Cor. 10:4 identifies the rock: \"they drank of that spiritual Rock that followed them; and that Rock was Christ.\" The smiting is the cross; the water, the Spirit (John 7:37–39).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "When at Kadesh Moses was commanded only to speak to the rock and instead smote it twice (Num. 20:8–12), he broke the type: Christ was smitten once (Heb. 9:28), and thereafter the sinner is to come by faith alone. The gravity of the error is explained by the sanctity of the type it marred.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "Amalek: the first open war (17:8–16)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Amalek, a descendant of Esau, attacked the weak and weary at the rear (Deut. 25:17–19).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Victory followed the position of Moses on the hill with his hands held up — intercession, not strategy, won the day.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "E",
+          "title": "Jethro's counsel (ch. 18)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Jethro brought Zipporah and the sons; worshipped God, and offered sacrifice.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "He observed Moses judging from morning to night and counseled the appointment of rulers of thousands, hundreds, fifties, and tens — the first delegated administration in Israel.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VIII",
+      "roman": "VIII",
+      "title": "SINAI: THE COVENANT AND THE LAW (19:1–24:18)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The approach to Sinai (ch. 19)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Three months from the Exodus (19:1), Israel encamped before the mount. The covenant offer (19:5–6): \"ye shall be a peculiar treasure… a kingdom of priests, and an holy nation.\" Peter applies the same words directly to the church (1 Pet. 2:9).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The people must sanctify themselves, wash their clothes, and refrain from the mountain under penalty of death (19:10–13). The holiness of God is the first thing to be learned at Sinai.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The theophany (19:16–20)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Thunder, lightning, thick cloud, trumpet, smoke, earthquake. \"Mount Sinai was altogether on a smoke, because the LORD descended upon it in fire\" (19:18).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Heb. 12:18–24 contrasts \"the mount that might be touched\" with \"mount Sion… the city of the living God… the blood of sprinkling, that speaketh better things than that of Abel\" — not that the covenants differ in principle, but that in Christ we see the glory of Sinai without its terror.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The Ten Commandments (20:1–17)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Spoken by the voice of God from Sinai in the hearing of all the people, and written with the finger of God on two tables of stone (31:18; 32:16). The Decalogue stands apart from every other legislation in Exodus: God spoke it directly, in distinction from the \"judgments\" (chs. 21–23), which came through Moses.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The preamble (20:2) — \"I am the LORD thy God, which have brought thee out of the land of Egypt, out of the house of bondage\" — makes the law the response of a redeemed people to their Redeemer, not the means of their redemption.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The ten words:",
+              "highYield": false,
+              "subpoints": [
+                {
+                  "letter": "a",
+                  "text": "1 — no other gods before me (20:3)."
+                },
+                {
+                  "letter": "b",
+                  "text": "2 — no graven image (20:4–6). The visible representation of God is forbidden; the appeal is to a jealous God who shows mercy \"unto thousands of them that love me, and keep my commandments.\""
+                },
+                {
+                  "letter": "c",
+                  "text": "3 — the name not taken in vain (20:7)."
+                },
+                {
+                  "letter": "d",
+                  "text": "4 — the Sabbath (20:8–11): \"Remember the sabbath day, to keep it holy… for in six days the LORD made heaven and earth… wherefore the LORD blessed the sabbath day, and hallowed it.\" The reason given is creation, not Israel."
+                },
+                {
+                  "letter": "e",
+                  "text": "5 — honor father and mother; the first commandment with promise (Eph. 6:2)."
+                },
+                {
+                  "letter": "f",
+                  "text": "6 — thou shalt not kill (murder)."
+                },
+                {
+                  "letter": "g",
+                  "text": "7 — thou shalt not commit adultery."
+                },
+                {
+                  "letter": "h",
+                  "text": "8 — thou shalt not steal."
+                },
+                {
+                  "letter": "i",
+                  "text": "9 — thou shalt not bear false witness."
+                },
+                {
+                  "letter": "j",
+                  "text": "10 — thou shalt not covet; the only command that strikes at the inward desire, and the one that convicted Paul (Rom. 7:7)."
+                }
+              ]
+            },
+            {
+              "n": 4,
+              "text": "Two tables, two tables — love to God (1–4) and love to neighbor (5–10). Christ summarized them exactly (Matt. 22:37–40). James calls it \"the royal law… the perfect law of liberty\" (James 1:25; 2:8).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The Ten Commandments are not abolished at the cross. They were placed within the ark, under the mercy seat (Exod. 25:16, 21; 40:20), while the ceremonial law — a copy of the moral — was placed beside it (Deut. 31:26). Rev. 11:19 shows the ark still there at the end, and Rev. 12:17 and 14:12 describe the final people of God as those \"who keep the commandments of God.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The ten precepts of Sinai present the principles of the kingdom of God.\" — The Mount of Blessing, p. 109"
+        },
+        {
+          "letter": "D",
+          "title": "The judgments and the covenant ratified (chs. 21–24)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapters 21–23 apply the Decalogue to practical cases: slavery, injury, property, the alien, the three annual feasts (23:14–17), and the promise of the Angel to go before them (23:20–23).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The Angel of 23:20–23: \"my name is in him.\" Not a created messenger — \"pardon not your transgressions\" is a divine prerogative. He is the pre-incarnate Christ, the covenant Angel.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The covenant was ratified in blood (24:3–8). The people answered, \"All that the LORD hath said will we do, and be obedient.\" The blood was sprinkled on the altar and on the people — \"the blood of the covenant.\" Christ quoted these words at the Last Supper (Matt. 26:28); Heb. 9:19–22 expounds the connection.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Moses and the seventy went up and saw God (24:9–11) — a glimpse of the heavenly glory, the first of its kind in the record.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IX",
+      "roman": "IX",
+      "title": "THE SANCTUARY AND ITS SERVICES (25:1–31:18)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The great purpose (25:1–9)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"Let them make me a sanctuary; that I may dwell among them\" (25:8). The whole book has moved toward this: God brought His people out of Egypt in order to dwell with them.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The tabernacle was to be built \"after the pattern which was shewed thee in the mount\" (25:9, 40; 26:30; 27:8). Heb. 8:5 calls it \"the example and shadow of heavenly things,\" pointing to a sanctuary in heaven of which the earthly was the figure.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Materials and labor were given willingly (25:2; 35:5, 21–29; 36:5–7), until the people had to be restrained. The giving came from hearts recently redeemed.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The furniture and its typology",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The ark of the covenant with its mercy seat and cherubim (25:10–22): the throne of God in the Most Holy, where the ten commandments lay under the blood-sprinkled seat. Mercy and justice met over the law. The antitype is Christ Himself, the propitiation (Rom. 3:25, Greek hilasterion — \"mercy seat\"; cf. Heb. 9:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The table of showbread (25:23–30): twelve loaves changed every Sabbath; Christ, the bread of life (John 6:35), and His people, the twelve tribes continually before God.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The golden lampstand (25:31–40): seven lamps burning continually, fed with pure beaten olive oil (27:20). The light of the Spirit through Christ in the church (Zech. 4; Rev. 1:12–20; 4:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The altar of burnt offering (27:1–8): at the entrance, where the sinner first met God. The cross is at the door of the Christian life.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The laver (30:17–21): washing before service — the cleansing of the Word and of the Spirit (Eph. 5:26; Titus 3:5).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "The altar of incense (30:1–10): before the veil, where incense ascended continually — the prayers of the saints (Rev. 8:3–4), accepted only through the merit of Christ.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "The veil (26:31–33) separating the Most Holy from the Holy — rent at the cross (Matt. 27:51; Heb. 10:19–20) as Christ opened the way into the presence of God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The priesthood (chs. 28–29)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Aaron and his sons set apart; special garments \"for glory and for beauty\" (28:2). Ephod, breastplate, Urim and Thummim, robe, bells and pomegranates, mitre with \"HOLINESS TO THE LORD\" (28:36).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The twelve stones of the breastplate bore the names of the tribes \"upon his heart\" (28:29) — Christ bears His people on His heart in the heavenly sanctuary.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Consecration lasted seven days; the blood was placed on the ear, hand, and foot of the priest (29:20) — hearing, serving, walking, all consecrated.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Hebrews expounds the whole system as pointing to Christ, our High Priest \"after the order of Melchisedec\" (Heb. 5–10), ministering now in the sanctuary not made with hands.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "The Sabbath renewed in the sanctuary directions (31:12–17)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "At the very end of the sanctuary instructions, before Moses comes down, God returns to the Sabbath: \"Verily my sabbaths ye shall keep: for it is a sign between me and you throughout your generations\" (31:13).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The Sabbath is called a sign that \"I am the LORD that doth sanctify you\" (31:13; cf. Ezek. 20:12, 20) — not of justification by works, but of surrender to the sanctifying work of the Creator-Redeemer.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "It is a perpetual covenant (31:16), rooted again in creation (31:17). The sanctuary and the Sabbath — the two great teaching institutions of the gospel in the Old Testament — are joined in one chapter.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "E",
+          "title": "The two tables of stone (31:18)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"He gave unto Moses… two tables of testimony, tables of stone, written with the finger of God.\" Of the moral law alone is this said. The ceremonial law was written by Moses, in a book, beside the ark (Deut. 31:26).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "X",
+      "roman": "X",
+      "title": "THE GOLDEN CALF AND MOSES'S INTERCESSION (32:1–34:35)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The apostasy (32:1–6)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Within forty days of hearing God's voice from Sinai forbidding graven images, the people demanded of Aaron, \"Make us gods, which shall go before us\" (32:1). Aaron collected their gold and shaped a calf — an Egyptian emblem brought with them out of Egypt.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Aaron's compromise is particularly grave: \"Tomorrow is a feast to the LORD\" (32:5). The old worship was retained in form while its substance was corrupted — the perennial pattern of apostasy.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Moses's intercession (32:7–14, 30–32)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "God announced His intention to destroy the people and make of Moses a nation. Moses declined — not for love of Israel at this point, but for the honor of God's name before Egypt and for the covenant with the patriarchs (32:11–13).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "When he came down and saw the calf, he broke the tables — a dramatic statement that the people had broken the covenant.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The next day Moses returned to the mount: \"if thou wilt forgive their sin —; and if not, blot me, I pray thee, out of thy book which thou hast written\" (32:32). Paul's \"I could wish that myself were accursed from Christ for my brethren\" (Rom. 9:3) echoes it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Moses is here a type of Christ the Mediator, standing between a holy God and a lost people, offering himself in their stead.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The intercession of Moses in behalf of Israel illustrates the mediatorial work of Christ.\" — Patriarchs and Prophets, pp. 326–327"
+        },
+        {
+          "letter": "C",
+          "title": "God's glory revealed (33:12–34:9)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Moses asked, \"Shew me thy glory\" (33:18). God answered that no man can see His face and live, but He would proclaim His name before him and cover him in the cleft of the rock (33:21–23) while His glory passed by.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The self-revelation of God at 34:5–7 is the most famous statement of the divine character in the Pentateuch: \"The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth, keeping mercy for thousands, forgiving iniquity and transgression and sin, and that will by no means clear the guilty.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Mercy and justice both appear. The gospel is not the triumph of mercy over justice but the meeting of the two at the cross (Rom. 3:26).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "The second tables and the shining face (34:10–35)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The covenant was renewed; Moses wrote the words upon tables he had hewn, after the first that God had made. The commandments were re-inscribed as before — the law was not altered by the sin that broke it.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Moses came down with his face shining, so that he had to veil it (34:29–35). 2 Cor. 3:7–18 uses this to establish the greater glory of the new covenant — unveiled — beholding which \"we are changed into the same image from glory to glory.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XI",
+      "roman": "XI",
+      "title": "THE TABERNACLE BUILT AND THE GLORY FILLING IT (35:1–40:38)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Offerings and workmen (35:1–36:7)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The Sabbath commandment is restated (35:1–3) before the construction begins — not even the building of the sanctuary suspends the Sabbath.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Bezaleel and Aholiab were filled with the Spirit of God for skilled craftsmanship (35:30–35) — the earliest express mention of the Spirit's filling in Scripture, and the first identification of artistic ability as a gift of the Spirit.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The people brought so freely that Moses had to restrain them (36:6).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Construction and completion (36:8–39:43)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Chapters 36–39 record the execution of chapters 25–30, \"as the LORD commanded Moses\" repeated continually.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Every detail of the pattern was followed. Moses blessed them when the work was finished (39:43).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The glory fills the tabernacle (40:1–38)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "On the first day of the first month of the second year (40:17) the tabernacle was reared.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "\"Then a cloud covered the tent of the congregation, and the glory of the LORD filled the tabernacle. And Moses was not able to enter\" (40:34–35) — the Shekinah, the visible presence of God.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The pillar of cloud and fire that had led them out of Egypt now settled on the sanctuary (40:38). The God who had led them to the sanctuary now dwells within it. Exodus — the book of going out — ends with God coming in.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The glory of the LORD filled the tabernacle.\" The glory that filled the earthly structure now fills the heavenly, and the believer \"beholding as in a glass the glory of the Lord\" is being changed. — see 2 Cor. 3:18"
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XII",
+      "roman": "XII",
+      "title": "TYPE AND ANTITYPE IN EXODUS",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The whole Exodus as the type of redemption",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The passage of Israel out of Egypt is the master type of the gospel in the Old Testament. The elements correspond point for point: bondage, blood of the lamb, redemption by power, baptism in the sea, bread from heaven, water from the rock, law, sanctuary, glory.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The New Testament treats it as such. Jesus' death in Jerusalem is called His exodos (Luke 9:31), and Paul writes \"Christ our passover is sacrificed for us\" (1 Cor. 5:7). 1 Cor. 10:1–11 makes the whole wilderness journey a didactic type — \"these things… are written for our admonition.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Moses as a type of Christ",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Deut. 18:15 — \"a Prophet… like unto me\"; applied to Christ at Acts 3:22.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Parallels: preserved in infancy from a tyrant's decree; refused the throne of this world; became the mediator of a covenant; interceded for his people with his life.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Heb. 3:1–6 — Moses was faithful as a servant in God's house; Christ as a Son.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The Passover lamb (12)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Christ our Passover slain for us",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "1 Cor. 5:7; John 1:29; 1 Pet. 1:18–19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Blood on the doorposts (12:13)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "The blood of Christ applied by faith",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "Rom. 3:25; Heb. 9:14; 1 Pet. 1:2",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "Unleavened bread (12:15–20)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "Sincerity and truth; sin removed",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "1 Cor. 5:7–8",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "The Red Sea crossing (14)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "Baptism into Christ's death and life",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "1 Cor. 10:1–2; Rom. 6:3–4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "Manna from heaven (16)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "Christ, the bread of life",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "John 6:31–35, 48–51",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "The rock smitten (17:6)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "Christ smitten; the Spirit given",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "1 Cor. 10:4; John 7:37–39",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "Moses the mediator (32:32)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "Christ our mediator and intercessor",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "1 Tim. 2:5; Heb. 7:25",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "The sanctuary and its services (25–40)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "Christ's ministry in the heavenly sanctuary",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "Heb. 8:1–2; 9:11–12, 23–24",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "The mercy seat (25:17–22)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "Christ our propitiation",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Rom. 3:25 (hilasterion); Heb. 9:5",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "The veil (26:31–33)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "Christ's flesh; the way opened at the cross",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "Matt. 27:51; Heb. 10:19–20",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "The table of showbread (25:23–30)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "Christ, the bread, before God for His people",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "John 6:35; Lev. 24:5–9",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "The golden lampstand (25:31–40)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "The Spirit's light through Christ in the church",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "Zech. 4; Rev. 1:12–20; 4:5",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "The altar of incense (30:1–10)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "Prayers of the saints ascending through Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "Rev. 8:3–4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Aaron the high priest (28)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "Christ our great High Priest",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "Heb. 4:14–16; 7:24–28",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "Breastplate stones (28:29)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "His people borne on Christ's heart continually",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "Heb. 7:25",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "The Shekinah glory (40:34)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "God dwelling with His people; Immanuel; new Jerusalem",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 51,
+              "text": "Matt. 1:23; John 1:14; Rev. 21:3",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIII",
+      "roman": "XIII",
+      "title": "PROPHECY AND DOCTRINE IN EXODUS",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "Fulfilled prophecy within the book",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "Gen. 15:13–16 promised the sojourn, the oppression, the deliverance \"with great substance,\" and the return in the fourth generation. Exodus is the record of its exact fulfilment (12:35–41).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The ten plagues as judgments on specific gods of Egypt (12:12) are fulfilled prophecy in miniature.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Prophecies and types of the last days",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The seven last plagues (Rev. 15–16) draw directly on Exodus 7–11: water to blood, sores, darkness, hail, frog-like unclean spirits (Rev. 16:13).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The deliverance of Israel at the sea is the Old Testament pattern of the deliverance of God's people at Christ's coming — the enemy pursuing to the last, the way of escape opened only at the last moment, and the song of victory on the other side (Rev. 15:2–4).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The Sabbath as a sign (31:13, 17; cf. Ezek. 20:12, 20) is the seal of the living God in the final conflict (Rev. 7:1–4; 14:12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The sanctuary pattern (25:9, 40) grounds the central Adventist doctrine of a real sanctuary in heaven and of Christ's present priestly ministry there (Heb. 8:1–2; 9:11–12, 23–24; Rev. 11:19; 15:5).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "Doctrine of God in Exodus",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The divine name (3:14) — self-existence, unchangeableness, presence.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The character of God (34:5–7) — merciful, gracious, longsuffering, truthful, just.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Monotheism and the rejection of idolatry (20:3–6; 32).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The pre-incarnate Christ as the Angel of the LORD (3:2; 14:19; 23:20–23; 32:34; 33:14), the Rock (17:6; 1 Cor. 10:4), and the Lamb (ch. 12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Doctrines Established in Exodus",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Exodus contributes the following doctrinal foundations, confirmed throughout Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Doctrine",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "Exodus basis",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 9,
+              "text": "Confirmed in",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 10,
+              "text": "The divine name and self-existence of God",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 11,
+              "text": "3:13–15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 12,
+              "text": "John 8:58; Rev. 1:8",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 13,
+              "text": "Pre-incarnate Christ as the Angel of the LORD",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 14,
+              "text": "3:2; 14:19; 23:20–23",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 15,
+              "text": "1 Cor. 10:4; John 8:56–58",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 16,
+              "text": "The Sabbath, pre-Sinai and confirmed at Sinai",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 17,
+              "text": "16:4–30; 20:8–11; 31:12–17",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 18,
+              "text": "Mark 2:27–28; Heb. 4:9; Rev. 14:12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 19,
+              "text": "The moral law, written by God, perpetual",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 20,
+              "text": "20:1–17; 31:18; 32:16",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 21,
+              "text": "Matt. 5:17–19; Rom. 7:12; James 2:8–12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 22,
+              "text": "Distinction between moral and ceremonial law",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 23,
+              "text": "25:16, 21; Deut. 31:26",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 24,
+              "text": "Col. 2:14; Eph. 2:15",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 25,
+              "text": "Salvation by grace, obedience as response",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 26,
+              "text": "20:2 (preamble); 19:4–6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 27,
+              "text": "Eph. 2:8–10; Titus 2:11–14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 28,
+              "text": "Substitutionary atonement by blood",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 29,
+              "text": "12:13; 24:8; 29:10–21",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 30,
+              "text": "Heb. 9:22; Rom. 3:25",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 31,
+              "text": "A heavenly sanctuary, the earthly its pattern",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 32,
+              "text": "25:9, 40; 26:30; 27:8",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 33,
+              "text": "Heb. 8:1–5; 9:11, 23–24; Rev. 11:19",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 34,
+              "text": "Priestly intercession, now in Christ",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 35,
+              "text": "28–29; 32:32",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 36,
+              "text": "Heb. 7:25; Rom. 8:34; 1 John 2:1",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 37,
+              "text": "The sealing of God's people in the final conflict",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 38,
+              "text": "31:13, 17 (Sabbath as sign)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 39,
+              "text": "Ezek. 20:12, 20; Rev. 7:1–4; 14:12",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 40,
+              "text": "The character of God: mercy and justice",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 41,
+              "text": "34:5–7",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 42,
+              "text": "Ps. 85:10; Rom. 3:26",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 43,
+              "text": "Spirit-given skill for service",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 44,
+              "text": "31:1–6; 35:30–35",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 45,
+              "text": "1 Cor. 12:4–11",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 46,
+              "text": "Civil disobedience when human law contradicts God",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 47,
+              "text": "1:17 (midwives)",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 48,
+              "text": "Dan. 3; 6; Acts 4:19; 5:29",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 49,
+              "text": "Christ as the smitten Rock, the Spirit as living water",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 50,
+              "text": "17:6",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 51,
+              "text": "1 Cor. 10:4; John 7:37–39",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 52,
+              "text": "Baptism prefigured in the Red Sea",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 53,
+              "text": "14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 54,
+              "text": "1 Cor. 10:1–2; Rom. 6:3–4",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 55,
+              "text": "Second advent prefigured in deliverance; last plagues",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 56,
+              "text": "7–11; 14",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 57,
+              "text": "Rev. 15:2–4; 15–16",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    }
+  ],
+  "types": [
+    {
+      "type": "The Passover lamb (12)",
+      "antitype": "Christ our Passover slain for us",
+      "scripture": "1 Cor. 5:7; John 1:29; 1 Pet. 1:18–19"
+    },
+    {
+      "type": "Blood on the doorposts (12:13)",
+      "antitype": "The blood of Christ applied by faith",
+      "scripture": "Rom. 3:25; Heb. 9:14; 1 Pet. 1:2"
+    },
+    {
+      "type": "Unleavened bread (12:15–20)",
+      "antitype": "Sincerity and truth; sin removed",
+      "scripture": "1 Cor. 5:7–8"
+    },
+    {
+      "type": "The Red Sea crossing (14)",
+      "antitype": "Baptism into Christ's death and life",
+      "scripture": "1 Cor. 10:1–2; Rom. 6:3–4"
+    },
+    {
+      "type": "Manna from heaven (16)",
+      "antitype": "Christ, the bread of life",
+      "scripture": "John 6:31–35, 48–51"
+    },
+    {
+      "type": "The rock smitten (17:6)",
+      "antitype": "Christ smitten; the Spirit given",
+      "scripture": "1 Cor. 10:4; John 7:37–39"
+    },
+    {
+      "type": "Moses the mediator (32:32)",
+      "antitype": "Christ our mediator and intercessor",
+      "scripture": "1 Tim. 2:5; Heb. 7:25"
+    },
+    {
+      "type": "The sanctuary and its services (25–40)",
+      "antitype": "Christ's ministry in the heavenly sanctuary",
+      "scripture": "Heb. 8:1–2; 9:11–12, 23–24"
+    },
+    {
+      "type": "The mercy seat (25:17–22)",
+      "antitype": "Christ our propitiation",
+      "scripture": "Rom. 3:25 (hilasterion); Heb. 9:5"
+    },
+    {
+      "type": "The veil (26:31–33)",
+      "antitype": "Christ's flesh; the way opened at the cross",
+      "scripture": "Matt. 27:51; Heb. 10:19–20"
+    },
+    {
+      "type": "The table of showbread (25:23–30)",
+      "antitype": "Christ, the bread, before God for His people",
+      "scripture": "John 6:35; Lev. 24:5–9"
+    },
+    {
+      "type": "The golden lampstand (25:31–40)",
+      "antitype": "The Spirit's light through Christ in the church",
+      "scripture": "Zech. 4; Rev. 1:12–20; 4:5"
+    },
+    {
+      "type": "The altar of incense (30:1–10)",
+      "antitype": "Prayers of the saints ascending through Christ",
+      "scripture": "Rev. 8:3–4"
+    },
+    {
+      "type": "Aaron the high priest (28)",
+      "antitype": "Christ our great High Priest",
+      "scripture": "Heb. 4:14–16; 7:24–28"
+    },
+    {
+      "type": "Breastplate stones (28:29)",
+      "antitype": "His people borne on Christ's heart continually",
+      "scripture": "Heb. 7:25"
+    },
+    {
+      "type": "The Shekinah glory (40:34)",
+      "antitype": "God dwelling with His people; Immanuel; new Jerusalem",
+      "scripture": "Matt. 1:23; John 1:14; Rev. 21:3"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "prompt": "The Hebrew name of the book of Exodus, taken from its opening words, is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Bereshit, \"In the beginning.\""
+        },
+        {
+          "id": "B",
+          "text": "Shemot, \"names.\""
+        },
+        {
+          "id": "C",
+          "text": "Vayikra, \"and he called.\""
+        },
+        {
+          "id": "D",
+          "text": "Devarim, \"words.\""
+        },
+        {
+          "id": "E",
+          "text": "Toledot, \"generations.\""
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Hebrew title of each book of the Pentateuch is taken from its opening words. Exodus begins Ve'eleh shemot — \"And these are the names\" — and the Hebrew tradition names it Shemot. \"Exodus,\" the familiar English title, comes from the Greek Septuagint and names the central event of the book, not its opening."
+    },
+    {
+      "id": 2,
+      "prompt": "The Angel who appeared to Moses in the burning bush (Exod. 3:2) is best identified as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a created angel acting as God's messenger only."
+        },
+        {
+          "id": "B",
+          "text": "the archangel Michael, understood as a creature."
+        },
+        {
+          "id": "C",
+          "text": "the pre-incarnate Christ — the same divine Being who afterward speaks as God from the midst of the bush."
+        },
+        {
+          "id": "D",
+          "text": "the angel Gabriel."
+        },
+        {
+          "id": "E",
+          "text": "a symbolic representation of God, not a Person."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The Angel appears \"in a flame of fire out of the midst of a bush\" (3:2), and in the very next verse the same Speaker is called God and the LORD (3:4). The Angel accepts worship (3:5–6), bears the divine name, and later \"pardon not your transgressions\" is predicated of Him (23:20–23), which only God can do. The identification runs through Exodus — the Angel of the covenant, the Rock, the pillar — and the New Testament affirms it (1 Cor. 10:4; John 8:56–58)."
+    },
+    {
+      "id": 3,
+      "prompt": "The divine name \"I AM THAT I AM\" (Exod. 3:14) teaches primarily",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that God is unknowable and no name can describe Him."
+        },
+        {
+          "id": "B",
+          "text": "the self-existence, unchangeableness, and active presence of God, the One whose being does not depend on another."
+        },
+        {
+          "id": "C",
+          "text": "that God's name was secret and not to be spoken."
+        },
+        {
+          "id": "D",
+          "text": "that God dwells in time as men do."
+        },
+        {
+          "id": "E",
+          "text": "that God is only now revealing Himself for the first time."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The form of the name is simply the verb \"to be\": I am. It denies dependence (self-existence), excludes change (unchangeableness), and asserts active presence — \"I will be with thee\" (3:12) is the covenant application. Christ claims this name directly in John 8:58."
+    },
+    {
+      "id": 4,
+      "prompt": "The reason Pharaoh's heart was hardened is best stated by observing that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "God hardened it from the beginning, apart from Pharaoh's own choice."
+        },
+        {
+          "id": "B",
+          "text": "Pharaoh hardened it alone, with no divine action involved."
+        },
+        {
+          "id": "C",
+          "text": "in the first five plagues Pharaoh hardened his own heart; only afterward is God said to harden it, meaning that God withdrew restraint and left Pharaoh to the course he had chosen."
+        },
+        {
+          "id": "D",
+          "text": "the hardening is a Hebrew idiom with no theological content."
+        },
+        {
+          "id": "E",
+          "text": "Pharaoh had no moral freedom and could not have responded differently."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The order of the two sets of statements is the whole key. Pharaoh hardens his own heart through the first five plagues; only at the sixth (9:12) does the text say that God hardened it. God hardens by withdrawing restraint and giving the sinner over to what he has chosen — the same action by which the sun melts wax and bakes clay. Romans 1 expounds the principle: \"God gave them up.\""
+    },
+    {
+      "id": 5,
+      "prompt": "Exodus 12:12 — \"against all the gods of Egypt I will execute judgment\" — establishes that the ten plagues were",
+      "choices": [
+        {
+          "id": "A",
+          "text": "natural disasters that happened to coincide with Moses's demands."
+        },
+        {
+          "id": "B",
+          "text": "deliberate judgments on specific Egyptian deities, each plague striking at the sphere of a particular god."
+        },
+        {
+          "id": "C",
+          "text": "arbitrary signs of divine power with no theological structure."
+        },
+        {
+          "id": "D",
+          "text": "borrowed from Canaanite literature."
+        },
+        {
+          "id": "E",
+          "text": "confined in effect to Pharaoh's household."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The statement of Exodus 12:12 is explicit, and each plague corresponds to a particular Egyptian deity — the Nile (Hapi), the frog (Heqet), the cattle (Hathor and the bull-cults), the sun (Ra), and finally Pharaoh himself as the son of Ra. The plagues are a public demonstration of the impotence of the gods of Egypt in the sight of Egypt, of Israel, and of the surrounding nations."
+    },
+    {
+      "id": 6,
+      "prompt": "The decisive sentence in Exodus 12:13 is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "\"The lamb shall be without blemish.\""
+        },
+        {
+          "id": "B",
+          "text": "\"Ye shall eat it in haste.\""
+        },
+        {
+          "id": "C",
+          "text": "\"When I see the blood, I will pass over you\" — deliverance by the applied blood, not by the character of the household."
+        },
+        {
+          "id": "D",
+          "text": "\"Ye shall take it out of the sheep, or from the goats.\""
+        },
+        {
+          "id": "E",
+          "text": "\"None of you shall go out at the door of his house until the morning.\""
+        }
+      ],
+      "answer": "C",
+      "explanation": "The lamb's blood on the door was the whole security of the household. \"When I see the blood, I will pass over you\" (12:13). Not sincerity, not family connection, not Hebrew ancestry — the blood applied. The individual response of faith is what distinguishes the Passover household from the Egyptian; so it is in the gospel (Rom. 3:25)."
+    },
+    {
+      "id": 7,
+      "prompt": "The requirement that \"not a bone of him shall be broken\" in the Passover lamb (Exod. 12:46) was",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a ceremonial nicety with no further meaning."
+        },
+        {
+          "id": "B",
+          "text": "fulfilled at the cross, where the Roman soldiers found Jesus already dead and did not break His legs (John 19:33, 36)."
+        },
+        {
+          "id": "C",
+          "text": "ignored in later Jewish practice."
+        },
+        {
+          "id": "D",
+          "text": "required only in the first Passover."
+        },
+        {
+          "id": "E",
+          "text": "a prohibition against carrying the lamb outside the house."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Exodus 12:46 and Numbers 9:12 require it; Psalm 34:20 reflects it (\"he keepeth all his bones; not one of them is broken\"); and John 19:33, 36 records its exact fulfilment at Calvary. \"For these things were done, that the scripture should be fulfilled, A bone of him shall not be broken.\""
+    },
+    {
+      "id": 8,
+      "prompt": "The Red Sea crossing is identified in the New Testament (1 Cor. 10:1–2) as the type of",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Lord's Supper."
+        },
+        {
+          "id": "B",
+          "text": "the resurrection of the dead."
+        },
+        {
+          "id": "C",
+          "text": "baptism — \"all baptized unto Moses in the cloud and in the sea.\""
+        },
+        {
+          "id": "D",
+          "text": "the giving of the Spirit at Pentecost."
+        },
+        {
+          "id": "E",
+          "text": "the second coming of Christ."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Paul's wording in 1 Corinthians 10:1–2 is deliberate: \"all baptized unto Moses in the cloud and in the sea.\" The sequence Egypt → sea → wilderness corresponds to sin → baptism → life in the Spirit (Rom. 6:3–4). Pharaoh and his army, the old life, were buried in the water and could not pursue them further. Baptism is a death, not a reform."
+    },
+    {
+      "id": 9,
+      "prompt": "Exodus 16, the chapter on the manna, is doctrinally important because it shows that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Sabbath was a Mosaic institution first given at Sinai."
+        },
+        {
+          "id": "B",
+          "text": "the Sabbath was already God's standing commandment before Sinai (16:28), and God taught it in the daily miracle of the manna."
+        },
+        {
+          "id": "C",
+          "text": "the manna was given seven days a week."
+        },
+        {
+          "id": "D",
+          "text": "Israel kept the Sabbath only once a year."
+        },
+        {
+          "id": "E",
+          "text": "the Sabbath was a reward for obedience earned by the people in the wilderness."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The decisive verse is 16:28, spoken before Sinai: \"How long refuse ye to keep my commandments and my laws?\" The Sabbath was not a new institution at Sinai; it was given at creation (Gen. 2:1–3), observed by the patriarchs, impressed again at the manna, and codified in the law. The double portion on the sixth and the absence of any manna on the seventh were a weekly, visible witness."
+    },
+    {
+      "id": 10,
+      "prompt": "The rock which Moses smote at Horeb (Exod. 17:6) is explicitly identified in the New Testament as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a type of Moses."
+        },
+        {
+          "id": "B",
+          "text": "a type of the manna."
+        },
+        {
+          "id": "C",
+          "text": "Christ — \"that Rock was Christ\" (1 Cor. 10:4) — smitten once, from whom the water of the Spirit flows (John 7:37–39)."
+        },
+        {
+          "id": "D",
+          "text": "the sanctuary."
+        },
+        {
+          "id": "E",
+          "text": "the ark of the covenant."
+        }
+      ],
+      "answer": "C",
+      "explanation": "\"They drank of that spiritual Rock that followed them: and that Rock was Christ\" (1 Cor. 10:4). The smiting is the cross; the water, the Spirit, as John 7:37–39 makes plain. The rock had to be smitten before the water flowed."
+    },
+    {
+      "id": 11,
+      "prompt": "The reason Moses was severely rebuked at Kadesh (Num. 20) for smiting the rock, when at Horeb he had been commanded to smite it, is that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the second rock was holier than the first."
+        },
+        {
+          "id": "B",
+          "text": "the second time he was commanded only to speak to it, and by smiting it he marred the type: Christ was to be smitten once, and afterward the sinner comes by faith alone."
+        },
+        {
+          "id": "C",
+          "text": "he struck the wrong rock."
+        },
+        {
+          "id": "D",
+          "text": "Aaron was absent on the second occasion."
+        },
+        {
+          "id": "E",
+          "text": "the people had not asked for water."
+        }
+      ],
+      "answer": "B",
+      "explanation": "At Kadesh the command was changed: \"Speak ye unto the rock\" (Num. 20:8). By smiting it Moses implied, falsely, that Christ must be sacrificed again — a defacing of the type. Hebrews 9:28 states the antitype: \"Christ was once offered to bear the sins of many.\" The sanctity of what the type was to teach explains the sharpness of the rebuke."
+    },
+    {
+      "id": 12,
+      "prompt": "The Decalogue (Exod. 20) is set apart from every other legislation in Exodus by the fact that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "it was given to Moses privately."
+        },
+        {
+          "id": "B",
+          "text": "God spoke it with His own voice from Sinai to the whole people, and afterward wrote it with His own finger on two tables of stone, while the \"judgments\" came through Moses."
+        },
+        {
+          "id": "C",
+          "text": "it is dated later than the ceremonial law."
+        },
+        {
+          "id": "D",
+          "text": "it was addressed only to the priests."
+        },
+        {
+          "id": "E",
+          "text": "it contains ceremonial elements as well as moral ones."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The Decalogue is doubly distinguished — in its giving (spoken by God's own voice from Sinai to the whole people) and in its writing (on tables of stone, by the finger of God). No other legislation in the Bible is said to have been given in that manner. The \"judgments\" of chapters 21–23 came through Moses and were written by him. The two tables were then placed within the ark; the ceremonial law, written in a book, was placed beside it (Deut. 31:26)."
+    },
+    {
+      "id": 13,
+      "prompt": "The preamble of the Decalogue — \"I am the LORD thy God, which have brought thee out of the land of Egypt\" (20:2) — establishes that the moral law is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a means of earning salvation from bondage."
+        },
+        {
+          "id": "B",
+          "text": "the response of a people already redeemed to the God who redeemed them."
+        },
+        {
+          "id": "C",
+          "text": "binding only on the generation that heard it."
+        },
+        {
+          "id": "D",
+          "text": "an arbitrary code with no gospel foundation."
+        },
+        {
+          "id": "E",
+          "text": "a merely national constitution for Israel."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The preamble names the Redeemer before the law begins — \"which have brought thee out.\" Obedience in the Decalogue is therefore response, not purchase. The gospel order is identical: \"work out your own salvation… for it is God which worketh in you\" (Phil. 2:12–13)."
+    },
+    {
+      "id": 14,
+      "prompt": "The fourth commandment grounds the Sabbath in",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the exodus from Egypt."
+        },
+        {
+          "id": "B",
+          "text": "the covenant at Sinai."
+        },
+        {
+          "id": "C",
+          "text": "creation — \"for in six days the LORD made heaven and earth\" (20:11) — making it a creation ordinance, not a Mosaic one."
+        },
+        {
+          "id": "D",
+          "text": "the giving of the manna."
+        },
+        {
+          "id": "E",
+          "text": "the national distinctiveness of Israel."
+        }
+      ],
+      "answer": "C",
+      "explanation": "Exodus 20:11 roots the Sabbath in creation: \"in six days the LORD made heaven and earth… wherefore the LORD blessed the sabbath day, and hallowed it.\" Deut. 5:15 adds the exodus as a further reason for Israel, but the fourth commandment itself and its original ground remain creation — which is why Christ said the Sabbath \"was made for man\" (Mark 2:27), that is, for the race."
+    },
+    {
+      "id": 15,
+      "prompt": "That the Ten Commandments were placed within the ark, while the ceremonial law was placed beside it (Exod. 25:16; Deut. 31:26), teaches that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the two bodies of law share the same temporary character."
+        },
+        {
+          "id": "B",
+          "text": "the moral law is permanent, and the ceremonial law — a copy of the moral — was shadow passing away at the cross."
+        },
+        {
+          "id": "C",
+          "text": "the ceremonial law alone was divinely inspired."
+        },
+        {
+          "id": "D",
+          "text": "the ark was too small for both."
+        },
+        {
+          "id": "E",
+          "text": "the distinction is a later invention."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The two laws are kept visibly distinct from the beginning. The moral law is in the ark (25:16, 21; 40:20), under the mercy seat where the blood of atonement was sprinkled. The ceremonial law is beside the ark (Deut. 31:26). The ceremonial, which was \"a shadow of good things to come\" (Heb. 10:1; Col. 2:14–17), ended at the cross; the moral law — which the ceremonial system served — stands and will be the standard of judgment (James 2:8–12; Rev. 14:12)."
+    },
+    {
+      "id": 16,
+      "prompt": "The purpose of the sanctuary stated in Exodus 25:8 is",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that Israel might have a national monument."
+        },
+        {
+          "id": "B",
+          "text": "that God might dwell among His people — the goal toward which the entire book of Exodus moves."
+        },
+        {
+          "id": "C",
+          "text": "that priestly offerings might atone for sin apart from faith."
+        },
+        {
+          "id": "D",
+          "text": "that Egypt might be impressed by Israel's religion."
+        },
+        {
+          "id": "E",
+          "text": "that Moses might have a private place of worship."
+        }
+      ],
+      "answer": "B",
+      "explanation": "\"Let them make me a sanctuary; that I may dwell among them\" (25:8) is the stated goal, and the book's whole architecture serves it. Redemption, revelation, residence: God brought His people out that He might dwell with them. The ending of Exodus (40:34–38) and the ending of Revelation (21:3) are the same purpose, now consummated."
+    },
+    {
+      "id": 17,
+      "prompt": "The command that the sanctuary be built \"after the pattern shewed thee in the mount\" (Exod. 25:40) establishes",
+      "choices": [
+        {
+          "id": "A",
+          "text": "that there is a sanctuary in heaven, of which the earthly was the figure (Heb. 8:5), where Christ now ministers."
+        },
+        {
+          "id": "B",
+          "text": "that the pattern was Moses's own design."
+        },
+        {
+          "id": "C",
+          "text": "that the pattern was an abstract ideal with no reality."
+        },
+        {
+          "id": "D",
+          "text": "that the sanctuary was borrowed from Egyptian models."
+        },
+        {
+          "id": "E",
+          "text": "that only Bezaleel had seen the pattern."
+        }
+      ],
+      "answer": "A",
+      "explanation": "Hebrews 8:5 draws the inference directly: the earthly sanctuary served \"unto the example and shadow of heavenly things, as Moses was admonished… See, saith he, that thou make all things according to the pattern shewed to thee in the mount.\" The reality is in heaven; the earthly tabernacle was a working model of it. Christ now ministers in the heavenly sanctuary (Heb. 8:1–2; 9:11–12, 24), and the central theme of Revelation 11:19; 14:17; 15:5–8 is that heavenly reality."
+    },
+    {
+      "id": 18,
+      "prompt": "Moses's intercession for Israel after the golden calf — \"if not, blot me out of thy book\" (Exod. 32:32) — is in Scripture a type of",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the self-abnegation of pagan priests."
+        },
+        {
+          "id": "B",
+          "text": "Christ's mediatorial work and self-offering for His people (echoed at Rom. 9:3)."
+        },
+        {
+          "id": "C",
+          "text": "Moses's own fall from grace."
+        },
+        {
+          "id": "D",
+          "text": "the removal of the names of the apostate from the record."
+        },
+        {
+          "id": "E",
+          "text": "a theatrical rhetorical device without theological weight."
+        }
+      ],
+      "answer": "B",
+      "explanation": "Moses stood between God and the people, confessed the sin not his own, and offered himself in their place — \"blot me out of thy book.\" Paul's \"I could wish that myself were accursed from Christ for my brethren\" (Rom. 9:3) consciously echoes it. Both point to the One who did not merely offer — Christ was made \"a curse for us\" (Gal. 3:13), that His people might be spared."
+    },
+    {
+      "id": 19,
+      "prompt": "God's self-revelation to Moses in Exodus 34:5–7 describes Him as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "merciful but not just."
+        },
+        {
+          "id": "B",
+          "text": "just but not merciful."
+        },
+        {
+          "id": "C",
+          "text": "merciful, gracious, longsuffering, and truthful, and also just — \"will by no means clear the guilty.\""
+        },
+        {
+          "id": "D",
+          "text": "arbitrary in both mercy and judgment."
+        },
+        {
+          "id": "E",
+          "text": "wholly transcendent and unknowable."
+        }
+      ],
+      "answer": "C",
+      "explanation": "The self-revelation at 34:5–7 is the central Old Testament statement of the character of God. It declares both mercy (\"merciful and gracious, longsuffering, and abundant in goodness and truth, keeping mercy for thousands, forgiving iniquity\") and justice (\"that will by no means clear the guilty\"). Neither attribute is sacrificed to the other; the cross is where they meet (Ps. 85:10; Rom. 3:26)."
+    },
+    {
+      "id": 20,
+      "prompt": "Exodus closes with the glory of the LORD filling the tabernacle (40:34–38). The theological point of this ending is that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the salvation of Israel was now complete and nothing further remained."
+        },
+        {
+          "id": "B",
+          "text": "the God who brought His people out of Egypt now dwells among them, the aim of redemption from the beginning — the pattern that will be perfected in the new Jerusalem, \"the tabernacle of God is with men\" (Rev. 21:3)."
+        },
+        {
+          "id": "C",
+          "text": "the tabernacle made the pillar of cloud unnecessary."
+        },
+        {
+          "id": "D",
+          "text": "the glory remained only for a single day."
+        },
+        {
+          "id": "E",
+          "text": "the sanctuary was superseded at once by the heavenly reality."
+        }
+      ],
+      "answer": "B",
+      "explanation": "The book opens with God's people in a far country and ends with God dwelling in the midst of them. The arc is complete only when the heavenly city descends and the voice says, \"Behold, the tabernacle of God is with men, and he will dwell with them\" (Rev. 21:3). Everything from Exodus 25 onward serves that aim; what began at Sinai will be finished in the new creation."
+    }
+  ]
+}

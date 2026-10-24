@@ -1,0 +1,1429 @@
+{
+  "meta": {
+    "id": "revelation",
+    "name": "Revelation",
+    "hebrew": null,
+    "subtitle": "The Revelation of Jesus Christ",
+    "testament": "New Testament",
+    "order": 66,
+    "chapters": "1–22",
+    "tagline": "An interactive outline of Revelation in the Seventh-day Adventist doctrine, following Ellen G. White.",
+    "divisions": [
+      {
+        "title": "Christ and the churches",
+        "range": "chs. 1–3",
+        "focus": "Glorified Christ among the candlesticks"
+      },
+      {
+        "title": "Seals, trumpets, conflict",
+        "range": "chs. 4–14",
+        "focus": "Scroll, judgments, remnant"
+      },
+      {
+        "title": "Plagues to new earth",
+        "range": "chs. 15–22",
+        "focus": "Babylon falls; new creation"
+      }
+    ]
+  },
+  "sections": [
+    {
+      "id": "I",
+      "roman": "I",
+      "title": "INTRODUCTION, AUTHORSHIP, AND STRUCTURE",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The title and its meaning",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book names itself in its opening word: \"The Revelation [Gr. apokalypsis, \"unveiling\"] of Jesus Christ, which God gave unto him, to shew unto his servants\" (1:1). It is not John's apocalypse but Christ's — the subjective genitive matters: this is a revelation given by Christ and, above all, a revelation of Christ Himself, disclosed in a chain of transmission — God to Christ to angel to John to the churches (1:1).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The book of Revelation...is a revelation of Jesus Christ, designed to guide and strengthen His people through the ages, and to assure them of final victory over the power of evil.\" The Acts of the Apostles, p. 584."
+        },
+        {
+          "letter": "B",
+          "title": "Authorship and date",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The author names himself John (1:1, 4, 9; 22:8), the Lord's \"servant\" (1:1) and \"brother\" to the churches, \"companion in tribulation\" (1:9) — early church testimony (Justin Martyr, Irenaeus, who knew Polycarp, a disciple of John) uniformly identifies him as the apostle John, writer of the Fourth Gospel. He received the vision \"in the isle that is called Patmos, for the word of God, and for the testimony of Jesus Christ\" (1:9) — banished there under Roman persecution, traditionally dated to the reign of Domitian (c. A.D. 95–96).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The structure of the book",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The prologue and the vision of the glorified Christ among the candlesticks (1:1–20).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Letters to the seven churches of Asia (2:1–3:22) — a prophetic survey of the church through history, as well as a message to seven literal first-century congregations.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The throne-room scene, the sealed scroll, and the Lamb (4:1–5:14) — the pivot from history to prophecy; all that follows flows from the Lamb's worthiness to open the scroll.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "The seven seals (6:1–8:1), tracing the church's experience from the apostolic age to the judgment.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "The seven trumpets (8:2–11:19), tracing the judgments that fall on the persecuting powers opposed to the church.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "The great controversy unveiled — the woman, the dragon, and the remnant (12:1–14:20), including the two beasts (ch. 13) and the three angels' messages (14:6–12).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "The seven last plagues (15:1–16:21), the fall of Babylon (17:1–19:5), the Second Advent (19:6–21), the millennium and final judgment (20:1–15), and the new heaven and new earth (21:1–22:21).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "D",
+          "title": "Principles of interpretation",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Seventh-day Adventists follow the historicist method, the method of the Reformers, which sees prophecy as unfolding continuously across the sweep of history from the prophet's day to the end of time — in contrast to preterism (fulfilled in the first century only) and futurism (fulfilled only at the very end). Revelation itself claims this scope: it is given \"to shew unto his servants things which must shortly come to pass\" (1:1), and the repeated time prophecies (the 1,260 days, the hour-day-month-year) span centuries when read on the year-day principle established in Ezekiel 4:6 and Numbers 14:34.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"In symbol and figure, subjects of vast importance were presented to John, that which concerns the people of God from the time that he was given the revelation until the end of time.\" The Acts of the Apostles, p. 584."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "II",
+      "roman": "II",
+      "title": "THE GLORIFIED CHRIST AND THE SEVEN CHURCHES (1:1–3:22)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The vision of the Son of man (1:9–20)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "John, \"in the Spirit on the Lord's day\" (1:10), hears a voice \"as of a trumpet\" and turns to see \"one like unto the Son of man\" (1:12–13) — clothed in a priestly garment \"down to the foot,\" girt with a golden girdle, hair \"white like wool,\" eyes \"as a flame of fire,\" feet \"like unto fine brass,\" voice \"as the sound of many waters,\" a sharp two-edged sword from His mouth, and a countenance \"as the sun shineth in his strength\" (1:13–16). This is Christ in His role as High Priest, walking \"in the midst of the seven golden candlesticks\" (1:13) — the churches — holding \"the seven stars\" (the angels, or messengers, of the churches) in His right hand (1:16, 20).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "John's response is the only fitting one: he \"fell at his feet as dead\" (1:17) — the vision is overwhelming, not comforting at first sight, and only Christ's own touch and word, \"Fear not; I am the first and the last...and have the keys of hell and of death\" (1:17–18), restores him.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The seven churches as prophetic periods",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The seven churches of Asia Minor — Ephesus, Smyrna, Pergamos, Thyatira, Sardis, Philadelphia, Laodicea — were literal, existing congregations (1:11), but their sequence also maps the condition of the Christian church across seven successive eras from apostolic times to the Second Advent, each letter following the pattern: address, description of Christ, commendation (where warranted), rebuke (where warranted), counsel, promise \"to him that overcometh,\" and the call \"He that hath an ear, let him hear.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Ephesus (2:1–7) — the apostolic church, commended for labor and discernment of false apostles but warned for leaving its \"first love.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Smyrna (2:8–11) — the persecuted church of the early centuries, promised \"a crown of life\" through tribulation \"ten days\" (a period understood to correspond to the decade of the Diocletian persecution, A.D. 303–313).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Pergamos (2:12–17) — the church compromised by state favor after Constantine, \"where Satan's seat is,\" tolerating the doctrine of Balaam and the Nicolaitanes.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Thyatira (2:18–29) — the church of the medieval papal supremacy, tolerating \"that woman Jezebel\" who seduces God's servants; yet with a faithful remnant who \"have not known the depths of Satan.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Sardis (3:1–6) — the church of the Reformation, having \"a name that thou livest, and art dead\" — true life present but formalism dominant; the call to \"strengthen the things which remain.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 7,
+              "text": "Philadelphia (3:7–13) — the church of \"the open door,\" identified with the great missionary and prophetic awakening of the early nineteenth century; no rebuke, only commendation for keeping \"the word of my patience.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 8,
+              "text": "Laodicea (3:14–22) — the last church, the church of the Advent movement itself, \"lukewarm,\" claiming to be \"rich, and increased with goods,\" yet \"wretched, and miserable, and poor, and blind, and naked\" — counseled to buy gold, white raiment, and eyesalve, and invited, \"Behold, I stand at the door, and knock\" (3:20).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The messages to the seven churches of Asia represent the condition of the church at different periods in the Christian Era....The last period in the church's history is represented by the Laodicean church.\" The Acts of the Apostles, p. 585–586."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "III",
+      "roman": "III",
+      "title": "THE THRONE, THE SEALED SCROLL, AND THE LAMB (4:1–5:14)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The throne in heaven",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "John is called up \"in the Spirit\" (4:2) to see \"a throne...set in heaven,\" the Father upon it \"like a jasper and a sardine stone\" with \"a rainbow round about the throne\" (4:2–3) — the symbol of covenant mercy encircling judgment. Twenty-four elders in white, crowned, sit on thrones round about; seven lamps of fire (the seven Spirits of God) burn before the throne; four living creatures, full of eyes, cry \"Holy, holy, holy, Lord God Almighty\" without ceasing (4:4–8).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The sealed scroll and the Lamb who is worthy",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "A scroll \"written within and on the backside, sealed with seven seals\" lies in the right hand of Him on the throne (5:1). A \"strong angel\" proclaims, \"Who is worthy to open the book, and to loose the seals thereof?\" and none in heaven, earth, or under the earth is found worthy — John weeps (5:2–4). Then one elder announces, \"the Lion of the tribe of Juda...hath prevailed to open the book\" (5:5) — but what John sees is startling: \"a Lamb as it had been slain\" (5:6), standing \"in the midst of the throne.\" Conquest in this book is consistently redefined by the cross: the Lion conquers as the slain Lamb.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The Lamb takes the scroll, and heaven erupts in worship — the four living creatures and twenty-four elders, then \"ten thousand times ten thousand, and thousands of thousands\" of angels, then \"every creature\" in all creation, ascribe \"blessing, and honour, and glory, and power...unto the Lamb for ever and ever\" (5:8–13).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"Christ was represented as a lamb that had been slain, yet now living, interceding in the sinner's behalf before the Father's throne.\" See The Great Controversy, p. 414, on the heavenly sanctuary ministry this scene opens."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IV",
+      "roman": "IV",
+      "title": "THE SEVEN SEALS (6:1–8:1)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The four horsemen (6:1–8)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "White horse (6:1–2) — a rider with a bow, \"crowned,\" going forth \"conquering, and to conquer\" — understood as the triumphant, Spirit-empowered gospel witness of the apostolic church (cf. the white horse of Christ Himself in 19:11, but here the symbol is of the church's pure early testimony).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Red horse (6:3–4) — power given \"to take peace from the earth,\" with a great sword — the era of bitter persecution following, as the purity of apostolic faith gave way to strife within and bloodshed from without.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Black horse (6:5–6) — a rider with balances, famine prices for wheat and barley, yet \"hurt not the oil and the wine\" — spiritual famine, the corruption and scarcity of the pure Word during the centuries of papal darkness, while a remnant (oil and wine) is preserved.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Pale horse (6:7–8) — \"Death,\" with \"Hell\" following, kills by \"sword, and with hunger, and with death, and with the beasts of the earth\" — the climax of persecution leading into the Reformation era and beyond.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The fifth and sixth seals (6:9–17)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The fifth seal (6:9–11) shows souls \"under the altar\" — a sanctuary image, not a doctrine of disembodied consciousness, but the symbolic cry of innocent blood (as Abel's blood \"crieth\" in Genesis 4:10) for vindication; they are told to \"rest yet for a little season.\" The sixth seal (6:12–17) brings cosmic signs — a great earthquake, the sun black, the moon as blood, stars falling — historically applied to the Lisbon earthquake (1755), the Dark Day of May 19, 1780, and the great meteor shower of November 13, 1833, read as literal fulfillments of Christ's own sign-list in Matthew 24:29 and as direct precursors of the Second Advent.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "On the Dark Day and falling stars as direct fulfillments of this prophecy, see The Great Controversy, pp. 306–309, 333–335."
+        },
+        {
+          "letter": "C",
+          "title": "The sealing of the 144,000 and the great multitude (7:1–17)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Before the four winds of strife are loosed, four angels hold them back until \"the servants of our God\" are sealed \"in their foreheads\" (7:1–3) — 12,000 from each of the twelve tribes, 144,000 in all (7:4–8), representing the full number of God's end-time people, sealed with the seal of the living God (identified elsewhere with the Sabbath, the sign between God and His people, Ex. 31:13, 17; Ezek. 20:12, 20). Alongside them John sees \"a great multitude, which no man could number,\" of all nations, before the throne, who \"have washed their robes, and made them white in the blood of the Lamb\" (7:9, 14) — the redeemed of every age, come \"out of great tribulation.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "V",
+      "roman": "V",
+      "title": "THE SEVEN TRUMPETS (8:2–11:19)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The setting: prayer and judgment",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The seventh seal opens with \"silence in heaven about the space of half an hour\" (8:1), and an angel offers incense \"with the prayers of all saints\" upon the golden altar (8:3–4) — the trumpets that follow are judgments that answer the prayers of the persecuted church, falling historically on the political and religious powers hostile to it.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The first four trumpets — judgments on the Western Roman Empire",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "First trumpet (8:7) — hail, fire, and blood on \"the trees\" and \"all green grass\" — the Visigothic invasions under Alaric.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Second trumpet (8:8–9) — a burning mountain cast into the sea, a third of the sea becoming blood — the Vandal invasions under Genseric, a maritime power.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Third trumpet (8:10–11) — a star called Wormwood falling on the rivers and fountains — the campaigns of Attila the Hun.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Fourth trumpet (8:12) — a third of sun, moon, and stars darkened — the extinguishing of imperial authority in the West with the deposition of Romulus Augustulus, A.D. 476.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "C",
+          "title": "The fifth and sixth trumpets — judgments from the East (9:1–21)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The fifth trumpet (9:1–12), the first \"woe,\" releases a plague of locusts from \"the bottomless pit\" that torment \"those men which have not the seal of God\" for \"five months\" — historically applied to the rise and advance of the Saracen (Islamic) armies, under a symbolic 150-year period (5 months × 30 days, year-day principle), roughly A.D. 612–762. The sixth trumpet (9:13–21), the second woe, looses \"four angels...bound in the great river Euphrates,\" prepared for an hour, day, month, and year, to slay a third of men — applied to the rise and advance of the Ottoman Turkish power, with the symbolic period (391 years, 15 days) traditionally reckoned from 1449 to the fall of Turkish independence in 1840 — a date Millerite students of prophecy, including Josiah Litch, correctly identified in advance, a striking confirmation that drew wide attention to the prophetic movement.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "On the Ottoman prophecy and its fulfillment as confirming the prophetic method of the Advent believers, see The Great Controversy, pp. 334–335."
+        },
+        {
+          "letter": "D",
+          "title": "The little book and the two witnesses (10:1–11:14)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "An angel \"clothed with a cloud\" descends with \"a little book open in his hand\" (10:1–2), and John is told to eat it: \"it shall be in thy mouth sweet as honey,\" but \"thy belly bitter\" (10:9–10). This dual experience — sweet, then bitter — is identified with the Millerite movement's study of Daniel's sealed prophecies (Dan. 12:4, \"the time of the end,\" when the book would be \"unsealed\"), the sweetness of anticipating Christ's soon return, followed by the bitter disappointment of October 22, 1844, when the expected advent did not occur.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "John is then told, \"Thou must prophesy again before many peoples, and nations, and tongues, and kings\" (10:11) — the Advent message, chastened and clarified, was to go forward again, now understood in light of the sanctuary truth that opened after the disappointment.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The two witnesses (11:1–14), prophesying 1,260 days \"clothed in sackcloth,\" are identified with the Old and New Testament Scriptures, silenced (\"killed\") during the period of revolutionary infidelity in France (the atheistic phase of the French Revolution, when the Bible was officially suppressed), then \"revived\" as the Scriptures again gained public honor — a vindication of the Word in the sight of the nations.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "On the eating of the little book as the experience of the Advent believers and the disappointment of 1844, see The Great Controversy, pp. 356–357, 374, 403."
+        },
+        {
+          "letter": "E",
+          "title": "The seventh trumpet (11:15–19)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The seventh trumpet announces, \"The kingdoms of this world are become the kingdoms of our Lord, and of his Christ\" (11:15), and \"the temple of God was opened in heaven,\" revealing \"the ark of his testament\" (11:19) — a direct pointer to the opening of the Most Holy Place of the heavenly sanctuary and the beginning of the investigative judgment following 1844, with its central focus on the law of God preserved in the ark.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VI",
+      "roman": "VI",
+      "title": "THE GREAT CONTROVERSY UNVEILED: THE WOMAN, THE DRAGON, AND THE REMNANT (12:1–17)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The woman and the dragon",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "A \"great wonder\" appears: \"a woman clothed with the sun,\" crowned with twelve stars, travailing to give birth (12:1–2) — the woman is the symbol of God's true church across the ages (cf. Jer. 6:2; Eph. 5:25–32), here specifically bringing forth the Messiah. Opposing her, \"a great red dragon, having seven heads and ten horns,\" stands ready \"to devour her child as soon as it was born\" (12:3–4) — the dragon is identified as \"that old serpent, called the Devil, and Satan\" (12:9), who works first through pagan Rome (the attempt to destroy the infant Christ, Matt. 2:16) and then through papal Rome, to persecute \"the remnant of her seed\" (12:17).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The child, \"a man child, who was to rule all nations with a rod of iron,\" is \"caught up unto God, and to his throne\" (12:5) — Christ's ascension — while \"war in heaven\" (12:7–9) depicts the original expulsion of Satan from heaven, the opening act of the great controversy between Christ and Satan that frames the whole book.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "The woman flees \"into the wilderness, where she hath a place prepared of God\" for \"a thousand two hundred and threescore days\" (12:6, cf. v. 14, \"time, and times, and half a time\") — the 1,260-year period of papal supremacy and persecution of the true church, traditionally dated A.D. 538–1798, during which the faithful worshiped in hiding (the Waldenses and other persecuted groups).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The dragon...represents Satan....The woman who was seen fleeing to the wilderness represents the church.\" The Great Controversy, pp. 381, 438."
+        },
+        {
+          "letter": "B",
+          "title": "The remnant and their identifying marks",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Having failed to destroy the woman herself, the dragon, filled with wrath, \"went to make war with the remnant of her seed, which keep the commandments of God, and have the testimony of Jesus Christ\" (12:17) — the closing verse of the chapter defines the end-time people of God by two marks: commandment-keeping (including, necessarily, the fourth commandment and the Sabbath) and \"the testimony of Jesus Christ,\" which Revelation 19:10 identifies as \"the commentary.\" These twin marks — the law and the prophetic gift — characterize the last-day remnant church throughout the rest of the book.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VII",
+      "roman": "VII",
+      "title": "THE TWO BEASTS AND THE MARK (13:1–18)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The sea beast (13:1–10)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "A beast rises \"up out of the sea,\" with \"seven heads and ten horns,\" given the dragon's \"power, and his seat, and great authority\" (13:1–2) — a composite of the four beasts of Daniel 7 (leopard, bear, lion), identifying it with Rome, but specifically with Rome in its ecclesiastical, papal form, which received the dragon's \"seat\" (i.e., pagan Rome's civil authority and capital) after the empire's political collapse. One head receives \"a deadly wound,\" yet the wound is \"healed,\" and \"all the world wondered after the beast\" (13:3) — applied to the fall of the papacy's temporal power (notably in 1798, when Napoleon's general Berthier took the pope captive) and its subsequent revival of influence in modern times.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The beast is given authority \"forty and two months\" (13:5) — the same 1,260-year period as the woman's wilderness sojourn — during which it blasphemes God's name and makes \"war with the saints\" (13:6–7).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The land beast (13:11–18)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "A second beast rises \"out of the earth\" (a symbol of a power arising in a sparsely populated region, in contrast to the \"sea\" of nations/peoples, 17:15), \"having two horns like a lamb,\" but speaking \"as a dragon\" (13:11) — lamblike origins (civil and religious liberty) giving way to dragon-like, coercive methods. This power \"exerciseth all the power of the first beast\" and causes \"the earth and them which dwell therein to worship the first beast\" (13:12) — identified with the United States of America, which arose quietly in the late eighteenth century precisely as the first beast received its wound, and which is understood in Adventist prophetic interpretation to eventually exercise its influence to enforce religious observances (specifically Sunday sacredness) in violation of liberty of conscience.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "This power causes all, \"small and great, rich and poor, free and bond,\" to receive \"a mark in their right hand, or in their foreheads\" on pain of economic boycott and death (13:16–17) — the mark of the beast is understood, in contrast to the seal of God (the Sabbath, ch. 7, 14:12), as the enforced observance of a counterfeit, humanly instituted day of worship, the sign of allegiance to ecclesiastical authority above the authority of God's law.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "The number of the beast, 666 (13:18), \"the number of a man,\" has historically been connected by Protestant expositors (including the Reformers) to the Latin title Vicarius Filii Dei, whose Roman numeral letters sum to 666 — offered as a confirming, though secondary, line of evidence alongside the primary historical identification already established from the beast's described character and career.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "On the United States as the lamblike beast and the coming enforcement of a counterfeit sabbath, see The Great Controversy, pp. 440."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "VIII",
+      "roman": "VIII",
+      "title": "THE THREE ANGELS' MESSAGES AND THE HARVEST (14:1–20)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The 144,000 on Mount Sion (14:1–5)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "In contrast to the beast-worshipers of chapter 13, John sees \"a Lamb stood on the mount Sion, and with him an hundred and forty and four thousand\" who have the Father's name \"written in their foreheads\" (14:1) — the sealed remnant of chapter 7 now seen triumphant, described as those who \"follow the Lamb whithersoever he goeth,\" \"without fault before the throne of God\" (14:4–5) — a people of complete, Christ-wrought integrity in the final crisis.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The three angels' messages",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "First angel (14:6–7) — \"the everlasting gospel,\" proclaimed \"to every nation, and kindred, and tongue, and people,\" calling all to \"Fear God, and give glory to him; for the hour of his judgment is come\" and to \"worship him that made heaven, and earth, and the sea, and the fountains of waters\" — identified with the great worldwide Advent awakening of the early-to-mid nineteenth century and its ongoing proclamation, including the announcement that the hour of God's judgment (the investigative judgment, beginning 1844) had arrived, and a direct echo of the fourth commandment's own language of the Creator (Ex. 20:11).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Second angel (14:8) — \"Babylon is fallen, is fallen\" — the moral and spiritual fall of apostate religious systems, Babylon here understood (as in ch. 17) to represent false religious systems, both papal and apostate Protestant, that have departed from the plain teaching of Scripture.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Third angel (14:9–12) — the most solemn warning in Scripture, against worshiping \"the beast and his image,\" and receiving \"his mark in his forehead, or in his hand,\" threatening that such a one \"shall drink of the wine of the wrath of God\" — followed immediately by the positive counterpart, the definition of those who escape this judgment: \"Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus\" (14:12), restating the two marks of 12:17.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The first, second, and third angels' messages point out the people who are following down through to translation....the people who receive the light and the truth become the special target of the enemy.\" The Great Controversy, pp. 311, 355, 435."
+        },
+        {
+          "letter": "C",
+          "title": "The harvest of the earth (14:14–20)",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "One \"like unto the Son of man,\" with \"a sharp sickle,\" reaps \"the harvest of the earth\" (14:14–16) — the ingathering of the redeemed at the Second Coming — followed by a second reaping of \"the vine of the earth\" into \"the great winepress of the wrath of God\" (14:17–20), the judgment on the finally impenitent.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "IX",
+      "roman": "IX",
+      "title": "THE SEVEN LAST PLAGUES (15:1–16:21)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The close of probation and the preparation for the plagues (15:1–8)",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "John sees \"seven angels having the seven last plagues; for in them is filled up the wrath of God\" (15:1), poured out after the close of human probation — the temple in heaven, \"filled with smoke from the glory of God,\" becomes inaccessible: \"no man was able to enter into the temple, till the seven plagues...were fulfilled\" (15:8), signifying that Christ's mediatorial work has ended and final decisions have been sealed before these judgments fall.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The seven plagues",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "First (16:2) — grievous sores on those who bear the mark of the beast.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "Second and third (16:3–7) — sea and rivers turned to blood, a just retribution \"for they have shed the blood of saints and prophets.\"",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 3,
+              "text": "Fourth (16:8–9) — men \"scorched with fire\" from the sun, yet they \"blasphemed the name of God,\" unrepentant.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 4,
+              "text": "Fifth (16:10–11) — darkness upon \"the seat of the beast,\" with men gnawing their tongues for pain.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 5,
+              "text": "Sixth (16:12–16) — the Euphrates dried up to prepare \"the way of the kings of the east,\" and the gathering of earth's powers \"to the battle of that great day of God Almighty\" at \"Armageddon,\" under the deceptive agency of unclean, froglike spirits — spiritualistic and demonic deceptions uniting the world against God's people in the final crisis.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 6,
+              "text": "Seventh (16:17–21) — \"It is done\": the greatest earthquake in human history, \"every island\" fled away, \"great Babylon\" remembered for judgment, and great hail, each stone \"about the weight of a talent.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "X",
+      "roman": "X",
+      "title": "BABYLON'S FALL AND JUDGMENT (17:1–19:5)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The woman on the scarlet beast",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "John is shown \"the great whore that sitteth upon many waters,\" identified as \"that great city, which reigneth over the kings of the earth\" (17:1, 18), riding a scarlet beast \"full of names of blasphemy,\" arrayed in purple and scarlet, \"having a golden cup in her hand full of abominations,\" drunk \"with the blood of the saints\" (17:3–6) — Babylon here is the composite symbol of apostate religious power, contrasted throughout Scripture with the pure woman of chapter 12; \"the waters...are peoples, and multitudes, and nations, and tongues\" (17:15) over which she exercises corrupting influence.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "In the end the beast and its \"ten horns\" turn and \"make her desolate,\" burning her \"with fire\" (17:16) — a final falling-out among the end-time coalition of political and religious powers.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "Babylon's fall lamented and heaven's rejoicing",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "A mighty angel cries, \"Babylon the great is fallen, is fallen,\" now become \"the habitation of devils\" (18:2), and calls God's people, \"Come out of her, my people, that ye be not partakers of her sins\" (18:4) — the final, universal appeal of the second angel's message (14:8), echoed and intensified. The merchants and kings of the earth \"bewail her\" (18:9–19), while heaven responds, \"Rejoice over her, thou heaven, and ye holy apostles and prophets; for God hath avenged you on her\" (18:20), culminating in the great \"Alleluia\" of chapter 19:1–5 at her judgment.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XI",
+      "roman": "XI",
+      "title": "THE MARRIAGE SUPPER, THE RIDER ON THE WHITE HORSE, AND ARMAGEDDON (19:6–21)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The marriage of the Lamb",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"The marriage of the Lamb is come, and his wife hath made herself ready\" (19:7) — the bride, clothed in \"fine linen, clean and white,\" which \"is the righteousness of saints\" (19:8), represents the redeemed church, the marriage supper the consummation of the long-promised union of Christ with His people, celebrated after the Second Coming and the saints' reception into the heavenly city (cf. Matt. 25:1–13).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The Rider on the white horse",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "Heaven opens, and One called \"Faithful and True\" rides forth \"in righteousness\" to \"judge and make war\" (19:11) — eyes \"as a flame of fire,\" many crowns, a name \"written, that no man knew, but he himself,\" clothed in a vesture \"dipped in blood,\" His name called \"The Word of God\" (19:12–13), followed by \"the armies which were in heaven,\" and from His mouth \"a sharp sword,\" with which He smites the nations, ruling them \"with a rod of iron\" (19:15) — the glorious, literal, visible Second Coming of Christ, the direct fulfillment and climax toward which the whole book has moved.",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The beast, the false prophet (the lamblike beast of ch. 13), and the armies gathered for Armageddon are destroyed by the brightness of His coming (19:19–21; cf. 2 Thess. 2:8) — final, decisive judgment on organized opposition to God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XII",
+      "roman": "XII",
+      "title": "THE MILLENNIUM AND THE FINAL JUDGMENT (20:1–15)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "The thousand years and the binding of Satan",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "An angel binds \"the dragon, that old serpent, which is the Devil, and Satan,\" casting him into \"the bottomless pit\" for \"a thousand years,\" that he \"should deceive the nations no more, till the thousand years should be fulfilled\" (20:1–3) — in Adventist understanding, the \"bottomless pit\" (Gr. abyssos) is the desolated, depopulated earth itself after the living wicked are slain at Christ's coming (cf. Jer. 4:23–26, which describes the earth as \"without form, and void\" in language echoing Genesis 1:2) — Satan is \"bound\" not literally with a chain but by circumstance, confined to a planet with no one left to tempt, while the righteous reign with Christ in heaven \"a thousand years\" (20:4, 6), engaged in the review of the judgment (cf. 1 Cor. 6:2–3, the saints \"judge the world\").",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "The wicked dead do not live again \"until the thousand years were finished\" (20:5) — they remain in death throughout the millennium, while the righteous dead, raised at the first resurrection (20:5–6, \"the first resurrection\"), are \"blessed and holy,\" over whom \"the second death hath no power.\"",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The end of the millennium and the great white throne",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "At the close of the thousand years, Satan is \"loosed a little season\" (20:3, 7) as the wicked are raised in the second resurrection and the Holy City, with Christ and the redeemed, descends to the earth (cf. 21:2, 10) — Satan, finding himself with a vast host once more to deceive, musters \"Gog and Magog\" to \"compass the camp of the saints about\" (20:7–9), the final siege of the New Jerusalem, decisively ended when \"fire came down from God out of heaven, and devoured them\" (20:9).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 2,
+              "text": "This conflagration is the lake of fire of the final judgment (20:10, 14–15), in which death, hell (the grave), and all whose names are not in the book of life are consumed — understood by Seventh-day Adventists, consistent with the doctrine of conditional immortality, as entire, final destruction (Mal. 4:1, 3; 2 Thess. 1:9; Rev. 20:14, \"the second death\"), not unending conscious torment — the cleansing of the universe from sin and its results, after which \"there was found no place\" even \"for them\" (20:11), and all creation returns to harmony under God.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The great controversy is ended. Sin and sinners are no more. The entire universe is clean....One pulse of harmony and gladness beats through the vast creation.\" The Great Controversy, p. 678."
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIII",
+      "roman": "XIII",
+      "title": "THE NEW HEAVEN AND THE NEW EARTH (21:1–22:21)",
+      "subsections": [
+        {
+          "letter": "A",
+          "title": "All things made new",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "\"I saw a new heaven and a new earth: for the first heaven and the first earth were passed away\" (21:1), and \"the holy city, new Jerusalem,\" descends \"out of heaven from God, prepared as a bride adorned for her husband\" (21:2) — the controversy, begun in Eden with the entrance of sin, closes with the restoration it had always moved toward: \"the tabernacle of God is with men, and he will dwell with them...and God himself shall be with them, and be their God\" (21:3) — the ultimate fulfillment of the sanctuary's central purpose, first declared at Sinai (Ex. 25:8).",
+              "highYield": false,
+              "subpoints": []
+            },
+            {
+              "n": 1,
+              "text": "\"God shall wipe away all tears from their eyes; and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain: for the former things are passed away\" (21:4) — the full and final undoing of the curse of Genesis 3.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        },
+        {
+          "letter": "B",
+          "title": "The New Jerusalem and the tree of life",
+          "highYield": false,
+          "points": [
+            {
+              "n": 1,
+              "text": "The city is described in detail — its wall, gates (named for the twelve tribes), foundations (named for the twelve apostles), its measurements, its construction of gold, jasper, and precious stones (21:9–21) — language drawing deliberately on the earthly sanctuary and its materials, now the dwelling place of God made permanent and universal rather than typical and temporary. There is \"no temple therein: for the Lord God Almighty and the Lamb are the temple of it\" (21:22) — the sanctuary system, having accomplished its purpose, gives way to unmediated fellowship with God. \"In the midst of the street of it, and on either side of the river, was there the tree of life\"...and \"the leaves of the tree were for the healing of the nations\" (22:1–2); \"there shall be no more curse\" (22:3) — access to the tree of life, barred since Eden (Gen. 3:22–24), is restored.",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": "\"The great controversy is ended....Says the beloved John: 'I saw a new heaven and a new earth: for the first heaven and the first earth were passed away.'\" The Great Controversy, pp. 674, 678."
+        },
+        {
+          "letter": "C",
+          "title": "The epilogue: \"Surely I come quickly\"",
+          "highYield": true,
+          "points": [
+            {
+              "n": 1,
+              "text": "The book closes as it began, centered on the nearness and certainty of Christ's return: \"Behold, I come quickly: blessed is he that keepeth the sayings of the prophecy of this book\" (22:7); a solemn warning against adding to or taking from \"the words of the book of this prophecy\" (22:18–19); and the final invitation and promise that frame the whole of Scripture's closing word: \"The Spirit and the bride say, Come...And let him that is athirst come. And whosoever will, let him take the water of life freely\" (22:17), and \"Surely I come quickly. Amen. Even so, come, Lord Jesus\" (22:20).",
+              "highYield": false,
+              "subpoints": []
+            }
+          ],
+          "commentary": null
+        }
+      ],
+      "points": []
+    },
+    {
+      "id": "XIV",
+      "roman": "XIV",
+      "title": "TYPE AND ANTITYPE IN REVELATION",
+      "subsections": [],
+      "points": []
+    },
+    {
+      "id": "XV",
+      "roman": "XV",
+      "title": "DOCTRINES ESTABLISHED IN REVELATION",
+      "subsections": [],
+      "points": []
+    }
+  ],
+  "types": [
+    {
+      "type": "The Passover lamb (implied, Rev. 5:6, \"a Lamb as it had been slain\")",
+      "antitype": "Christ, slain yet living, the ground of all worship in heaven",
+      "scripture": "Ex. 12:1–13; John 1:29; 1 Cor. 5:7"
+    },
+    {
+      "type": "The sanctuary and its services",
+      "antitype": "The heavenly sanctuary opened in vision; the ark revealed at the sounding of the seventh trumpet",
+      "scripture": "Ex. 25:8–9; Rev. 11:19; Heb. 8:1–2"
+    },
+    {
+      "type": "The Day of Atonement cleansing of the sanctuary",
+      "antitype": "The pre-Advent investigative judgment beginning in 1844 (\"the hour of his judgment is come\")",
+      "scripture": "Lev. 16; Dan. 8:14; Rev. 14:7"
+    },
+    {
+      "type": "The manna, bread from heaven",
+      "antitype": "The hidden manna promised to the overcomer at Pergamos",
+      "scripture": "Ex. 16:4, 15; Rev. 2:17"
+    },
+    {
+      "type": "The twelve tribes of Israel",
+      "antitype": "The 144,000 sealed from every tribe",
+      "scripture": "Num. 1:1–46; Rev. 7:4–8"
+    },
+    {
+      "type": "Egypt and its plagues",
+      "antitype": "Spiritual \"Egypt\" where the two witnesses lie dead; the seven last plagues",
+      "scripture": "Ex. 7–12; Rev. 11:8; 16:1–21"
+    },
+    {
+      "type": "The Red Sea deliverance and the Song of Moses",
+      "antitype": "The sea of glass and the Song of Moses and the Lamb sung by the victorious saints",
+      "scripture": "Ex. 15:1–21; Rev. 15:2–3"
+    },
+    {
+      "type": "The wilderness refuge",
+      "antitype": "The woman's flight into the wilderness for 1,260 days",
+      "scripture": "Ex. 16:32; Rev. 12:6, 14"
+    },
+    {
+      "type": "Mount Sinai and the giving of the law",
+      "antitype": "Mount Sion, where the 144,000 stand with the Lamb, keeping God's commandments",
+      "scripture": "Ex. 19:1–20:17; Rev. 14:1, 12"
+    },
+    {
+      "type": "The Babylonian captivity and Babylon's judgment (Isaiah/Jeremiah typology)",
+      "antitype": "Spiritual Babylon, fallen, and the call \"Come out of her, my people\"",
+      "scripture": "Jer. 51:6–9; Isa. 21:9; Rev. 18:2, 4"
+    },
+    {
+      "type": "The Davidic kingdom and the Messianic King",
+      "antitype": "The Rider on the white horse, King of kings and Lord of lords",
+      "scripture": "2 Sam. 7:12–16; Rev. 19:11–16"
+    },
+    {
+      "type": "Eden and the tree of life",
+      "antitype": "The restored tree of life in the New Jerusalem, access regained",
+      "scripture": "Gen. 2:9; 3:22–24; Rev. 22:2, 14"
+    },
+    {
+      "type": "The city of Jerusalem and the temple",
+      "antitype": "The New Jerusalem descending from God, with God Himself as its temple",
+      "scripture": "1 Kings 8:10–11; Rev. 21:2, 22"
+    },
+    {
+      "type": "The marriage covenant of Israel to the LORD",
+      "antitype": "The marriage of the Lamb to His bride, the redeemed church",
+      "scripture": "Hos. 2:19–20; Rev. 19:7–9"
+    },
+    {
+      "type": "The scapegoat, bearing sin away (Lev. 16:20–22)",
+      "antitype": "Satan bound and ultimately destroyed, bearing final responsibility for sin",
+      "scripture": "Lev. 16:21–22; Rev. 20:1–3, 10"
+    },
+    {
+      "type": "The river of life from Eden/Ezekiel's temple",
+      "antitype": "The pure river of water of life proceeding from the throne of God and the Lamb",
+      "scripture": "Gen. 2:10; Ezek. 47:1–12; Rev. 22:1"
+    }
+  ],
+  "quiz": [
+    {
+      "id": 1,
+      "prompt": "The book of Revelation describes itself (1:1) as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the apostle John's own vision of the future, independent of Daniel"
+        },
+        {
+          "id": "B",
+          "text": "a revelation of Jesus Christ, given by God to Christ, to show His servants what must shortly come to pass"
+        },
+        {
+          "id": "C",
+          "text": "a purely symbolic poem with no historical fulfillment intended"
+        },
+        {
+          "id": "D",
+          "text": "a sealed book never meant to be understood before the end of time"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The opening verse names the chain of transmission: God gave the revelation to Jesus Christ, who sent and signified it by His angel to His servant John (1:1). It is \"the Revelation of Jesus Christ\" — of Him and from Him — given to show His servants \"things which must shortly come to pass,\" establishing from the outset both the book's divine origin and its historical, unfolding scope."
+    },
+    {
+      "id": 2,
+      "prompt": "The historicist method of prophetic interpretation, followed by Seventh-day Adventists, holds that",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Revelation's symbols were fulfilled entirely in the first century"
+        },
+        {
+          "id": "B",
+          "text": "Revelation's symbols apply only to a brief end-time period still future"
+        },
+        {
+          "id": "C",
+          "text": "prophecy unfolds continuously across history from the prophet's day to the end, on the year-day principle"
+        },
+        {
+          "id": "D",
+          "text": "the time prophecies are purely symbolic numbers with no chronological meaning"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The historicist method, used by the Protestant Reformers and by Seventh-day Adventists, reads the symbols of Daniel and Revelation as spanning the centuries from the prophet's own day to the end of time, with the time prophecies (the \"time, times, and half a time,\" the 1,260 days, the hour-day-month-year) calculated on the year-day principle of Ezekiel 4:6 and Numbers 14:34 — in contrast to preterism, which confines fulfillment to the first century, and futurism, which postpones nearly everything to a brief final period."
+    },
+    {
+      "id": 3,
+      "prompt": "The seven churches of Revelation 2–3 are best understood as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "purely symbolic, with no literal first-century congregations in view"
+        },
+        {
+          "id": "B",
+          "text": "literal first-century churches only, with no further prophetic application"
+        },
+        {
+          "id": "C",
+          "text": "literal congregations that also map seven successive eras of church history"
+        },
+        {
+          "id": "D",
+          "text": "a code for seven future nations"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The seven churches named in 1:11 were literal, existing congregations in the Roman province of Asia, each receiving a message suited to its actual condition — yet their number (seven, the number of completeness) and their sequence of conditions, moving from apostolic purity through compromise, corruption, reformation, revival, and final lukewarmness, has long been understood also to trace the broad sweep of the Christian church's experience across history, ending in Laodicea's picture of the final generation."
+    },
+    {
+      "id": 4,
+      "prompt": "In the vision of Revelation 4–5, the Lamb is found worthy to open the sealed scroll because",
+      "choices": [
+        {
+          "id": "A",
+          "text": "He convened the twenty-four elders in council"
+        },
+        {
+          "id": "B",
+          "text": "He was slain and is the Lion of Judah who has prevailed through the cross"
+        },
+        {
+          "id": "C",
+          "text": "He possessed superior angelic strength"
+        },
+        {
+          "id": "D",
+          "text": "He was the only being present in heaven"
+        }
+      ],
+      "answer": "B",
+      "explanation": "When none is found worthy to open the scroll, John weeps — until an elder announces that \"the Lion of the tribe of Juda...hath prevailed\" (5:5). But what John then sees is \"a Lamb as it had been slain\" (5:6): the Lion's victory is the Lamb's sacrifice. Throughout Revelation, conquest is consistently redefined by the cross — Christ \"prevails\" and is found \"worthy\" precisely because He was slain, not despite it."
+    },
+    {
+      "id": 5,
+      "prompt": "The four horsemen of the first four seals (6:1–8) are understood to depict, in sequence,",
+      "choices": [
+        {
+          "id": "A",
+          "text": "four literal end-time wars in rapid succession"
+        },
+        {
+          "id": "B",
+          "text": "the gospel's pure early triumph, then persecution, spiritual famine, and death"
+        },
+        {
+          "id": "C",
+          "text": "four pagan Roman emperors"
+        },
+        {
+          "id": "D",
+          "text": "the four Gospel writers"
+        }
+      ],
+      "answer": "B",
+      "explanation": "In the standard historicist reading, the white horse (6:1–2) pictures the gospel's pure, triumphant apostolic witness; the red horse (6:3–4) the persecution and internal strife that followed; the black horse (6:5–6), with its famine pricing yet preserved \"oil and wine,\" the spiritual famine of the Word during centuries of corruption, with a faithful remnant preserved; and the pale horse (6:7–8), \"Death\" with \"Hell\" following, the climactic mortality of the era of persecution. The sequence traces the church's declining experience, not a cluster of future wars."
+    },
+    {
+      "id": 6,
+      "prompt": "The sixth seal's cosmic signs (6:12–17) are historically identified with",
+      "choices": [
+        {
+          "id": "A",
+          "text": "events still entirely future"
+        },
+        {
+          "id": "B",
+          "text": "the fall of Jerusalem in A.D. 70"
+        },
+        {
+          "id": "C",
+          "text": "the Lisbon earthquake, the Dark Day of 1780, and the 1833 falling stars"
+        },
+        {
+          "id": "D",
+          "text": "the eruption of Vesuvius"
+        }
+      ],
+      "answer": "C",
+      "explanation": "These three signs — the great earthquake, the darkened sun, the moon as blood, and the falling stars — correspond closely to Christ's own sign-list in Matthew 24:29 and have been understood by Adventists as literally, historically fulfilled: the Lisbon earthquake of 1755, the Dark Day of May 19, 1780 (when the sun was mysteriously obscured over New England), and the spectacular Leonid meteor storm of November 13, 1833 — each treated in its own time as a startling, remembered sign pointing toward the nearness of Christ's return."
+    },
+    {
+      "id": 7,
+      "prompt": "The 144,000 sealed in Revelation 7 are sealed with a seal identified elsewhere as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "circumcision"
+        },
+        {
+          "id": "B",
+          "text": "the seventh-day Sabbath, sign between God and His people"
+        },
+        {
+          "id": "C",
+          "text": "water baptism alone"
+        },
+        {
+          "id": "D",
+          "text": "a literal mark visible to all observers"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Revelation 7:3 speaks of sealing \"the servants of our God in their foreheads.\" Elsewhere Scripture identifies God's \"seal\" explicitly with the Sabbath: \"it is a sign between me and you...that ye may know that I am the LORD that doth sanctify you\" (Ex. 31:13, 17) — a seal, like any legal seal, names the authority (the LORD), the territory (heaven and earth, per the fourth commandment, Ex. 20:11), and the title (sanctifier) of its possessor, making the Sabbath the fitting symbol of this end-time sealing."
+    },
+    {
+      "id": 8,
+      "prompt": "The sixth trumpet's Euphrates judgment (9:13–21), with its symbolic period, was historically applied by Millerite expositors (correctly, in advance) to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the fall of Constantinople"
+        },
+        {
+          "id": "B",
+          "text": "the decline of Ottoman Turkish independence in 1840"
+        },
+        {
+          "id": "C",
+          "text": "the French Revolution"
+        },
+        {
+          "id": "D",
+          "text": "the American Civil War"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Josiah Litch and other Millerite expositors, applying the year-day principle to the \"hour and day and month and year\" of 9:15 together with the earlier \"five months\" of 9:5, calculated in advance that Ottoman Turkish independent power would fall in August 1840 — and when the Turkish sultan did in fact submit his affairs to the protection of the European powers almost precisely on schedule, the fulfillment drew wide public attention to the prophetic movement then studying Daniel and Revelation."
+    },
+    {
+      "id": 9,
+      "prompt": "The \"little book\" eaten by John, sweet then bitter (10:9–10), represents",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Gospel of John"
+        },
+        {
+          "id": "B",
+          "text": "the Millerite study of Daniel's unsealed prophecies, culminating in the bitter disappointment of 1844"
+        },
+        {
+          "id": "C",
+          "text": "the book of Revelation itself"
+        },
+        {
+          "id": "D",
+          "text": "the Jewish Torah"
+        }
+      ],
+      "answer": "B",
+      "explanation": "John is told to eat the little book: sweet in his mouth, bitter in his belly (10:9–10). This dual experience is identified with the Millerite movement's intense, joyful study of Daniel's \"sealed\" prophecies, especially Daniel 8:14, anticipating Christ's soon return (the sweetness) — followed by the crushing disappointment of October 22, 1844, when the expected advent did not occur as pictured (the bitterness), an experience that nonetheless led, as 10:11 foretells, to a renewed worldwide proclamation."
+    },
+    {
+      "id": 10,
+      "prompt": "The seventh trumpet's opening of the heavenly temple and revealing of the ark (11:19) points to",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the destruction of Herod's temple"
+        },
+        {
+          "id": "B",
+          "text": "the beginning of the investigative judgment in the Most Holy Place after 1844"
+        },
+        {
+          "id": "C",
+          "text": "the building of Solomon's temple"
+        },
+        {
+          "id": "D",
+          "text": "nothing of doctrinal significance"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The opening of the heavenly temple \"and there was seen in his temple the ark of his testament\" (11:19) directly parallels the Day of Atonement, when the high priest alone entered the Most Holy Place where the ark stood. Positioned immediately after the Millerite experience of chapter 10, this scene is understood as marking the opening of the Most Holy Place ministry and the beginning of the investigative judgment following 1844 (cf. Dan. 8:14), with its focus on the law of God kept within the ark."
+    },
+    {
+      "id": 11,
+      "prompt": "The woman of Revelation 12, \"clothed with the sun,\" represents",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the nation of Israel exclusively, with no further application"
+        },
+        {
+          "id": "B",
+          "text": "Mary, the mother of Jesus, as an individual"
+        },
+        {
+          "id": "C",
+          "text": "God's true church across the ages"
+        },
+        {
+          "id": "D",
+          "text": "the city of Rome"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Scripture consistently uses a woman as the symbol of a religious body — a pure woman for the true church (cf. Jer. 6:2; 2 Cor. 11:2; Eph. 5:25–27), a harlot for apostasy (cf. ch. 17). The woman of chapter 12, bringing forth the Messiah and later fleeing into the wilderness for 1,260 years to escape the dragon's persecution, represents God's true church across the full sweep of its history, from before Christ's birth through the medieval persecutions and beyond."
+    },
+    {
+      "id": 12,
+      "prompt": "The two identifying marks of the end-time remnant, given in Revelation 12:17, are",
+      "choices": [
+        {
+          "id": "A",
+          "text": "wealth and political influence"
+        },
+        {
+          "id": "B",
+          "text": "keeping the commandments of God and having the testimony of Jesus (the commentary)"
+        },
+        {
+          "id": "C",
+          "text": "miraculous healing powers and visions"
+        },
+        {
+          "id": "D",
+          "text": "rejection of all organized religion"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Revelation 12:17 closes the chapter by defining \"the remnant of her seed\" — those against whom the dragon makes war after failing to destroy the woman herself — as those \"which keep the commandments of God, and have the testimony of Jesus Christ.\" Revelation 19:10 further identifies \"the testimony of Jesus\" as \"the Commentary.\" These twin marks, obedience to God's law and the prophetic gift, recur as the identifying characteristics of God's end-time people throughout the book (cf. 14:12)."
+    },
+    {
+      "id": 13,
+      "prompt": "The sea beast of Revelation 13, receiving the dragon's \"seat\" after a deadly wound later healed, is identified with",
+      "choices": [
+        {
+          "id": "A",
+          "text": "ancient Babylon"
+        },
+        {
+          "id": "B",
+          "text": "the papacy, inheriting pagan Rome's authority, wounded in 1798 and later regaining influence"
+        },
+        {
+          "id": "C",
+          "text": "the nation of Egypt"
+        },
+        {
+          "id": "D",
+          "text": "a yet-unidentified future individual with no historical antecedent"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The sea beast of chapter 13 combines features of Daniel's leopard, bear, and lion (Dan. 7), identifying it with Rome, but the \"seat\" (throne/capital) it receives from the dragon points specifically to papal Rome, which inherited pagan Rome's central authority after the empire's political fall. The \"deadly wound\" that is \"healed\" is applied to the papacy's loss of temporal power in 1798 (when General Berthier took the pope captive) and its subsequent, striking recovery of global influence in the modern era."
+    },
+    {
+      "id": 14,
+      "prompt": "The lamblike, dragon-speaking beast of Revelation 13:11, arising quietly as the first beast received its wound, is identified by Adventist interpreters with",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the Roman Empire"
+        },
+        {
+          "id": "B",
+          "text": "the United States of America"
+        },
+        {
+          "id": "C",
+          "text": "the nation of France"
+        },
+        {
+          "id": "D",
+          "text": "the Ottoman Empire"
+        }
+      ],
+      "answer": "B",
+      "explanation": "The second beast rises \"out of the earth\" (a sparsely settled region, not the crowded \"sea\" of nations) precisely as the first beast receives its wound — matching the late-eighteenth-century emergence of the United States as a new nation founded on civil and religious liberty (\"two horns like a lamb\"). Adventist interpreters hold that this power will eventually speak \"as a dragon,\" using its influence to compel religious observance and so fulfill the beast's coercive program described in the rest of the chapter."
+    },
+    {
+      "id": 15,
+      "prompt": "The mark of the beast (13:16–17), in contrast to the seal of God, is understood to be",
+      "choices": [
+        {
+          "id": "A",
+          "text": "a literal, visible tattoo required by law in every nation today"
+        },
+        {
+          "id": "B",
+          "text": "the enforced observance of a counterfeit day of worship in place of God's Sabbath"
+        },
+        {
+          "id": "C",
+          "text": "a microchip implant"
+        },
+        {
+          "id": "D",
+          "text": "baptism in a particular denomination"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Revelation 7 and 14:1 present God's seal as tied to His authority as Creator and specifically to Sabbath-keeping; the mark of the beast is its counterpart — allegiance, under compulsion, to a humanly instituted substitute day of worship, imposed as the test of loyalty to the beast's authority rather than God's. It is a matter of worship and authority, not a literal barcode or chip, consistent with the chapter's own language of worshiping \"the beast and his image\" (13:15; 14:9)."
+    },
+    {
+      "id": 16,
+      "prompt": "The third angel's message (14:9–12) warns against worship of the beast and his image, and defines the alternative — those who escape — as those who",
+      "choices": [
+        {
+          "id": "A",
+          "text": "perform miracles"
+        },
+        {
+          "id": "B",
+          "text": "belong to a particular ethnic lineage"
+        },
+        {
+          "id": "C",
+          "text": "keep the commandments of God and the faith of Jesus"
+        },
+        {
+          "id": "D",
+          "text": "withdraw from all society"
+        }
+      ],
+      "answer": "C",
+      "explanation": "The third angel's warning (14:9–11) is immediately followed by its positive counterpart, which Revelation 14:12 gives as the very definition of those who are not caught in the warning's judgment: \"Here is the patience of the saints: here are they that keep the commandments of God, and the faith of Jesus.\" This restates, in the context of the final crisis, the same twin marks given for the remnant in 12:17."
+    },
+    {
+      "id": 17,
+      "prompt": "The seven last plagues (chs. 15–16) are poured out",
+      "choices": [
+        {
+          "id": "A",
+          "text": "throughout all of human history continuously"
+        },
+        {
+          "id": "B",
+          "text": "before the close of probation, while mercy is still offered"
+        },
+        {
+          "id": "C",
+          "text": "after human probation has closed and Christ's mediatorial work in the sanctuary is finished"
+        },
+        {
+          "id": "D",
+          "text": "only upon literal Egypt"
+        }
+      ],
+      "answer": "C",
+      "explanation": "Revelation 15:8 states explicitly that \"no man was able to enter into the temple...till the seven plagues of the seven angels were fulfilled\" — signifying that Christ's mediatorial, intercessory work in the heavenly sanctuary has ended before the plagues fall. The plagues are therefore unmixed judgment, falling after every case has been eternally decided, in contrast to earlier judgments (such as the trumpets) that fell while mercy was still being extended."
+    },
+    {
+      "id": 18,
+      "prompt": "Babylon in Revelation 17–18, \"that great city\" drunk with the blood of the saints, represents",
+      "choices": [
+        {
+          "id": "A",
+          "text": "the literal, rebuilt city of ancient Babylon only"
+        },
+        {
+          "id": "B",
+          "text": "apostate religious systems, in contrast to the pure woman/church of chapter 12"
+        },
+        {
+          "id": "C",
+          "text": "the Roman civil government exclusively, with no religious dimension"
+        },
+        {
+          "id": "D",
+          "text": "the nation of Israel in captivity"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Revelation 17:5 names her \"MYSTERY, BABYLON THE GREAT, THE MOTHER OF HARLOTS\" — \"harlot,\" throughout Scripture's prophetic symbolism, designates a religious body that has departed from faithful covenant relationship with God, in deliberate contrast to the pure woman/bride of chapters 12, 19, and 21. Babylon in Revelation is therefore the composite symbol of apostate religious systems, not a literal geopolitical city alone, which is why the call \"Come out of her, my people\" (18:4) is addressed to individuals still within her influence."
+    },
+    {
+      "id": 19,
+      "prompt": "The binding of Satan for a thousand years (20:1–3) is understood by Seventh-day Adventists as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "Satan's literal imprisonment in a physical chain on earth, among living people"
+        },
+        {
+          "id": "B",
+          "text": "Satan confined to a depopulated earth with no one left to tempt, while the righteous reign with Christ in heaven"
+        },
+        {
+          "id": "C",
+          "text": "a purely future event entirely disconnected from the Second Coming"
+        },
+        {
+          "id": "D",
+          "text": "a symbol with no real referent"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Revelation 20:1–3 pictures Satan bound in \"the bottomless pit\" (Gr. abyssos) for a thousand years so that he \"should deceive the nations no more.\" Adventists understand this \"pit\" as the earth itself, left desolate and utterly without human inhabitants after the living wicked are destroyed at Christ's coming (cf. Jer. 4:23–26, echoing the \"without form, and void\" of Genesis 1:2) — Satan is bound not by a literal chain but by circumstance, with no one left on the planet to tempt, while the redeemed reign with Christ in heaven during the thousand years."
+    },
+    {
+      "id": 20,
+      "prompt": "The lake of fire that destroys the wicked at the close of the millennium (20:14–15; cf. Mal. 4:1, 3) is understood, consistent with conditional immortality, as",
+      "choices": [
+        {
+          "id": "A",
+          "text": "an eternal, never-ending state of conscious torment"
+        },
+        {
+          "id": "B",
+          "text": "final, complete destruction — the \"second death\" — rather than unending torment"
+        },
+        {
+          "id": "C",
+          "text": "a symbol with no actual judgment behind it"
+        },
+        {
+          "id": "D",
+          "text": "identical to the fifth seal's altar scene"
+        }
+      ],
+      "answer": "B",
+      "explanation": "Malachi 4:1, 3 describes the wicked destroyed as stubble, \"leaving them neither root nor branch,\" and \"ashes under the soles of your feet\" — the imagery is of complete consumption, not endless burning. Revelation itself calls this the \"second death\" (20:14), a death with no resurrection to follow, consistent with the Adventist doctrine of conditional immortality: the wicked do not possess inherent immortal souls to torment forever, but are finally, completely destroyed, after which sin and its results exist nowhere in the restored universe."
+    }
+  ]
+}
