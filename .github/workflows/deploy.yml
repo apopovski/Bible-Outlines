@@ -25,6 +25,9 @@ jobs:
           cache: npm
       - run: npm ci
       - run: npm run build
+        env:
+          # Project site lives at https://<user>.github.io/Bible-Outlines/
+          VITE_BASE: /Bible-Outlines/
       - uses: actions/upload-pages-artifact@v3
         with:
           path: dist
