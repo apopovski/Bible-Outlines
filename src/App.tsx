@@ -1,4 +1,4 @@
-import { BrowserRouter, Navigate, Route, Routes } from 'react-router-dom'
+import { HashRouter, Navigate, Route, Routes } from 'react-router-dom'
 import { Layout } from './components/Layout'
 import { BookPage } from './pages/BookPage'
 import { HomePage } from './pages/HomePage'
@@ -6,7 +6,7 @@ import { QuizPage } from './pages/QuizPage'
 
 export default function App() {
   return (
-    <BrowserRouter basename="/Bible-Outlines">
+    <HashRouter>
       <Routes>
         <Route element={<Layout />}>
           <Route index element={<HomePage />} />
@@ -15,6 +15,6 @@ export default function App() {
           <Route path="*" element={<Navigate to="/" replace />} />
         </Route>
       </Routes>
-    </BrowserRouter>
+    </HashRouter>
   )
 }
