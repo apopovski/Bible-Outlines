@@ -19,8 +19,7 @@ export function OutlineReader({
         const done = completed.includes(section.id)
         const subs = highYieldOnly
           ? section.subsections.filter(
-              (s) =>
-                s.highYield || s.points.some((p) => p.highYield),
+              (s) => s.highYield || s.points.some((p) => p.highYield),
             )
           : section.subsections
 
@@ -29,21 +28,24 @@ export function OutlineReader({
         }
 
         return (
-          <details key={section.id} className="section-block">
+          <details
+            key={section.id}
+            className={`section-block ${done ? 'is-studied' : ''}`}
+          >
             <summary>
               <span className="section-roman">{section.roman}</span>
               <h3>{section.title}</h3>
-              <button
-                type="button"
-                className={`mark-done ${done ? 'is-done' : ''}`}
-                aria-label={done ? 'Mark section unread' : 'Mark section read'}
-                onClick={(e) => {
-                  e.preventDefault()
-                  onToggleComplete(section.id)
-                }}
-              >
-                {done ? '✓' : ''}
-              </button>
+              <span className="section-expand" aria-hidden="true">
+                <svg viewBox="0 0 24 24" width="18" height="18" fill="none">
+                  <path
+                    d="M6 9l6 6 6-6"
+                    stroke="currentColor"
+                    strokeWidth="2"
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                  />
+                </svg>
+              </span>
             </summary>
             <div className="section-body">
               {subs.map((sub) => {
@@ -94,6 +96,16 @@ export function OutlineReader({
                   </article>
                 )
               })}
+
+              <div className="section-actions">
+                <button
+                  type="button"
+                  className={`mark-studied ${done ? 'is-done' : ''}`}
+                  onClick={() => onToggleComplete(section.id)}
+                >
+                  {done ? 'Studied' : 'Mark as studied'}
+                </button>
+              </div>
             </div>
           </details>
         )

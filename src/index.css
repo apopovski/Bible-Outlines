@@ -709,6 +709,11 @@ img {
   gap: 1rem;
   align-items: center;
   padding: 1.15rem 1.2rem;
+  transition: background 0.3s var(--ease);
+}
+
+.section-block summary:hover {
+  background: rgba(232, 184, 74, 0.05);
 }
 
 .section-block summary::-webkit-details-marker {
@@ -730,26 +735,80 @@ img {
   letter-spacing: -0.02em;
 }
 
-.mark-done {
-  border: 1px solid var(--line-strong);
-  background: transparent;
-  color: var(--mist);
+.section-expand {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
   width: 2rem;
   height: 2rem;
-  border-radius: 999px;
-  cursor: pointer;
-  transition: all 0.3s var(--ease);
+  color: var(--gold);
+  border: 1px solid rgba(232, 184, 74, 0.35);
+  background: rgba(232, 184, 74, 0.08);
+  transition:
+    transform 0.35s var(--ease),
+    background 0.3s var(--ease),
+    border-color 0.3s var(--ease);
 }
 
-.mark-done.is-done {
-  background: rgba(107, 181, 138, 0.2);
-  border-color: var(--ok);
+.section-block summary:hover .section-expand {
+  background: rgba(232, 184, 74, 0.16);
+  border-color: var(--gold);
+}
+
+.section-block[open] .section-expand {
+  transform: rotate(180deg);
+  background: rgba(232, 184, 74, 0.18);
+  border-color: var(--gold);
+}
+
+.section-block.is-studied summary h3::after {
+  content: 'Studied';
+  margin-left: 0.65rem;
+  font-family: var(--font-body);
+  font-size: 0.68rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
   color: var(--ok);
+  vertical-align: middle;
 }
 
 .section-body {
   padding: 0 1.2rem 1.4rem;
   border-top: 1px solid var(--line);
+}
+
+.section-actions {
+  display: flex;
+  justify-content: flex-end;
+  padding-top: 0.85rem;
+  margin-top: 0.35rem;
+  border-top: 1px solid var(--line);
+}
+
+.mark-studied {
+  border: 1px solid var(--line-strong);
+  background: transparent;
+  color: var(--mist);
+  padding: 0.55rem 0.9rem;
+  cursor: pointer;
+  font-size: 0.85rem;
+  letter-spacing: 0.02em;
+  transition:
+    color 0.3s var(--ease),
+    border-color 0.3s var(--ease),
+    background 0.3s var(--ease);
+}
+
+.mark-studied:hover {
+  color: var(--paper);
+  border-color: var(--gold);
+}
+
+.mark-studied.is-done {
+  background: rgba(107, 181, 138, 0.16);
+  border-color: var(--ok);
+  color: var(--ok);
 }
 
 .subsection {
@@ -1070,11 +1129,13 @@ img {
   }
 
   .section-block summary {
-    grid-template-columns: auto 1fr;
+    grid-template-columns: auto 1fr auto;
+    gap: 0.75rem;
   }
 
-  .mark-done {
-    grid-column: 2;
-    justify-self: start;
+  .section-block.is-studied summary h3::after {
+    display: block;
+    margin-left: 0;
+    margin-top: 0.25rem;
   }
 }
